@@ -38,7 +38,7 @@ npm run build
 
 1. Create a Firebase web app, enable Google as an Authentication sign-in provider, and add the GitHub Pages domain to Firebase Authentication's authorized domains.
 2. Copy `.env.example` to `.env` and fill in the Firebase web configuration values. Vite exposes only variables prefixed with `VITE_`; this configuration is public by design and is protected by Firestore Security Rules.
-3. Deploy [firestore.rules](C:/Users/VictorMonteiroDeArau/Documents/ChatGPT/JP%20app/firestore.rules) with the Firebase CLI or Console before using the app. The rules allow only an authenticated user to access `users/{uid}/**` for their own UID; all other client access, including curriculum/admin writes, is denied.
+3. Deploy [firestore.rules](firestore.rules) with the Firebase CLI or Console before using the app. The rules allow only an authenticated user to access `users/{uid}/**` for their own UID; all other client access, including curriculum/admin writes, is denied.
 
 The app creates `users/{uid}` at the first successful authenticated session. Future private settings, progress, sessions, and lesson-progress data belong below that document.
 
