@@ -42,6 +42,27 @@ npm run build
 
 The app creates `users/{uid}` at the first successful authenticated session. Future private settings, progress, sessions, and lesson-progress data belong below that document.
 
+### Sign-in fails with 400 CONFIGURATION_NOT_FOUND
+
+A `getProjectConfig` request answering `400 CONFIGURATION_NOT_FOUND` means the API key itself is fine but the project behind it has no Authentication configuration, so the browser cannot repair it. Confirm the state of the project with:
+
+```sh
+npm run firebase:doctor
+```
+
+The check replaces the API key with a masked value and reports whether the project is provisioned (listing the authorized domains it returned), has no Authentication configuration, or holds an invalid key. The same request can be made by hand:
+
+```sh
+curl "https://www.googleapis.com/identitytoolkit/v3/relyingparty/getProjectConfig?key=$VITE_FIREBASE_API_KEY"
+```
+
+- `CONFIGURATION_NOT_FOUND` — open Authentication in the Firebase console, choose **Get started**, enable **Google** under **Sign-in method**, then add the site host (for example `vickmaspc.github.io` and, for local work, `localhost`) under **Settings → Authorized domains**.
+- `API key not valid` — the `.env` values do not belong to a live project; copy the current web app values from **Project settings → Your apps** into `.env`.
+
+The other sign-in failures have their own causes: an unauthorized domain needs the host added to the authorized domains list, and `auth/operation-not-allowed` means the Google provider is still disabled.
+
+Vite inlines this configuration at build time, so editing `.env` only takes effect after `npm run build` and republishing `docs/`. A page that still logs the older `…/identitytoolkit/v3/relyingparty/getProjectConfig` request from `iframe.js` is running a cached or stale bundle rather than the current build; redeploy and hard-reload before re-testing.
+
 ## Curriculum content
 
 Seed content is stored under `content/`, entirely separate from UI code. Validate it with:
