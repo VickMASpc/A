@@ -2,7 +2,8 @@ import js from '@eslint/js';
 import globals from 'globals';
 
 export default [
-  { ignores: ['dist/', 'node_modules/'] },
+  // `docs/` holds the committed GitHub Pages build output, so it is generated code like `dist/`.
+  { ignores: ['dist/', 'docs/', 'node_modules/'] },
   js.configs.recommended,
   {
     files: ['**/*.js'],
