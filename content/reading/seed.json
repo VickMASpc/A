@@ -1,0 +1,2855 @@
+{
+  "items": [
+    {
+      "id": "reading-introduction",
+      "type": "reading",
+      "title": "A first introduction",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "n5-basics"
+      ],
+      "prerequisites": [
+        "grammar-wa",
+        "grammar-desu"
+      ],
+      "revision": 5,
+      "unitId": "unit-n5-basics",
+      "lessonId": "lesson-first-words",
+      "text": "私は学生です。名前は田中です。",
+      "segments": [
+        {
+          "japanese": "私は学生です。",
+          "translation": "I am a student.",
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし",
+              "itemId": "vocab-watashi"
+            },
+            {
+              "text": "学生",
+              "reading": "がくせい",
+              "itemId": "vocab-gakusei"
+            }
+          ]
+        },
+        {
+          "japanese": "名前は田中です。",
+          "translation": "My name is Tanaka.",
+          "ruby": [
+            {
+              "text": "名前",
+              "reading": "なまえ",
+              "itemId": "vocab-namae"
+            },
+            {
+              "text": "田中",
+              "reading": "たなか"
+            }
+          ]
+        }
+      ],
+      "translation": "I am a student. My name is Tanaka.",
+      "vocabularyRefs": [
+        "vocab-watashi",
+        "vocab-gakusei",
+        "vocab-namae"
+      ],
+      "grammarRefs": [
+        "grammar-wa",
+        "grammar-desu"
+      ],
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "Who is a student?",
+          "answer": "The speaker."
+        },
+        {
+          "id": "introduction-q2",
+          "prompt": "What is the speaker’s name?",
+          "answer": "Tanaka."
+        }
+      ],
+      "ruby": [
+        {
+          "text": "私",
+          "reading": "わたし",
+          "itemId": "vocab-watashi"
+        },
+        {
+          "text": "学生",
+          "reading": "がくせい",
+          "itemId": "vocab-gakusei"
+        },
+        {
+          "text": "名前",
+          "reading": "なまえ",
+          "itemId": "vocab-namae"
+        },
+        {
+          "text": "田中",
+          "reading": "たなか"
+        }
+      ],
+      "audio": {
+        "src": "audio/reading-introduction.wav",
+        "kind": "synthesized",
+        "transcript": "私は学生です。名前は田中です。",
+        "ruby": [
+          {
+            "text": "私",
+            "reading": "わたし",
+            "itemId": "vocab-watashi"
+          },
+          {
+            "text": "学生",
+            "reading": "がくせい",
+            "itemId": "vocab-gakusei"
+          },
+          {
+            "text": "名前",
+            "reading": "なまえ",
+            "itemId": "vocab-namae"
+          },
+          {
+            "text": "田中",
+            "reading": "たなか"
+          }
+        ],
+        "speechText": "わたしはがくせいです。なまえはたなかです。",
+        "voice": "Microsoft Haruka Desktop (ja-JP)"
+      }
+    },
+    {
+      "id": "reading-books-and-friends",
+      "type": "reading",
+      "title": "Two friends and their books",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "n5-basics"
+      ],
+      "prerequisites": [
+        "grammar-wa",
+        "grammar-desu",
+        "grammar-no"
+      ],
+      "revision": 5,
+      "unitId": "unit-n5-basics",
+      "lessonId": "lesson-whose-book",
+      "text": "私は学生です。田中さんは私の友達です。田中さんは会社員です。田中さんの本は日本語の本です。",
+      "segments": [
+        {
+          "japanese": "私は学生です。",
+          "translation": "I am a student.",
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし",
+              "itemId": "vocab-watashi"
+            },
+            {
+              "text": "学生",
+              "reading": "がくせい",
+              "itemId": "vocab-gakusei"
+            }
+          ]
+        },
+        {
+          "japanese": "田中さんは私の友達です。",
+          "translation": "Tanaka is my friend.",
+          "ruby": [
+            {
+              "text": "田中",
+              "reading": "たなか"
+            },
+            {
+              "text": "私",
+              "reading": "わたし",
+              "itemId": "vocab-watashi"
+            },
+            {
+              "text": "友達",
+              "reading": "ともだち",
+              "itemId": "vocab-tomodachi"
+            }
+          ]
+        },
+        {
+          "japanese": "田中さんは会社員です。",
+          "translation": "Tanaka is a company employee.",
+          "ruby": [
+            {
+              "text": "田中",
+              "reading": "たなか"
+            },
+            {
+              "text": "会社員",
+              "reading": "かいしゃいん",
+              "itemId": "vocab-kaishain"
+            }
+          ]
+        },
+        {
+          "japanese": "田中さんの本は日本語の本です。",
+          "translation": "Tanaka’s book is a Japanese-language book.",
+          "ruby": [
+            {
+              "text": "田中",
+              "reading": "たなか"
+            },
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            },
+            {
+              "text": "日本語",
+              "reading": "にほんご",
+              "itemId": "vocab-nihongo"
+            },
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            }
+          ]
+        }
+      ],
+      "translation": "I am a student. Tanaka is my friend. Tanaka is a company employee. Tanaka’s book is a Japanese-language book.",
+      "vocabularyRefs": [
+        "vocab-watashi",
+        "vocab-gakusei",
+        "vocab-san",
+        "vocab-tomodachi",
+        "vocab-kaishain",
+        "vocab-hon",
+        "vocab-nihongo"
+      ],
+      "grammarRefs": [
+        "grammar-wa",
+        "grammar-desu",
+        "grammar-no"
+      ],
+      "questions": [
+        {
+          "id": "books-and-friends-q1",
+          "prompt": "田中さんは学生ですか。",
+          "answer": "いいえ、会社員です。"
+        },
+        {
+          "id": "books-and-friends-q2",
+          "prompt": "田中さんの本は何の本ですか。",
+          "answer": "日本語の本です。"
+        }
+      ],
+      "ruby": [
+        {
+          "text": "私",
+          "reading": "わたし",
+          "itemId": "vocab-watashi"
+        },
+        {
+          "text": "学生",
+          "reading": "がくせい",
+          "itemId": "vocab-gakusei"
+        },
+        {
+          "text": "田中",
+          "reading": "たなか"
+        },
+        {
+          "text": "私",
+          "reading": "わたし",
+          "itemId": "vocab-watashi"
+        },
+        {
+          "text": "友達",
+          "reading": "ともだち",
+          "itemId": "vocab-tomodachi"
+        },
+        {
+          "text": "田中",
+          "reading": "たなか"
+        },
+        {
+          "text": "会社員",
+          "reading": "かいしゃいん",
+          "itemId": "vocab-kaishain"
+        },
+        {
+          "text": "田中",
+          "reading": "たなか"
+        },
+        {
+          "text": "本",
+          "reading": "ほん",
+          "itemId": "vocab-hon"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご",
+          "itemId": "vocab-nihongo"
+        },
+        {
+          "text": "本",
+          "reading": "ほん",
+          "itemId": "vocab-hon"
+        }
+      ],
+      "audio": {
+        "src": "audio/reading-books-and-friends.wav",
+        "kind": "synthesized",
+        "transcript": "私は学生です。田中さんは私の友達です。田中さんは会社員です。田中さんの本は日本語の本です。",
+        "ruby": [
+          {
+            "text": "私",
+            "reading": "わたし",
+            "itemId": "vocab-watashi"
+          },
+          {
+            "text": "学生",
+            "reading": "がくせい",
+            "itemId": "vocab-gakusei"
+          },
+          {
+            "text": "田中",
+            "reading": "たなか"
+          },
+          {
+            "text": "私",
+            "reading": "わたし",
+            "itemId": "vocab-watashi"
+          },
+          {
+            "text": "友達",
+            "reading": "ともだち",
+            "itemId": "vocab-tomodachi"
+          },
+          {
+            "text": "田中",
+            "reading": "たなか"
+          },
+          {
+            "text": "会社員",
+            "reading": "かいしゃいん",
+            "itemId": "vocab-kaishain"
+          },
+          {
+            "text": "田中",
+            "reading": "たなか"
+          },
+          {
+            "text": "本",
+            "reading": "ほん",
+            "itemId": "vocab-hon"
+          },
+          {
+            "text": "日本語",
+            "reading": "にほんご",
+            "itemId": "vocab-nihongo"
+          },
+          {
+            "text": "本",
+            "reading": "ほん",
+            "itemId": "vocab-hon"
+          }
+        ],
+        "speechText": "わたしはがくせいです。たなかさんはわたしのともだちです。たなかさんはかいしゃいんです。たなかさんのほんはにほんごのほんです。",
+        "voice": "Microsoft Haruka Desktop (ja-JP)"
+      }
+    },
+    {
+      "id": "reading-notebook",
+      "type": "reading",
+      "title": "Which notebook?",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "things-and-places"
+      ],
+      "prerequisites": [
+        "grammar-wa",
+        "grammar-desu",
+        "grammar-no",
+        "grammar-mo",
+        "grammar-kono-series",
+        "grammar-kore-series"
+      ],
+      "revision": 5,
+      "unitId": "unit-things-and-places",
+      "lessonId": "lesson-choosing-things",
+      "text": "これは私のノートです。このノートは日本語のノートです。田中さんのノートも日本語のノートです。あの人は田中さんです。",
+      "segments": [
+        {
+          "japanese": "これは私のノートです。",
+          "translation": "This is my notebook.",
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし",
+              "itemId": "vocab-watashi"
+            }
+          ]
+        },
+        {
+          "japanese": "このノートは日本語のノートです。",
+          "translation": "This notebook is a Japanese-language notebook.",
+          "ruby": [
+            {
+              "text": "日本語",
+              "reading": "にほんご",
+              "itemId": "vocab-nihongo"
+            }
+          ]
+        },
+        {
+          "japanese": "田中さんのノートも日本語のノートです。",
+          "translation": "Tanaka’s notebook is also a Japanese-language notebook.",
+          "ruby": [
+            {
+              "text": "田中",
+              "reading": "たなか"
+            },
+            {
+              "text": "日本語",
+              "reading": "にほんご",
+              "itemId": "vocab-nihongo"
+            }
+          ]
+        },
+        {
+          "japanese": "あの人は田中さんです。",
+          "translation": "That person over there is Tanaka.",
+          "ruby": [
+            {
+              "text": "人",
+              "reading": "ひと",
+              "itemId": "vocab-hito"
+            },
+            {
+              "text": "田中",
+              "reading": "たなか"
+            }
+          ]
+        }
+      ],
+      "translation": "This is my notebook. This notebook is a Japanese-language notebook. Tanaka’s notebook is also a Japanese-language notebook. That person over there is Tanaka.",
+      "vocabularyRefs": [
+        "vocab-kore",
+        "vocab-watashi",
+        "vocab-notebook",
+        "vocab-kono",
+        "vocab-nihongo",
+        "vocab-san",
+        "vocab-ano",
+        "vocab-hito"
+      ],
+      "grammarRefs": [
+        "grammar-wa",
+        "grammar-desu",
+        "grammar-no",
+        "grammar-mo",
+        "grammar-kono-series",
+        "grammar-kore-series"
+      ],
+      "questions": [
+        {
+          "id": "notebook-q1",
+          "prompt": "このノートはだれのノートですか。",
+          "answer": "私のノートです。"
+        },
+        {
+          "id": "notebook-q2",
+          "prompt": "あの人はだれですか。",
+          "answer": "田中さんです。"
+        }
+      ],
+      "ruby": [
+        {
+          "text": "私",
+          "reading": "わたし",
+          "itemId": "vocab-watashi"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご",
+          "itemId": "vocab-nihongo"
+        },
+        {
+          "text": "田中",
+          "reading": "たなか"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご",
+          "itemId": "vocab-nihongo"
+        },
+        {
+          "text": "人",
+          "reading": "ひと",
+          "itemId": "vocab-hito"
+        },
+        {
+          "text": "田中",
+          "reading": "たなか"
+        }
+      ],
+      "audio": {
+        "src": "audio/reading-notebook.wav",
+        "kind": "synthesized",
+        "transcript": "これは私のノートです。このノートは日本語のノートです。田中さんのノートも日本語のノートです。あの人は田中さんです。",
+        "ruby": [
+          {
+            "text": "私",
+            "reading": "わたし",
+            "itemId": "vocab-watashi"
+          },
+          {
+            "text": "日本語",
+            "reading": "にほんご",
+            "itemId": "vocab-nihongo"
+          },
+          {
+            "text": "田中",
+            "reading": "たなか"
+          },
+          {
+            "text": "日本語",
+            "reading": "にほんご",
+            "itemId": "vocab-nihongo"
+          },
+          {
+            "text": "人",
+            "reading": "ひと",
+            "itemId": "vocab-hito"
+          },
+          {
+            "text": "田中",
+            "reading": "たなか"
+          }
+        ],
+        "speechText": "これはわたしのノートです。このノートはにほんごのノートです。たなかさんのノートもにほんごのノートです。あのひとはたなかさんです。",
+        "voice": "Microsoft Haruka Desktop (ja-JP)"
+      }
+    },
+    {
+      "id": "reading-school-map",
+      "type": "reading",
+      "title": "A small school map",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "things-and-places"
+      ],
+      "prerequisites": [
+        "grammar-wa",
+        "grammar-desu",
+        "grammar-no",
+        "grammar-place-words"
+      ],
+      "revision": 5,
+      "unitId": "unit-things-and-places",
+      "lessonId": "lesson-places",
+      "text": "ここは私の学校です。あそこは学校の図書館です。そこは食堂です。田中さんは学校の先生です。",
+      "segments": [
+        {
+          "japanese": "ここは私の学校です。",
+          "translation": "This place is my school.",
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし",
+              "itemId": "vocab-watashi"
+            },
+            {
+              "text": "学校",
+              "reading": "がっこう",
+              "itemId": "vocab-gakkou"
+            }
+          ]
+        },
+        {
+          "japanese": "あそこは学校の図書館です。",
+          "translation": "That place over there is the school library.",
+          "ruby": [
+            {
+              "text": "学校",
+              "reading": "がっこう",
+              "itemId": "vocab-gakkou"
+            },
+            {
+              "text": "図書館",
+              "reading": "としょかん",
+              "itemId": "vocab-toshokan"
+            }
+          ]
+        },
+        {
+          "japanese": "そこは食堂です。",
+          "translation": "That place is the cafeteria.",
+          "ruby": [
+            {
+              "text": "食堂",
+              "reading": "しょくどう",
+              "itemId": "vocab-shokudou"
+            }
+          ]
+        },
+        {
+          "japanese": "田中さんは学校の先生です。",
+          "translation": "Tanaka is a teacher at the school.",
+          "ruby": [
+            {
+              "text": "田中",
+              "reading": "たなか"
+            },
+            {
+              "text": "学校",
+              "reading": "がっこう",
+              "itemId": "vocab-gakkou"
+            },
+            {
+              "text": "先生",
+              "reading": "せんせい",
+              "itemId": "vocab-sensei"
+            }
+          ]
+        }
+      ],
+      "translation": "This place is my school. That place over there is the school library. That place is the cafeteria. Tanaka is a teacher at the school.",
+      "vocabularyRefs": [
+        "vocab-koko",
+        "vocab-watashi",
+        "vocab-gakkou",
+        "vocab-asoko",
+        "vocab-toshokan",
+        "vocab-soko",
+        "vocab-shokudou",
+        "vocab-san",
+        "vocab-sensei"
+      ],
+      "grammarRefs": [
+        "grammar-wa",
+        "grammar-desu",
+        "grammar-no",
+        "grammar-place-words"
+      ],
+      "questions": [
+        {
+          "id": "school-map-q1",
+          "prompt": "図書館はどこですか。",
+          "answer": "あそこです。"
+        },
+        {
+          "id": "school-map-q2",
+          "prompt": "田中さんは先生ですか。",
+          "answer": "はい、先生です。"
+        }
+      ],
+      "ruby": [
+        {
+          "text": "私",
+          "reading": "わたし",
+          "itemId": "vocab-watashi"
+        },
+        {
+          "text": "学校",
+          "reading": "がっこう",
+          "itemId": "vocab-gakkou"
+        },
+        {
+          "text": "学校",
+          "reading": "がっこう",
+          "itemId": "vocab-gakkou"
+        },
+        {
+          "text": "図書館",
+          "reading": "としょかん",
+          "itemId": "vocab-toshokan"
+        },
+        {
+          "text": "食堂",
+          "reading": "しょくどう",
+          "itemId": "vocab-shokudou"
+        },
+        {
+          "text": "田中",
+          "reading": "たなか"
+        },
+        {
+          "text": "学校",
+          "reading": "がっこう",
+          "itemId": "vocab-gakkou"
+        },
+        {
+          "text": "先生",
+          "reading": "せんせい",
+          "itemId": "vocab-sensei"
+        }
+      ],
+      "audio": {
+        "src": "audio/reading-school-map.wav",
+        "kind": "synthesized",
+        "transcript": "ここは私の学校です。あそこは学校の図書館です。そこは食堂です。田中さんは学校の先生です。",
+        "ruby": [
+          {
+            "text": "私",
+            "reading": "わたし",
+            "itemId": "vocab-watashi"
+          },
+          {
+            "text": "学校",
+            "reading": "がっこう",
+            "itemId": "vocab-gakkou"
+          },
+          {
+            "text": "学校",
+            "reading": "がっこう",
+            "itemId": "vocab-gakkou"
+          },
+          {
+            "text": "図書館",
+            "reading": "としょかん",
+            "itemId": "vocab-toshokan"
+          },
+          {
+            "text": "食堂",
+            "reading": "しょくどう",
+            "itemId": "vocab-shokudou"
+          },
+          {
+            "text": "田中",
+            "reading": "たなか"
+          },
+          {
+            "text": "学校",
+            "reading": "がっこう",
+            "itemId": "vocab-gakkou"
+          },
+          {
+            "text": "先生",
+            "reading": "せんせい",
+            "itemId": "vocab-sensei"
+          }
+        ],
+        "speechText": "ここはわたしのがっこうです。あそこはがっこうのとしょかんです。そこはしょくどうです。たなかさんはがっこうのせんせいです。",
+        "voice": "Microsoft Haruka Desktop (ja-JP)"
+      }
+    },
+    {
+      "id": "reading-shop-clock",
+      "type": "reading",
+      "title": "A price and a clock",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [
+        "grammar-wa",
+        "grammar-desu",
+        "grammar-no",
+        "grammar-prices",
+        "grammar-clock"
+      ],
+      "revision": 5,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-clock-time",
+      "text": "この本は日本語の本です。この本は千円です。このパンは百円です。今は午後四時半です。",
+      "segments": [
+        {
+          "japanese": "この本は日本語の本です。",
+          "translation": "This book is a Japanese-language book.",
+          "ruby": [
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            },
+            {
+              "text": "日本語",
+              "reading": "にほんご",
+              "itemId": "vocab-nihongo"
+            },
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            }
+          ]
+        },
+        {
+          "japanese": "この本は千円です。",
+          "translation": "This book costs one thousand yen.",
+          "ruby": [
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            },
+            {
+              "text": "千",
+              "reading": "せん",
+              "itemId": "vocab-sen"
+            },
+            {
+              "text": "円",
+              "reading": "えん",
+              "itemId": "vocab-en"
+            }
+          ]
+        },
+        {
+          "japanese": "このパンは百円です。",
+          "translation": "This bread costs one hundred yen.",
+          "ruby": [
+            {
+              "text": "百",
+              "reading": "ひゃく",
+              "itemId": "vocab-hyaku"
+            },
+            {
+              "text": "円",
+              "reading": "えん",
+              "itemId": "vocab-en"
+            }
+          ]
+        },
+        {
+          "japanese": "今は午後四時半です。",
+          "translation": "It is half past four p.m. now.",
+          "ruby": [
+            {
+              "text": "今",
+              "reading": "いま",
+              "itemId": "vocab-ima"
+            },
+            {
+              "text": "午後",
+              "reading": "ごご",
+              "itemId": "vocab-gogo"
+            },
+            {
+              "text": "四時",
+              "reading": "よじ",
+              "itemId": "vocab-ji"
+            },
+            {
+              "text": "半",
+              "reading": "はん",
+              "itemId": "vocab-han"
+            }
+          ]
+        }
+      ],
+      "translation": "This book is a Japanese-language book. This book costs one thousand yen. This bread costs one hundred yen. It is half past four p.m. now.",
+      "vocabularyRefs": [
+        "vocab-kono",
+        "vocab-hon",
+        "vocab-nihongo",
+        "vocab-sen",
+        "vocab-en",
+        "vocab-pan",
+        "vocab-hyaku",
+        "vocab-ima",
+        "vocab-gogo",
+        "vocab-ji",
+        "vocab-han"
+      ],
+      "grammarRefs": [
+        "grammar-wa",
+        "grammar-desu",
+        "grammar-no",
+        "grammar-prices",
+        "grammar-clock"
+      ],
+      "questions": [
+        {
+          "id": "shop-clock-q1",
+          "prompt": "この本はいくらですか。",
+          "answer": "千円です。"
+        },
+        {
+          "id": "shop-clock-q2",
+          "prompt": "今は何時ですか。",
+          "answer": "午後四時半です。"
+        }
+      ],
+      "ruby": [
+        {
+          "text": "本",
+          "reading": "ほん",
+          "itemId": "vocab-hon"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご",
+          "itemId": "vocab-nihongo"
+        },
+        {
+          "text": "本",
+          "reading": "ほん",
+          "itemId": "vocab-hon"
+        },
+        {
+          "text": "本",
+          "reading": "ほん",
+          "itemId": "vocab-hon"
+        },
+        {
+          "text": "千",
+          "reading": "せん",
+          "itemId": "vocab-sen"
+        },
+        {
+          "text": "円",
+          "reading": "えん",
+          "itemId": "vocab-en"
+        },
+        {
+          "text": "百",
+          "reading": "ひゃく",
+          "itemId": "vocab-hyaku"
+        },
+        {
+          "text": "円",
+          "reading": "えん",
+          "itemId": "vocab-en"
+        },
+        {
+          "text": "今",
+          "reading": "いま",
+          "itemId": "vocab-ima"
+        },
+        {
+          "text": "午後",
+          "reading": "ごご",
+          "itemId": "vocab-gogo"
+        },
+        {
+          "text": "四時",
+          "reading": "よじ",
+          "itemId": "vocab-ji"
+        },
+        {
+          "text": "半",
+          "reading": "はん",
+          "itemId": "vocab-han"
+        }
+      ],
+      "audio": {
+        "src": "audio/reading-shop-clock.wav",
+        "kind": "synthesized",
+        "transcript": "この本は日本語の本です。この本は千円です。このパンは百円です。今は午後四時半です。",
+        "ruby": [
+          {
+            "text": "本",
+            "reading": "ほん",
+            "itemId": "vocab-hon"
+          },
+          {
+            "text": "日本語",
+            "reading": "にほんご",
+            "itemId": "vocab-nihongo"
+          },
+          {
+            "text": "本",
+            "reading": "ほん",
+            "itemId": "vocab-hon"
+          },
+          {
+            "text": "本",
+            "reading": "ほん",
+            "itemId": "vocab-hon"
+          },
+          {
+            "text": "千",
+            "reading": "せん",
+            "itemId": "vocab-sen"
+          },
+          {
+            "text": "円",
+            "reading": "えん",
+            "itemId": "vocab-en"
+          },
+          {
+            "text": "百",
+            "reading": "ひゃく",
+            "itemId": "vocab-hyaku"
+          },
+          {
+            "text": "円",
+            "reading": "えん",
+            "itemId": "vocab-en"
+          },
+          {
+            "text": "今",
+            "reading": "いま",
+            "itemId": "vocab-ima"
+          },
+          {
+            "text": "午後",
+            "reading": "ごご",
+            "itemId": "vocab-gogo"
+          },
+          {
+            "text": "四時",
+            "reading": "よじ",
+            "itemId": "vocab-ji"
+          },
+          {
+            "text": "半",
+            "reading": "はん",
+            "itemId": "vocab-han"
+          }
+        ],
+        "speechText": "このほんはにほんごのほんです。このほんはせんえんです。このパンはひゃくえんです。いまはごごよじはんです。",
+        "voice": "Microsoft Haruka Desktop (ja-JP)"
+      }
+    },
+    {
+      "id": "reading-calendar",
+      "type": "reading",
+      "title": "A page of the calendar",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [
+        "grammar-wa",
+        "grammar-desu",
+        "grammar-dates",
+        "grammar-weekdays"
+      ],
+      "revision": 5,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-dates",
+      "text": "今日は四月一日です。今日は月曜日です。明日は四月二日です。明日は火曜日です。",
+      "segments": [
+        {
+          "japanese": "今日は四月一日です。",
+          "translation": "Today is April first.",
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう",
+              "itemId": "vocab-kyou"
+            },
+            {
+              "text": "四月",
+              "reading": "しがつ",
+              "itemId": "vocab-shigatsu"
+            },
+            {
+              "text": "一日",
+              "reading": "ついたち",
+              "itemId": "vocab-tsuitachi"
+            }
+          ]
+        },
+        {
+          "japanese": "今日は月曜日です。",
+          "translation": "Today is Monday.",
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう",
+              "itemId": "vocab-kyou"
+            },
+            {
+              "text": "月曜日",
+              "reading": "げつようび",
+              "itemId": "vocab-getsuyoubi"
+            }
+          ]
+        },
+        {
+          "japanese": "明日は四月二日です。",
+          "translation": "Tomorrow is April second.",
+          "ruby": [
+            {
+              "text": "明日",
+              "reading": "あした",
+              "itemId": "vocab-ashita"
+            },
+            {
+              "text": "四月",
+              "reading": "しがつ",
+              "itemId": "vocab-shigatsu"
+            },
+            {
+              "text": "二日",
+              "reading": "ふつか",
+              "itemId": "vocab-futsuka"
+            }
+          ]
+        },
+        {
+          "japanese": "明日は火曜日です。",
+          "translation": "Tomorrow is Tuesday.",
+          "ruby": [
+            {
+              "text": "明日",
+              "reading": "あした",
+              "itemId": "vocab-ashita"
+            },
+            {
+              "text": "火曜日",
+              "reading": "かようび",
+              "itemId": "vocab-kayoubi"
+            }
+          ]
+        }
+      ],
+      "translation": "Today is April first. Today is Monday. Tomorrow is April second. Tomorrow is Tuesday.",
+      "vocabularyRefs": [
+        "vocab-kyou",
+        "vocab-shigatsu",
+        "vocab-tsuitachi",
+        "vocab-getsuyoubi",
+        "vocab-ashita",
+        "vocab-futsuka",
+        "vocab-kayoubi"
+      ],
+      "grammarRefs": [
+        "grammar-wa",
+        "grammar-desu",
+        "grammar-dates",
+        "grammar-weekdays"
+      ],
+      "questions": [
+        {
+          "id": "calendar-q1",
+          "prompt": "今日は何日ですか。",
+          "answer": "四月一日です。"
+        },
+        {
+          "id": "calendar-q2",
+          "prompt": "明日は何曜日ですか。",
+          "answer": "火曜日です。"
+        }
+      ],
+      "ruby": [
+        {
+          "text": "今日",
+          "reading": "きょう",
+          "itemId": "vocab-kyou"
+        },
+        {
+          "text": "四月",
+          "reading": "しがつ",
+          "itemId": "vocab-shigatsu"
+        },
+        {
+          "text": "一日",
+          "reading": "ついたち",
+          "itemId": "vocab-tsuitachi"
+        },
+        {
+          "text": "今日",
+          "reading": "きょう",
+          "itemId": "vocab-kyou"
+        },
+        {
+          "text": "月曜日",
+          "reading": "げつようび",
+          "itemId": "vocab-getsuyoubi"
+        },
+        {
+          "text": "明日",
+          "reading": "あした",
+          "itemId": "vocab-ashita"
+        },
+        {
+          "text": "四月",
+          "reading": "しがつ",
+          "itemId": "vocab-shigatsu"
+        },
+        {
+          "text": "二日",
+          "reading": "ふつか",
+          "itemId": "vocab-futsuka"
+        },
+        {
+          "text": "明日",
+          "reading": "あした",
+          "itemId": "vocab-ashita"
+        },
+        {
+          "text": "火曜日",
+          "reading": "かようび",
+          "itemId": "vocab-kayoubi"
+        }
+      ],
+      "audio": {
+        "src": "audio/reading-calendar.wav",
+        "kind": "synthesized",
+        "transcript": "今日は四月一日です。今日は月曜日です。明日は四月二日です。明日は火曜日です。",
+        "ruby": [
+          {
+            "text": "今日",
+            "reading": "きょう",
+            "itemId": "vocab-kyou"
+          },
+          {
+            "text": "四月",
+            "reading": "しがつ",
+            "itemId": "vocab-shigatsu"
+          },
+          {
+            "text": "一日",
+            "reading": "ついたち",
+            "itemId": "vocab-tsuitachi"
+          },
+          {
+            "text": "今日",
+            "reading": "きょう",
+            "itemId": "vocab-kyou"
+          },
+          {
+            "text": "月曜日",
+            "reading": "げつようび",
+            "itemId": "vocab-getsuyoubi"
+          },
+          {
+            "text": "明日",
+            "reading": "あした",
+            "itemId": "vocab-ashita"
+          },
+          {
+            "text": "四月",
+            "reading": "しがつ",
+            "itemId": "vocab-shigatsu"
+          },
+          {
+            "text": "二日",
+            "reading": "ふつか",
+            "itemId": "vocab-futsuka"
+          },
+          {
+            "text": "明日",
+            "reading": "あした",
+            "itemId": "vocab-ashita"
+          },
+          {
+            "text": "火曜日",
+            "reading": "かようび",
+            "itemId": "vocab-kayoubi"
+          }
+        ],
+        "speechText": "きょうはしがつついたちです。きょうはげつようびです。あしたはしがつふつかです。あしたはかようびです。",
+        "voice": "Microsoft Haruka Desktop (ja-JP)"
+      }
+    },
+    {
+      "id": "reading-school-routine",
+      "type": "reading",
+      "title": "A short school day",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "daily-actions"
+      ],
+      "prerequisites": [
+        "grammar-wa",
+        "grammar-desu",
+        "grammar-masu",
+        "grammar-wo",
+        "grammar-ni-destination",
+        "grammar-ni-time",
+        "grammar-de-place",
+        "grammar-clock"
+      ],
+      "revision": 5,
+      "unitId": "unit-daily-actions",
+      "lessonId": "lesson-where-actions-happen",
+      "text": "私は学生です。毎朝、家でごはんを食べます。午前九時に学校に行きます。学校で日本語を勉強します。午後四時に家に帰ります。",
+      "segments": [
+        {
+          "japanese": "私は学生です。",
+          "translation": "I am a student.",
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし",
+              "itemId": "vocab-watashi"
+            },
+            {
+              "text": "学生",
+              "reading": "がくせい",
+              "itemId": "vocab-gakusei"
+            }
+          ]
+        },
+        {
+          "japanese": "毎朝、家でごはんを食べます。",
+          "translation": "Every morning, I eat rice at home.",
+          "ruby": [
+            {
+              "text": "毎朝",
+              "reading": "まいあさ",
+              "itemId": "vocab-maiasa"
+            },
+            {
+              "text": "家",
+              "reading": "いえ",
+              "itemId": "vocab-ie"
+            },
+            {
+              "text": "食べます",
+              "reading": "たべます",
+              "itemId": "vocab-taberu"
+            }
+          ]
+        },
+        {
+          "japanese": "午前九時に学校に行きます。",
+          "translation": "I go to school at nine a.m.",
+          "ruby": [
+            {
+              "text": "午前",
+              "reading": "ごぜん",
+              "itemId": "vocab-gozen"
+            },
+            {
+              "text": "九時",
+              "reading": "くじ",
+              "itemId": "vocab-ji"
+            },
+            {
+              "text": "学校",
+              "reading": "がっこう",
+              "itemId": "vocab-gakkou"
+            },
+            {
+              "text": "行きます",
+              "reading": "いきます",
+              "itemId": "vocab-iku"
+            }
+          ]
+        },
+        {
+          "japanese": "学校で日本語を勉強します。",
+          "translation": "I study Japanese at school.",
+          "ruby": [
+            {
+              "text": "学校",
+              "reading": "がっこう",
+              "itemId": "vocab-gakkou"
+            },
+            {
+              "text": "日本語",
+              "reading": "にほんご",
+              "itemId": "vocab-nihongo"
+            },
+            {
+              "text": "勉強します",
+              "reading": "べんきょうします",
+              "itemId": "vocab-benkyou"
+            }
+          ]
+        },
+        {
+          "japanese": "午後四時に家に帰ります。",
+          "translation": "I return home at four p.m.",
+          "ruby": [
+            {
+              "text": "午後",
+              "reading": "ごご",
+              "itemId": "vocab-gogo"
+            },
+            {
+              "text": "四時",
+              "reading": "よじ",
+              "itemId": "vocab-ji"
+            },
+            {
+              "text": "家",
+              "reading": "いえ",
+              "itemId": "vocab-ie"
+            },
+            {
+              "text": "帰ります",
+              "reading": "かえります",
+              "itemId": "vocab-kaeru"
+            }
+          ]
+        }
+      ],
+      "translation": "I am a student. Every morning, I eat rice at home. I go to school at nine a.m. I study Japanese at school. I return home at four p.m.",
+      "vocabularyRefs": [
+        "vocab-watashi",
+        "vocab-gakusei",
+        "vocab-maiasa",
+        "vocab-ie",
+        "vocab-gohan",
+        "vocab-taberu",
+        "vocab-gozen",
+        "vocab-ji",
+        "vocab-gakkou",
+        "vocab-iku",
+        "vocab-nihongo",
+        "vocab-benkyou",
+        "vocab-gogo",
+        "vocab-kaeru"
+      ],
+      "grammarRefs": [
+        "grammar-wa",
+        "grammar-desu",
+        "grammar-masu",
+        "grammar-wo",
+        "grammar-ni-destination",
+        "grammar-ni-time",
+        "grammar-de-place",
+        "grammar-clock"
+      ],
+      "questions": [
+        {
+          "id": "school-routine-q1",
+          "prompt": "どこで日本語を勉強しますか。",
+          "answer": "学校で勉強します。"
+        },
+        {
+          "id": "school-routine-q2",
+          "prompt": "何時に家に帰りますか。",
+          "answer": "午後四時に帰ります。"
+        }
+      ],
+      "ruby": [
+        {
+          "text": "私",
+          "reading": "わたし",
+          "itemId": "vocab-watashi"
+        },
+        {
+          "text": "学生",
+          "reading": "がくせい",
+          "itemId": "vocab-gakusei"
+        },
+        {
+          "text": "毎朝",
+          "reading": "まいあさ",
+          "itemId": "vocab-maiasa"
+        },
+        {
+          "text": "家",
+          "reading": "いえ",
+          "itemId": "vocab-ie"
+        },
+        {
+          "text": "食べます",
+          "reading": "たべます",
+          "itemId": "vocab-taberu"
+        },
+        {
+          "text": "午前",
+          "reading": "ごぜん",
+          "itemId": "vocab-gozen"
+        },
+        {
+          "text": "九時",
+          "reading": "くじ",
+          "itemId": "vocab-ji"
+        },
+        {
+          "text": "学校",
+          "reading": "がっこう",
+          "itemId": "vocab-gakkou"
+        },
+        {
+          "text": "行きます",
+          "reading": "いきます",
+          "itemId": "vocab-iku"
+        },
+        {
+          "text": "学校",
+          "reading": "がっこう",
+          "itemId": "vocab-gakkou"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご",
+          "itemId": "vocab-nihongo"
+        },
+        {
+          "text": "勉強します",
+          "reading": "べんきょうします",
+          "itemId": "vocab-benkyou"
+        },
+        {
+          "text": "午後",
+          "reading": "ごご",
+          "itemId": "vocab-gogo"
+        },
+        {
+          "text": "四時",
+          "reading": "よじ",
+          "itemId": "vocab-ji"
+        },
+        {
+          "text": "家",
+          "reading": "いえ",
+          "itemId": "vocab-ie"
+        },
+        {
+          "text": "帰ります",
+          "reading": "かえります",
+          "itemId": "vocab-kaeru"
+        }
+      ],
+      "audio": {
+        "src": "audio/reading-school-routine.wav",
+        "kind": "synthesized",
+        "transcript": "私は学生です。毎朝、家でごはんを食べます。午前九時に学校に行きます。学校で日本語を勉強します。午後四時に家に帰ります。",
+        "ruby": [
+          {
+            "text": "私",
+            "reading": "わたし",
+            "itemId": "vocab-watashi"
+          },
+          {
+            "text": "学生",
+            "reading": "がくせい",
+            "itemId": "vocab-gakusei"
+          },
+          {
+            "text": "毎朝",
+            "reading": "まいあさ",
+            "itemId": "vocab-maiasa"
+          },
+          {
+            "text": "家",
+            "reading": "いえ",
+            "itemId": "vocab-ie"
+          },
+          {
+            "text": "食べます",
+            "reading": "たべます",
+            "itemId": "vocab-taberu"
+          },
+          {
+            "text": "午前",
+            "reading": "ごぜん",
+            "itemId": "vocab-gozen"
+          },
+          {
+            "text": "九時",
+            "reading": "くじ",
+            "itemId": "vocab-ji"
+          },
+          {
+            "text": "学校",
+            "reading": "がっこう",
+            "itemId": "vocab-gakkou"
+          },
+          {
+            "text": "行きます",
+            "reading": "いきます",
+            "itemId": "vocab-iku"
+          },
+          {
+            "text": "学校",
+            "reading": "がっこう",
+            "itemId": "vocab-gakkou"
+          },
+          {
+            "text": "日本語",
+            "reading": "にほんご",
+            "itemId": "vocab-nihongo"
+          },
+          {
+            "text": "勉強します",
+            "reading": "べんきょうします",
+            "itemId": "vocab-benkyou"
+          },
+          {
+            "text": "午後",
+            "reading": "ごご",
+            "itemId": "vocab-gogo"
+          },
+          {
+            "text": "四時",
+            "reading": "よじ",
+            "itemId": "vocab-ji"
+          },
+          {
+            "text": "家",
+            "reading": "いえ",
+            "itemId": "vocab-ie"
+          },
+          {
+            "text": "帰ります",
+            "reading": "かえります",
+            "itemId": "vocab-kaeru"
+          }
+        ],
+        "speechText": "わたしはがくせいです。まいあさ、いえでごはんをたべます。ごぜんくじにがっこうにいきます。がっこうでにほんごをべんきょうします。ごごよじにいえにかえります。",
+        "voice": "Microsoft Haruka Desktop (ja-JP)"
+      }
+    },
+    {
+      "id": "reading-room",
+      "type": "reading",
+      "title": "A book, a bag and a cat",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "existence-and-position"
+      ],
+      "prerequisites": [
+        "grammar-wa",
+        "grammar-no",
+        "grammar-aru",
+        "grammar-ga-existence",
+        "grammar-iru",
+        "grammar-positions"
+      ],
+      "revision": 5,
+      "unitId": "unit-existence-and-position",
+      "lessonId": "lesson-positions",
+      "text": "私の部屋に机があります。机の上に本があります。かばんの中にノートがあります。机の下に猫がいます。犬は学校にいます。",
+      "segments": [
+        {
+          "japanese": "私の部屋に机があります。",
+          "translation": "There is a desk in my room.",
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし",
+              "itemId": "vocab-watashi"
+            },
+            {
+              "text": "部屋",
+              "reading": "へや",
+              "itemId": "vocab-heya"
+            },
+            {
+              "text": "机",
+              "reading": "つくえ",
+              "itemId": "vocab-tsukue"
+            }
+          ]
+        },
+        {
+          "japanese": "机の上に本があります。",
+          "translation": "There is a book on the desk.",
+          "ruby": [
+            {
+              "text": "机",
+              "reading": "つくえ",
+              "itemId": "vocab-tsukue"
+            },
+            {
+              "text": "上",
+              "reading": "うえ",
+              "itemId": "vocab-ue"
+            },
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            }
+          ]
+        },
+        {
+          "japanese": "かばんの中にノートがあります。",
+          "translation": "There is a notebook in the bag.",
+          "ruby": [
+            {
+              "text": "中",
+              "reading": "なか",
+              "itemId": "vocab-naka"
+            }
+          ]
+        },
+        {
+          "japanese": "机の下に猫がいます。",
+          "translation": "There is a cat under the desk.",
+          "ruby": [
+            {
+              "text": "机",
+              "reading": "つくえ",
+              "itemId": "vocab-tsukue"
+            },
+            {
+              "text": "下",
+              "reading": "した",
+              "itemId": "vocab-shita"
+            },
+            {
+              "text": "猫",
+              "reading": "ねこ",
+              "itemId": "vocab-neko"
+            }
+          ]
+        },
+        {
+          "japanese": "犬は学校にいます。",
+          "translation": "The dog is at school.",
+          "ruby": [
+            {
+              "text": "犬",
+              "reading": "いぬ",
+              "itemId": "vocab-inu"
+            },
+            {
+              "text": "学校",
+              "reading": "がっこう",
+              "itemId": "vocab-gakkou"
+            }
+          ]
+        }
+      ],
+      "translation": "There is a desk in my room. There is a book on the desk. There is a notebook in the bag. There is a cat under the desk. The dog is at school.",
+      "vocabularyRefs": [
+        "vocab-watashi",
+        "vocab-heya",
+        "vocab-tsukue",
+        "vocab-aru",
+        "vocab-ue",
+        "vocab-hon",
+        "vocab-kaban",
+        "vocab-naka",
+        "vocab-notebook",
+        "vocab-shita",
+        "vocab-neko",
+        "vocab-iru",
+        "vocab-inu",
+        "vocab-gakkou"
+      ],
+      "grammarRefs": [
+        "grammar-wa",
+        "grammar-no",
+        "grammar-aru",
+        "grammar-ga-existence",
+        "grammar-iru",
+        "grammar-positions"
+      ],
+      "questions": [
+        {
+          "id": "room-q1",
+          "prompt": "猫はどこにいますか。",
+          "answer": "机の下にいます。"
+        },
+        {
+          "id": "room-q2",
+          "prompt": "かばんの中に何がありますか。",
+          "answer": "ノートがあります。"
+        }
+      ],
+      "ruby": [
+        {
+          "text": "私",
+          "reading": "わたし",
+          "itemId": "vocab-watashi"
+        },
+        {
+          "text": "部屋",
+          "reading": "へや",
+          "itemId": "vocab-heya"
+        },
+        {
+          "text": "机",
+          "reading": "つくえ",
+          "itemId": "vocab-tsukue"
+        },
+        {
+          "text": "机",
+          "reading": "つくえ",
+          "itemId": "vocab-tsukue"
+        },
+        {
+          "text": "上",
+          "reading": "うえ",
+          "itemId": "vocab-ue"
+        },
+        {
+          "text": "本",
+          "reading": "ほん",
+          "itemId": "vocab-hon"
+        },
+        {
+          "text": "中",
+          "reading": "なか",
+          "itemId": "vocab-naka"
+        },
+        {
+          "text": "机",
+          "reading": "つくえ",
+          "itemId": "vocab-tsukue"
+        },
+        {
+          "text": "下",
+          "reading": "した",
+          "itemId": "vocab-shita"
+        },
+        {
+          "text": "猫",
+          "reading": "ねこ",
+          "itemId": "vocab-neko"
+        },
+        {
+          "text": "犬",
+          "reading": "いぬ",
+          "itemId": "vocab-inu"
+        },
+        {
+          "text": "学校",
+          "reading": "がっこう",
+          "itemId": "vocab-gakkou"
+        }
+      ],
+      "audio": {
+        "src": "audio/reading-room.wav",
+        "kind": "synthesized",
+        "transcript": "私の部屋に机があります。机の上に本があります。かばんの中にノートがあります。机の下に猫がいます。犬は学校にいます。",
+        "ruby": [
+          {
+            "text": "私",
+            "reading": "わたし",
+            "itemId": "vocab-watashi"
+          },
+          {
+            "text": "部屋",
+            "reading": "へや",
+            "itemId": "vocab-heya"
+          },
+          {
+            "text": "机",
+            "reading": "つくえ",
+            "itemId": "vocab-tsukue"
+          },
+          {
+            "text": "机",
+            "reading": "つくえ",
+            "itemId": "vocab-tsukue"
+          },
+          {
+            "text": "上",
+            "reading": "うえ",
+            "itemId": "vocab-ue"
+          },
+          {
+            "text": "本",
+            "reading": "ほん",
+            "itemId": "vocab-hon"
+          },
+          {
+            "text": "中",
+            "reading": "なか",
+            "itemId": "vocab-naka"
+          },
+          {
+            "text": "机",
+            "reading": "つくえ",
+            "itemId": "vocab-tsukue"
+          },
+          {
+            "text": "下",
+            "reading": "した",
+            "itemId": "vocab-shita"
+          },
+          {
+            "text": "猫",
+            "reading": "ねこ",
+            "itemId": "vocab-neko"
+          },
+          {
+            "text": "犬",
+            "reading": "いぬ",
+            "itemId": "vocab-inu"
+          },
+          {
+            "text": "学校",
+            "reading": "がっこう",
+            "itemId": "vocab-gakkou"
+          }
+        ],
+        "speechText": "わたしのへやにつくえがあります。つくえのうえにほんがあります。かばんのなかにノートがあります。つくえのしたにねこがいます。いぬはがっこうにいます。",
+        "voice": "Microsoft Haruka Desktop (ja-JP)"
+      }
+    },
+    {
+      "id": "reading-town",
+      "type": "reading",
+      "title": "A quiet place to read",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "descriptions-and-routines"
+      ],
+      "prerequisites": [
+        "grammar-wa",
+        "grammar-desu",
+        "grammar-no",
+        "grammar-aru",
+        "grammar-positions",
+        "grammar-i-adjectives",
+        "grammar-na-adjectives",
+        "grammar-de-place",
+        "grammar-wo",
+        "grammar-masu"
+      ],
+      "revision": 5,
+      "unitId": "unit-descriptions-and-routines",
+      "lessonId": "lesson-describing-places",
+      "text": "この町はにぎやかです。銀行の隣に小さい公園があります。この公園は静かです。公園で日本語の本を読みます。この本は新しいです。",
+      "segments": [
+        {
+          "japanese": "この町はにぎやかです。",
+          "translation": "This town is lively.",
+          "ruby": [
+            {
+              "text": "町",
+              "reading": "まち",
+              "itemId": "vocab-machi"
+            }
+          ]
+        },
+        {
+          "japanese": "銀行の隣に小さい公園があります。",
+          "translation": "There is a small park next to the bank.",
+          "ruby": [
+            {
+              "text": "銀行",
+              "reading": "ぎんこう",
+              "itemId": "vocab-ginkou"
+            },
+            {
+              "text": "隣",
+              "reading": "となり",
+              "itemId": "vocab-tonari"
+            },
+            {
+              "text": "小さい",
+              "reading": "ちいさい",
+              "itemId": "vocab-chiisai"
+            },
+            {
+              "text": "公園",
+              "reading": "こうえん",
+              "itemId": "vocab-kouen"
+            }
+          ]
+        },
+        {
+          "japanese": "この公園は静かです。",
+          "translation": "This park is quiet.",
+          "ruby": [
+            {
+              "text": "公園",
+              "reading": "こうえん",
+              "itemId": "vocab-kouen"
+            },
+            {
+              "text": "静か",
+              "reading": "しずか",
+              "itemId": "vocab-shizuka"
+            }
+          ]
+        },
+        {
+          "japanese": "公園で日本語の本を読みます。",
+          "translation": "I read a Japanese-language book in the park.",
+          "ruby": [
+            {
+              "text": "公園",
+              "reading": "こうえん",
+              "itemId": "vocab-kouen"
+            },
+            {
+              "text": "日本語",
+              "reading": "にほんご",
+              "itemId": "vocab-nihongo"
+            },
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            },
+            {
+              "text": "読みます",
+              "reading": "よみます",
+              "itemId": "vocab-yomu"
+            }
+          ]
+        },
+        {
+          "japanese": "この本は新しいです。",
+          "translation": "This book is new.",
+          "ruby": [
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            },
+            {
+              "text": "新しい",
+              "reading": "あたらしい",
+              "itemId": "vocab-atarashii"
+            }
+          ]
+        }
+      ],
+      "translation": "This town is lively. There is a small park next to the bank. This park is quiet. I read a Japanese-language book in the park. This book is new.",
+      "vocabularyRefs": [
+        "vocab-kono",
+        "vocab-machi",
+        "vocab-nigiyaka",
+        "vocab-ginkou",
+        "vocab-tonari",
+        "vocab-chiisai",
+        "vocab-kouen",
+        "vocab-aru",
+        "vocab-shizuka",
+        "vocab-nihongo",
+        "vocab-hon",
+        "vocab-yomu",
+        "vocab-atarashii"
+      ],
+      "grammarRefs": [
+        "grammar-wa",
+        "grammar-desu",
+        "grammar-no",
+        "grammar-aru",
+        "grammar-positions",
+        "grammar-i-adjectives",
+        "grammar-na-adjectives",
+        "grammar-de-place",
+        "grammar-wo",
+        "grammar-masu"
+      ],
+      "questions": [
+        {
+          "id": "town-q1",
+          "prompt": "公園はどこにありますか。",
+          "answer": "銀行の隣にあります。"
+        },
+        {
+          "id": "town-q2",
+          "prompt": "この公園はにぎやかですか。",
+          "answer": "いいえ、静かです。"
+        }
+      ],
+      "ruby": [
+        {
+          "text": "町",
+          "reading": "まち",
+          "itemId": "vocab-machi"
+        },
+        {
+          "text": "銀行",
+          "reading": "ぎんこう",
+          "itemId": "vocab-ginkou"
+        },
+        {
+          "text": "隣",
+          "reading": "となり",
+          "itemId": "vocab-tonari"
+        },
+        {
+          "text": "小さい",
+          "reading": "ちいさい",
+          "itemId": "vocab-chiisai"
+        },
+        {
+          "text": "公園",
+          "reading": "こうえん",
+          "itemId": "vocab-kouen"
+        },
+        {
+          "text": "公園",
+          "reading": "こうえん",
+          "itemId": "vocab-kouen"
+        },
+        {
+          "text": "静か",
+          "reading": "しずか",
+          "itemId": "vocab-shizuka"
+        },
+        {
+          "text": "公園",
+          "reading": "こうえん",
+          "itemId": "vocab-kouen"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご",
+          "itemId": "vocab-nihongo"
+        },
+        {
+          "text": "本",
+          "reading": "ほん",
+          "itemId": "vocab-hon"
+        },
+        {
+          "text": "読みます",
+          "reading": "よみます",
+          "itemId": "vocab-yomu"
+        },
+        {
+          "text": "本",
+          "reading": "ほん",
+          "itemId": "vocab-hon"
+        },
+        {
+          "text": "新しい",
+          "reading": "あたらしい",
+          "itemId": "vocab-atarashii"
+        }
+      ],
+      "audio": {
+        "src": "audio/reading-town.wav",
+        "kind": "synthesized",
+        "transcript": "この町はにぎやかです。銀行の隣に小さい公園があります。この公園は静かです。公園で日本語の本を読みます。この本は新しいです。",
+        "ruby": [
+          {
+            "text": "町",
+            "reading": "まち",
+            "itemId": "vocab-machi"
+          },
+          {
+            "text": "銀行",
+            "reading": "ぎんこう",
+            "itemId": "vocab-ginkou"
+          },
+          {
+            "text": "隣",
+            "reading": "となり",
+            "itemId": "vocab-tonari"
+          },
+          {
+            "text": "小さい",
+            "reading": "ちいさい",
+            "itemId": "vocab-chiisai"
+          },
+          {
+            "text": "公園",
+            "reading": "こうえん",
+            "itemId": "vocab-kouen"
+          },
+          {
+            "text": "公園",
+            "reading": "こうえん",
+            "itemId": "vocab-kouen"
+          },
+          {
+            "text": "静か",
+            "reading": "しずか",
+            "itemId": "vocab-shizuka"
+          },
+          {
+            "text": "公園",
+            "reading": "こうえん",
+            "itemId": "vocab-kouen"
+          },
+          {
+            "text": "日本語",
+            "reading": "にほんご",
+            "itemId": "vocab-nihongo"
+          },
+          {
+            "text": "本",
+            "reading": "ほん",
+            "itemId": "vocab-hon"
+          },
+          {
+            "text": "読みます",
+            "reading": "よみます",
+            "itemId": "vocab-yomu"
+          },
+          {
+            "text": "本",
+            "reading": "ほん",
+            "itemId": "vocab-hon"
+          },
+          {
+            "text": "新しい",
+            "reading": "あたらしい",
+            "itemId": "vocab-atarashii"
+          }
+        ],
+        "speechText": "このまちはにぎやかです。ぎんこうのとなりにちいさいこうえんがあります。このこうえんはしずかです。こうえんでにほんごのほんをよみます。このほんはあたらしいです。",
+        "voice": "Microsoft Haruka Desktop (ja-JP)"
+      }
+    },
+    {
+      "id": "reading-a-day",
+      "type": "reading",
+      "title": "A day you can read",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "descriptions-and-routines"
+      ],
+      "prerequisites": [
+        "grammar-wa",
+        "grammar-desu",
+        "grammar-no",
+        "grammar-dates",
+        "grammar-weekdays",
+        "grammar-clock",
+        "grammar-ni-time",
+        "grammar-ni-destination",
+        "grammar-de-place",
+        "grammar-wo",
+        "grammar-masu",
+        "grammar-masen",
+        "grammar-aru",
+        "grammar-iru",
+        "grammar-ga-existence",
+        "grammar-positions",
+        "grammar-i-adjectives"
+      ],
+      "revision": 5,
+      "unitId": "unit-descriptions-and-routines",
+      "lessonId": "lesson-a-day-to-read",
+      "text": "今日は四月二日、火曜日です。私は学生です。午前七時半に家でパンを食べます。コーヒーは飲みません。午前九時に学校に行きます。学校に大きい図書館があります。図書館で日本語の本を読みます。午後四時に家に帰ります。家の部屋に猫がいます。猫は机の下にいます。",
+      "segments": [
+        {
+          "japanese": "今日は四月二日、火曜日です。",
+          "translation": "Today is Tuesday, April second.",
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう",
+              "itemId": "vocab-kyou"
+            },
+            {
+              "text": "四月",
+              "reading": "しがつ",
+              "itemId": "vocab-shigatsu"
+            },
+            {
+              "text": "二日",
+              "reading": "ふつか",
+              "itemId": "vocab-futsuka"
+            },
+            {
+              "text": "火曜日",
+              "reading": "かようび",
+              "itemId": "vocab-kayoubi"
+            }
+          ]
+        },
+        {
+          "japanese": "私は学生です。",
+          "translation": "I am a student.",
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし",
+              "itemId": "vocab-watashi"
+            },
+            {
+              "text": "学生",
+              "reading": "がくせい",
+              "itemId": "vocab-gakusei"
+            }
+          ]
+        },
+        {
+          "japanese": "午前七時半に家でパンを食べます。",
+          "translation": "I eat bread at home at half past seven a.m.",
+          "ruby": [
+            {
+              "text": "午前",
+              "reading": "ごぜん",
+              "itemId": "vocab-gozen"
+            },
+            {
+              "text": "七時",
+              "reading": "しちじ",
+              "itemId": "vocab-ji"
+            },
+            {
+              "text": "半",
+              "reading": "はん",
+              "itemId": "vocab-han"
+            },
+            {
+              "text": "家",
+              "reading": "いえ",
+              "itemId": "vocab-ie"
+            },
+            {
+              "text": "食べます",
+              "reading": "たべます",
+              "itemId": "vocab-taberu"
+            }
+          ]
+        },
+        {
+          "japanese": "コーヒーは飲みません。",
+          "translation": "I do not drink coffee.",
+          "ruby": [
+            {
+              "text": "飲みません",
+              "reading": "のみません",
+              "itemId": "vocab-nomu"
+            }
+          ]
+        },
+        {
+          "japanese": "午前九時に学校に行きます。",
+          "translation": "I go to school at nine a.m.",
+          "ruby": [
+            {
+              "text": "午前",
+              "reading": "ごぜん",
+              "itemId": "vocab-gozen"
+            },
+            {
+              "text": "九時",
+              "reading": "くじ",
+              "itemId": "vocab-ji"
+            },
+            {
+              "text": "学校",
+              "reading": "がっこう",
+              "itemId": "vocab-gakkou"
+            },
+            {
+              "text": "行きます",
+              "reading": "いきます",
+              "itemId": "vocab-iku"
+            }
+          ]
+        },
+        {
+          "japanese": "学校に大きい図書館があります。",
+          "translation": "There is a large library at school.",
+          "ruby": [
+            {
+              "text": "学校",
+              "reading": "がっこう",
+              "itemId": "vocab-gakkou"
+            },
+            {
+              "text": "大きい",
+              "reading": "おおきい",
+              "itemId": "vocab-ookii"
+            },
+            {
+              "text": "図書館",
+              "reading": "としょかん",
+              "itemId": "vocab-toshokan"
+            }
+          ]
+        },
+        {
+          "japanese": "図書館で日本語の本を読みます。",
+          "translation": "I read a Japanese-language book in the library.",
+          "ruby": [
+            {
+              "text": "図書館",
+              "reading": "としょかん",
+              "itemId": "vocab-toshokan"
+            },
+            {
+              "text": "日本語",
+              "reading": "にほんご",
+              "itemId": "vocab-nihongo"
+            },
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            },
+            {
+              "text": "読みます",
+              "reading": "よみます",
+              "itemId": "vocab-yomu"
+            }
+          ]
+        },
+        {
+          "japanese": "午後四時に家に帰ります。",
+          "translation": "I return home at four p.m.",
+          "ruby": [
+            {
+              "text": "午後",
+              "reading": "ごご",
+              "itemId": "vocab-gogo"
+            },
+            {
+              "text": "四時",
+              "reading": "よじ",
+              "itemId": "vocab-ji"
+            },
+            {
+              "text": "家",
+              "reading": "いえ",
+              "itemId": "vocab-ie"
+            },
+            {
+              "text": "帰ります",
+              "reading": "かえります",
+              "itemId": "vocab-kaeru"
+            }
+          ]
+        },
+        {
+          "japanese": "家の部屋に猫がいます。",
+          "translation": "There is a cat in a room at home.",
+          "ruby": [
+            {
+              "text": "家",
+              "reading": "いえ",
+              "itemId": "vocab-ie"
+            },
+            {
+              "text": "部屋",
+              "reading": "へや",
+              "itemId": "vocab-heya"
+            },
+            {
+              "text": "猫",
+              "reading": "ねこ",
+              "itemId": "vocab-neko"
+            }
+          ]
+        },
+        {
+          "japanese": "猫は机の下にいます。",
+          "translation": "The cat is under the desk.",
+          "ruby": [
+            {
+              "text": "猫",
+              "reading": "ねこ",
+              "itemId": "vocab-neko"
+            },
+            {
+              "text": "机",
+              "reading": "つくえ",
+              "itemId": "vocab-tsukue"
+            },
+            {
+              "text": "下",
+              "reading": "した",
+              "itemId": "vocab-shita"
+            }
+          ]
+        }
+      ],
+      "translation": "Today is Tuesday, April second. I am a student. I eat bread at home at half past seven a.m. I do not drink coffee. I go to school at nine a.m. There is a large library at school. I read a Japanese-language book in the library. I return home at four p.m. There is a cat in a room at home. The cat is under the desk.",
+      "vocabularyRefs": [
+        "vocab-kyou",
+        "vocab-shigatsu",
+        "vocab-futsuka",
+        "vocab-kayoubi",
+        "vocab-watashi",
+        "vocab-gakusei",
+        "vocab-gozen",
+        "vocab-ji",
+        "vocab-han",
+        "vocab-ie",
+        "vocab-pan",
+        "vocab-taberu",
+        "vocab-koohii",
+        "vocab-nomu",
+        "vocab-gakkou",
+        "vocab-iku",
+        "vocab-ookii",
+        "vocab-toshokan",
+        "vocab-aru",
+        "vocab-nihongo",
+        "vocab-hon",
+        "vocab-yomu",
+        "vocab-gogo",
+        "vocab-kaeru",
+        "vocab-heya",
+        "vocab-neko",
+        "vocab-iru",
+        "vocab-tsukue",
+        "vocab-shita"
+      ],
+      "grammarRefs": [
+        "grammar-wa",
+        "grammar-desu",
+        "grammar-no",
+        "grammar-dates",
+        "grammar-weekdays",
+        "grammar-clock",
+        "grammar-ni-time",
+        "grammar-ni-destination",
+        "grammar-de-place",
+        "grammar-wo",
+        "grammar-masu",
+        "grammar-masen",
+        "grammar-aru",
+        "grammar-iru",
+        "grammar-ga-existence",
+        "grammar-positions",
+        "grammar-i-adjectives"
+      ],
+      "questions": [
+        {
+          "id": "a-day-q1",
+          "prompt": "今日は何曜日ですか。",
+          "answer": "火曜日です。"
+        },
+        {
+          "id": "a-day-q2",
+          "prompt": "何時に学校に行きますか。",
+          "answer": "午前九時に行きます。"
+        },
+        {
+          "id": "a-day-q3",
+          "prompt": "どこで本を読みますか。",
+          "answer": "図書館で読みます。"
+        },
+        {
+          "id": "a-day-q4",
+          "prompt": "猫はどこにいますか。",
+          "answer": "机の下にいます。"
+        }
+      ],
+      "ruby": [
+        {
+          "text": "今日",
+          "reading": "きょう",
+          "itemId": "vocab-kyou"
+        },
+        {
+          "text": "四月",
+          "reading": "しがつ",
+          "itemId": "vocab-shigatsu"
+        },
+        {
+          "text": "二日",
+          "reading": "ふつか",
+          "itemId": "vocab-futsuka"
+        },
+        {
+          "text": "火曜日",
+          "reading": "かようび",
+          "itemId": "vocab-kayoubi"
+        },
+        {
+          "text": "私",
+          "reading": "わたし",
+          "itemId": "vocab-watashi"
+        },
+        {
+          "text": "学生",
+          "reading": "がくせい",
+          "itemId": "vocab-gakusei"
+        },
+        {
+          "text": "午前",
+          "reading": "ごぜん",
+          "itemId": "vocab-gozen"
+        },
+        {
+          "text": "七時",
+          "reading": "しちじ",
+          "itemId": "vocab-ji"
+        },
+        {
+          "text": "半",
+          "reading": "はん",
+          "itemId": "vocab-han"
+        },
+        {
+          "text": "家",
+          "reading": "いえ",
+          "itemId": "vocab-ie"
+        },
+        {
+          "text": "食べます",
+          "reading": "たべます",
+          "itemId": "vocab-taberu"
+        },
+        {
+          "text": "飲みません",
+          "reading": "のみません",
+          "itemId": "vocab-nomu"
+        },
+        {
+          "text": "午前",
+          "reading": "ごぜん",
+          "itemId": "vocab-gozen"
+        },
+        {
+          "text": "九時",
+          "reading": "くじ",
+          "itemId": "vocab-ji"
+        },
+        {
+          "text": "学校",
+          "reading": "がっこう",
+          "itemId": "vocab-gakkou"
+        },
+        {
+          "text": "行きます",
+          "reading": "いきます",
+          "itemId": "vocab-iku"
+        },
+        {
+          "text": "学校",
+          "reading": "がっこう",
+          "itemId": "vocab-gakkou"
+        },
+        {
+          "text": "大きい",
+          "reading": "おおきい",
+          "itemId": "vocab-ookii"
+        },
+        {
+          "text": "図書館",
+          "reading": "としょかん",
+          "itemId": "vocab-toshokan"
+        },
+        {
+          "text": "図書館",
+          "reading": "としょかん",
+          "itemId": "vocab-toshokan"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご",
+          "itemId": "vocab-nihongo"
+        },
+        {
+          "text": "本",
+          "reading": "ほん",
+          "itemId": "vocab-hon"
+        },
+        {
+          "text": "読みます",
+          "reading": "よみます",
+          "itemId": "vocab-yomu"
+        },
+        {
+          "text": "午後",
+          "reading": "ごご",
+          "itemId": "vocab-gogo"
+        },
+        {
+          "text": "四時",
+          "reading": "よじ",
+          "itemId": "vocab-ji"
+        },
+        {
+          "text": "家",
+          "reading": "いえ",
+          "itemId": "vocab-ie"
+        },
+        {
+          "text": "帰ります",
+          "reading": "かえります",
+          "itemId": "vocab-kaeru"
+        },
+        {
+          "text": "家",
+          "reading": "いえ",
+          "itemId": "vocab-ie"
+        },
+        {
+          "text": "部屋",
+          "reading": "へや",
+          "itemId": "vocab-heya"
+        },
+        {
+          "text": "猫",
+          "reading": "ねこ",
+          "itemId": "vocab-neko"
+        },
+        {
+          "text": "猫",
+          "reading": "ねこ",
+          "itemId": "vocab-neko"
+        },
+        {
+          "text": "机",
+          "reading": "つくえ",
+          "itemId": "vocab-tsukue"
+        },
+        {
+          "text": "下",
+          "reading": "した",
+          "itemId": "vocab-shita"
+        }
+      ],
+      "audio": {
+        "src": "audio/reading-a-day.wav",
+        "kind": "synthesized",
+        "transcript": "今日は四月二日、火曜日です。私は学生です。午前七時半に家でパンを食べます。コーヒーは飲みません。午前九時に学校に行きます。学校に大きい図書館があります。図書館で日本語の本を読みます。午後四時に家に帰ります。家の部屋に猫がいます。猫は机の下にいます。",
+        "ruby": [
+          {
+            "text": "今日",
+            "reading": "きょう",
+            "itemId": "vocab-kyou"
+          },
+          {
+            "text": "四月",
+            "reading": "しがつ",
+            "itemId": "vocab-shigatsu"
+          },
+          {
+            "text": "二日",
+            "reading": "ふつか",
+            "itemId": "vocab-futsuka"
+          },
+          {
+            "text": "火曜日",
+            "reading": "かようび",
+            "itemId": "vocab-kayoubi"
+          },
+          {
+            "text": "私",
+            "reading": "わたし",
+            "itemId": "vocab-watashi"
+          },
+          {
+            "text": "学生",
+            "reading": "がくせい",
+            "itemId": "vocab-gakusei"
+          },
+          {
+            "text": "午前",
+            "reading": "ごぜん",
+            "itemId": "vocab-gozen"
+          },
+          {
+            "text": "七時",
+            "reading": "しちじ",
+            "itemId": "vocab-ji"
+          },
+          {
+            "text": "半",
+            "reading": "はん",
+            "itemId": "vocab-han"
+          },
+          {
+            "text": "家",
+            "reading": "いえ",
+            "itemId": "vocab-ie"
+          },
+          {
+            "text": "食べます",
+            "reading": "たべます",
+            "itemId": "vocab-taberu"
+          },
+          {
+            "text": "飲みません",
+            "reading": "のみません",
+            "itemId": "vocab-nomu"
+          },
+          {
+            "text": "午前",
+            "reading": "ごぜん",
+            "itemId": "vocab-gozen"
+          },
+          {
+            "text": "九時",
+            "reading": "くじ",
+            "itemId": "vocab-ji"
+          },
+          {
+            "text": "学校",
+            "reading": "がっこう",
+            "itemId": "vocab-gakkou"
+          },
+          {
+            "text": "行きます",
+            "reading": "いきます",
+            "itemId": "vocab-iku"
+          },
+          {
+            "text": "学校",
+            "reading": "がっこう",
+            "itemId": "vocab-gakkou"
+          },
+          {
+            "text": "大きい",
+            "reading": "おおきい",
+            "itemId": "vocab-ookii"
+          },
+          {
+            "text": "図書館",
+            "reading": "としょかん",
+            "itemId": "vocab-toshokan"
+          },
+          {
+            "text": "図書館",
+            "reading": "としょかん",
+            "itemId": "vocab-toshokan"
+          },
+          {
+            "text": "日本語",
+            "reading": "にほんご",
+            "itemId": "vocab-nihongo"
+          },
+          {
+            "text": "本",
+            "reading": "ほん",
+            "itemId": "vocab-hon"
+          },
+          {
+            "text": "読みます",
+            "reading": "よみます",
+            "itemId": "vocab-yomu"
+          },
+          {
+            "text": "午後",
+            "reading": "ごご",
+            "itemId": "vocab-gogo"
+          },
+          {
+            "text": "四時",
+            "reading": "よじ",
+            "itemId": "vocab-ji"
+          },
+          {
+            "text": "家",
+            "reading": "いえ",
+            "itemId": "vocab-ie"
+          },
+          {
+            "text": "帰ります",
+            "reading": "かえります",
+            "itemId": "vocab-kaeru"
+          },
+          {
+            "text": "家",
+            "reading": "いえ",
+            "itemId": "vocab-ie"
+          },
+          {
+            "text": "部屋",
+            "reading": "へや",
+            "itemId": "vocab-heya"
+          },
+          {
+            "text": "猫",
+            "reading": "ねこ",
+            "itemId": "vocab-neko"
+          },
+          {
+            "text": "猫",
+            "reading": "ねこ",
+            "itemId": "vocab-neko"
+          },
+          {
+            "text": "机",
+            "reading": "つくえ",
+            "itemId": "vocab-tsukue"
+          },
+          {
+            "text": "下",
+            "reading": "した",
+            "itemId": "vocab-shita"
+          }
+        ],
+        "speechText": "きょうはしがつふつか、かようびです。わたしはがくせいです。ごぜんしちじはんにいえでパンをたべます。コーヒーはのみません。ごぜんくじにがっこうにいきます。がっこうにおおきいとしょかんがあります。としょかんでにほんごのほんをよみます。ごごよじにいえにかえります。いえのへやにねこがいます。ねこはつくえのしたにいます。",
+        "voice": "Microsoft Haruka Desktop (ja-JP)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2224 @@
+{
+  "items": [
+    {
+      "id": "grammar-wa",
+      "type": "grammar",
+      "title": "Topic marker は",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "particles"
+      ],
+      "prerequisites": [],
+      "revision": 4,
+      "unitId": "unit-n5-basics",
+      "lessonId": "lesson-first-words",
+      "pattern": "N は N です",
+      "explanation": "は marks the topic of a sentence.",
+      "formation": "Noun + は + noun + です",
+      "nuance": "The particle は is pronounced wa here.",
+      "commonMistakes": [
+        "Reading は as ha when it is a topic marker."
+      ],
+      "examples": [
+        {
+          "japanese": "私は学生です。",
+          "translation": "I am a student.",
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし",
+              "itemId": "vocab-watashi"
+            },
+            {
+              "text": "学生",
+              "reading": "がくせい",
+              "itemId": "vocab-gakusei"
+            }
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "grammar-desu"
+      ],
+      "patternRuby": [],
+      "formationRuby": []
+    },
+    {
+      "id": "grammar-desu",
+      "type": "grammar",
+      "title": "Polite copula です",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "copula"
+      ],
+      "prerequisites": [],
+      "revision": 4,
+      "unitId": "unit-n5-basics",
+      "lessonId": "lesson-first-words",
+      "pattern": "N です",
+      "explanation": "です politely completes a noun statement.",
+      "formation": "Noun + です",
+      "nuance": "Use it in neutral polite conversation.",
+      "commonMistakes": [
+        "Using it after an i-adjective without its proper form."
+      ],
+      "examples": [
+        {
+          "japanese": "私は学生です。",
+          "translation": "I am a student.",
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし",
+              "itemId": "vocab-watashi"
+            },
+            {
+              "text": "学生",
+              "reading": "がくせい",
+              "itemId": "vocab-gakusei"
+            }
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "grammar-wa"
+      ],
+      "patternRuby": [],
+      "formationRuby": []
+    },
+    {
+      "id": "grammar-ka",
+      "type": "grammar",
+      "title": "A question with か",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "n5-basics"
+      ],
+      "prerequisites": [
+        "grammar-desu"
+      ],
+      "revision": 1,
+      "unitId": "unit-n5-basics",
+      "lessonId": "lesson-simple-questions",
+      "pattern": "N ですか。",
+      "explanation": "Add か to a polite statement to ask a question. The topic can be omitted when both people know it.",
+      "formation": "N です → N ですか。",
+      "nuance": "A question word stays in the same place as the information it replaces. はい and いいえ answer yes/no questions.",
+      "commonMistakes": [
+        "Do not add English-style question word order."
+      ],
+      "examples": [
+        {
+          "japanese": "学生ですか。",
+          "translation": "Are you a student?",
+          "ruby": [
+            {
+              "text": "学生",
+              "reading": "がくせい",
+              "itemId": "vocab-gakusei"
+            }
+          ]
+        },
+        {
+          "japanese": "名前は何ですか。",
+          "translation": "What is your name?",
+          "ruby": [
+            {
+              "text": "名前",
+              "reading": "なまえ",
+              "itemId": "vocab-namae"
+            },
+            {
+              "text": "何",
+              "reading": "なん",
+              "itemId": "vocab-nan"
+            }
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "grammar-desu"
+      ],
+      "patternRuby": [],
+      "formationRuby": []
+    },
+    {
+      "id": "grammar-no",
+      "type": "grammar",
+      "title": "Connecting nouns with の",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "n5-basics"
+      ],
+      "prerequisites": [
+        "grammar-desu"
+      ],
+      "revision": 1,
+      "unitId": "unit-n5-basics",
+      "lessonId": "lesson-whose-book",
+      "pattern": "N1 の N2",
+      "explanation": "の connects nouns: the second noun is the thing or person being described; the first gives its owner or type.",
+      "formation": "owner の thing; language の book",
+      "nuance": "私の本 is my book. 日本語の本 is a Japanese-language book. の does not change for plurals.",
+      "commonMistakes": [],
+      "examples": [
+        {
+          "japanese": "田中さんの本です。",
+          "translation": "It is Tanaka’s book.",
+          "ruby": [
+            {
+              "text": "田中",
+              "reading": "たなか"
+            },
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            }
+          ]
+        },
+        {
+          "japanese": "日本語の本です。",
+          "translation": "It is a Japanese-language book.",
+          "ruby": [
+            {
+              "text": "日本語",
+              "reading": "にほんご",
+              "itemId": "vocab-nihongo"
+            },
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            }
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "grammar-desu"
+      ],
+      "patternRuby": [],
+      "formationRuby": []
+    },
+    {
+      "id": "grammar-mo",
+      "type": "grammar",
+      "title": "Also with も",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "things-and-places"
+      ],
+      "prerequisites": [
+        "grammar-wa"
+      ],
+      "revision": 1,
+      "unitId": "unit-things-and-places",
+      "lessonId": "lesson-also",
+      "pattern": "N も N です。",
+      "explanation": "も marks something that shares a statement already made about another topic.",
+      "formation": "私は学生です。田中さんも学生です。",
+      "nuance": "In these noun sentences, も replaces は; do not combine はも.",
+      "commonMistakes": [
+        "Do not write はも for “also”."
+      ],
+      "examples": [
+        {
+          "japanese": "私は学生です。田中さんも学生です。",
+          "translation": "I am a student. Tanaka is also a student.",
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし",
+              "itemId": "vocab-watashi"
+            },
+            {
+              "text": "学生",
+              "reading": "がくせい",
+              "itemId": "vocab-gakusei"
+            },
+            {
+              "text": "田中",
+              "reading": "たなか"
+            },
+            {
+              "text": "学生",
+              "reading": "がくせい",
+              "itemId": "vocab-gakusei"
+            }
+          ]
+        },
+        {
+          "japanese": "私の本は日本語の本です。私のノートも日本語のノートです。",
+          "translation": "My book is a Japanese-language book. My notebook is also a Japanese-language notebook.",
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし",
+              "itemId": "vocab-watashi"
+            },
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            },
+            {
+              "text": "日本語",
+              "reading": "にほんご",
+              "itemId": "vocab-nihongo"
+            },
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            },
+            {
+              "text": "私",
+              "reading": "わたし",
+              "itemId": "vocab-watashi"
+            },
+            {
+              "text": "日本語",
+              "reading": "にほんご",
+              "itemId": "vocab-nihongo"
+            }
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "grammar-wa"
+      ],
+      "patternRuby": [],
+      "formationRuby": [
+        {
+          "text": "私",
+          "reading": "わたし",
+          "itemId": "vocab-watashi"
+        },
+        {
+          "text": "学生",
+          "reading": "がくせい",
+          "itemId": "vocab-gakusei"
+        },
+        {
+          "text": "田中",
+          "reading": "たなか"
+        },
+        {
+          "text": "学生",
+          "reading": "がくせい",
+          "itemId": "vocab-gakusei"
+        }
+      ]
+    },
+    {
+      "id": "grammar-kore-series",
+      "type": "grammar",
+      "title": "これ・それ・あれ",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "things-and-places"
+      ],
+      "prerequisites": [
+        "grammar-wa"
+      ],
+      "revision": 1,
+      "unitId": "unit-things-and-places",
+      "lessonId": "lesson-identifying-things",
+      "pattern": "これ / それ / あれ は N です。",
+      "explanation": "These words stand on their own for a thing. これ is near the speaker; それ near the listener; あれ away from both.",
+      "formation": "これ + は + noun + です",
+      "nuance": "Point to a thing instead of naming it. People are usually identified with a name or この人, rather than これ.",
+      "commonMistakes": [],
+      "examples": [
+        {
+          "japanese": "これは本です。",
+          "translation": "This is a book.",
+          "ruby": [
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            }
+          ]
+        },
+        {
+          "japanese": "あれはいすです。",
+          "translation": "That over there is a chair.",
+          "ruby": []
+        }
+      ],
+      "relatedGrammar": [
+        "grammar-wa"
+      ],
+      "patternRuby": [],
+      "formationRuby": []
+    },
+    {
+      "id": "grammar-noun-negative",
+      "type": "grammar",
+      "title": "A polite negative noun sentence",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "things-and-places"
+      ],
+      "prerequisites": [
+        "grammar-desu"
+      ],
+      "revision": 1,
+      "unitId": "unit-things-and-places",
+      "lessonId": "lesson-identifying-things",
+      "pattern": "N じゃありません。",
+      "explanation": "To say that something is not a noun, replace です with じゃありません.",
+      "formation": "N です → N じゃありません",
+      "nuance": "ではありません is a more formal alternative. じゃないです is also common; this lesson practises じゃありません.",
+      "commonMistakes": [
+        "Do not use ですません."
+      ],
+      "examples": [
+        {
+          "japanese": "これは本じゃありません。ノートです。",
+          "translation": "This is not a book. It is a notebook.",
+          "ruby": [
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            }
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "grammar-desu"
+      ],
+      "patternRuby": [],
+      "formationRuby": []
+    },
+    {
+      "id": "grammar-kono-series",
+      "type": "grammar",
+      "title": "この・その・あの・どの + noun",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "things-and-places"
+      ],
+      "prerequisites": [
+        "grammar-kore-series",
+        "grammar-ka"
+      ],
+      "revision": 1,
+      "unitId": "unit-things-and-places",
+      "lessonId": "lesson-choosing-things",
+      "pattern": "この / その / あの / どの + N",
+      "explanation": "These words must be followed by a noun. They locate a particular item; どの asks which one.",
+      "formation": "この本; そのかばん; あの人; どの本",
+      "nuance": "これ stands alone, while この needs a noun. どの selects among alternatives.",
+      "commonMistakes": [
+        "Do not say このは本です."
+      ],
+      "examples": [
+        {
+          "japanese": "この本は私の本です。",
+          "translation": "This book is my book.",
+          "ruby": [
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            },
+            {
+              "text": "私",
+              "reading": "わたし",
+              "itemId": "vocab-watashi"
+            },
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            }
+          ]
+        },
+        {
+          "japanese": "田中さんの本はどの本ですか。",
+          "translation": "Which book is Tanaka’s book?",
+          "ruby": [
+            {
+              "text": "田中",
+              "reading": "たなか"
+            },
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            },
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            }
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "grammar-kore-series",
+        "grammar-ka"
+      ],
+      "patternRuby": [],
+      "formationRuby": [
+        {
+          "text": "本",
+          "reading": "ほん",
+          "itemId": "vocab-hon"
+        },
+        {
+          "text": "人",
+          "reading": "ひと",
+          "itemId": "vocab-hito"
+        },
+        {
+          "text": "本",
+          "reading": "ほん",
+          "itemId": "vocab-hon"
+        }
+      ]
+    },
+    {
+      "id": "grammar-place-words",
+      "type": "grammar",
+      "title": "ここ・そこ・あそこ・どこ",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "things-and-places"
+      ],
+      "prerequisites": [
+        "grammar-ka"
+      ],
+      "revision": 1,
+      "unitId": "unit-things-and-places",
+      "lessonId": "lesson-places",
+      "pattern": "place は ここ / そこ / あそこ です。",
+      "explanation": "Use these words to identify a place. どこ asks where a place is.",
+      "formation": "図書館はどこですか。あそこです。",
+      "nuance": "ここ is here; そこ is near the listener; あそこ is away from both. This pattern identifies places without an existence verb.",
+      "commonMistakes": [],
+      "examples": [
+        {
+          "japanese": "ここは学校です。",
+          "translation": "This place is a school.",
+          "ruby": [
+            {
+              "text": "学校",
+              "reading": "がっこう",
+              "itemId": "vocab-gakkou"
+            }
+          ]
+        },
+        {
+          "japanese": "図書館はどこですか。あそこです。",
+          "translation": "Where is the library? Over there.",
+          "ruby": [
+            {
+              "text": "図書館",
+              "reading": "としょかん",
+              "itemId": "vocab-toshokan"
+            }
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "grammar-ka"
+      ],
+      "patternRuby": [],
+      "formationRuby": [
+        {
+          "text": "図書館",
+          "reading": "としょかん",
+          "itemId": "vocab-toshokan"
+        }
+      ]
+    },
+    {
+      "id": "grammar-numbers",
+      "type": "grammar",
+      "title": "Numbers as useful labels",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [
+        "grammar-desu"
+      ],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-numbers",
+      "pattern": "番号は number です。",
+      "explanation": "Use numbers to give an identifier before learning object counters. Learn zero through ten here.",
+      "formation": "一、二、三、四、五、六、七、八、九、十",
+      "nuance": "よん, なな and きゅう are useful default readings for isolated numbers. し, しち and く appear in specific expressions later. 零 can be れい; ゼロ is common too. Object counts need counters, so 本は三です is not taught as “three books”.",
+      "commonMistakes": [],
+      "examples": [
+        {
+          "japanese": "番号は五です。",
+          "translation": "The number is five.",
+          "ruby": [
+            {
+              "text": "番号",
+              "reading": "ばんごう",
+              "itemId": "vocab-bangou"
+            },
+            {
+              "text": "五",
+              "reading": "ご",
+              "itemId": "vocab-go"
+            }
+          ]
+        },
+        {
+          "japanese": "番号は十ですか。",
+          "translation": "Is the number ten?",
+          "ruby": [
+            {
+              "text": "番号",
+              "reading": "ばんごう",
+              "itemId": "vocab-bangou"
+            },
+            {
+              "text": "十",
+              "reading": "じゅう",
+              "itemId": "vocab-juu"
+            }
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "grammar-desu"
+      ],
+      "patternRuby": [
+        {
+          "text": "番号",
+          "reading": "ばんごう",
+          "itemId": "vocab-bangou"
+        }
+      ],
+      "formationRuby": [
+        {
+          "text": "一",
+          "reading": "いち",
+          "itemId": "vocab-ichi"
+        },
+        {
+          "text": "二",
+          "reading": "に",
+          "itemId": "vocab-ni"
+        },
+        {
+          "text": "三",
+          "reading": "さん",
+          "itemId": "vocab-san-number"
+        },
+        {
+          "text": "四",
+          "reading": "よん",
+          "itemId": "vocab-yon"
+        },
+        {
+          "text": "五",
+          "reading": "ご",
+          "itemId": "vocab-go"
+        },
+        {
+          "text": "六",
+          "reading": "ろく",
+          "itemId": "vocab-roku"
+        },
+        {
+          "text": "七",
+          "reading": "なな",
+          "itemId": "vocab-nana"
+        },
+        {
+          "text": "八",
+          "reading": "はち",
+          "itemId": "vocab-hachi"
+        },
+        {
+          "text": "九",
+          "reading": "きゅう",
+          "itemId": "vocab-kyuu"
+        },
+        {
+          "text": "十",
+          "reading": "じゅう",
+          "itemId": "vocab-juu"
+        }
+      ]
+    },
+    {
+      "id": "grammar-prices",
+      "type": "grammar",
+      "title": "Numbers and yen",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [
+        "grammar-numbers",
+        "grammar-kono-series"
+      ],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-prices",
+      "pattern": "N は amount 円です。",
+      "explanation": "Put 円 after the amount when stating a price. Ask a price with いくら.",
+      "formation": "十一 = ten + one; 二十 = two × ten; 百円; 千円",
+      "nuance": "円 is read えん after a price. These are example prices. Larger irregular hundreds and thousands will be introduced later.",
+      "commonMistakes": [],
+      "examples": [
+        {
+          "japanese": "このパンは百円です。",
+          "translation": "This bread is one hundred yen.",
+          "ruby": [
+            {
+              "text": "百",
+              "reading": "ひゃく",
+              "itemId": "vocab-hyaku"
+            },
+            {
+              "text": "円",
+              "reading": "えん",
+              "itemId": "vocab-en"
+            }
+          ]
+        },
+        {
+          "japanese": "この本はいくらですか。千円です。",
+          "translation": "How much is this book? It is one thousand yen.",
+          "ruby": [
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            },
+            {
+              "text": "千",
+              "reading": "せん",
+              "itemId": "vocab-sen"
+            },
+            {
+              "text": "円",
+              "reading": "えん",
+              "itemId": "vocab-en"
+            }
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "grammar-numbers",
+        "grammar-kono-series"
+      ],
+      "patternRuby": [
+        {
+          "text": "円",
+          "reading": "えん",
+          "itemId": "vocab-en"
+        }
+      ],
+      "formationRuby": [
+        {
+          "text": "十一",
+          "reading": "じゅういち",
+          "itemId": "vocab-juuichi"
+        },
+        {
+          "text": "二十",
+          "reading": "にじゅう",
+          "itemId": "vocab-nijuu"
+        },
+        {
+          "text": "百",
+          "reading": "ひゃく",
+          "itemId": "vocab-hyaku"
+        },
+        {
+          "text": "円",
+          "reading": "えん",
+          "itemId": "vocab-en"
+        },
+        {
+          "text": "千",
+          "reading": "せん",
+          "itemId": "vocab-sen"
+        },
+        {
+          "text": "円",
+          "reading": "えん",
+          "itemId": "vocab-en"
+        }
+      ]
+    },
+    {
+      "id": "grammar-clock",
+      "type": "grammar",
+      "title": "Hours and half past",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [
+        "grammar-numbers"
+      ],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-clock-time",
+      "pattern": "午前 / 午後 + hour 時 (+ 半)",
+      "explanation": "時 follows an hour number. 半 after the hour means half past. 午前 and 午後 distinguish a.m. and p.m.",
+      "formation": "四時 = よじ; 七時 = しちじ; 九時 = くじ; 四時半 = よじはん",
+      "nuance": "The hour readings for four, seven and nine differ from the default isolated-number readings. 何時 is なんじ. Do not infer these by joining every number’s default reading to じ.",
+      "commonMistakes": [
+        "Use よじ, not よんじ; くじ, not きゅうじ."
+      ],
+      "examples": [
+        {
+          "japanese": "今は午前九時です。",
+          "translation": "It is nine a.m. now.",
+          "ruby": [
+            {
+              "text": "今",
+              "reading": "いま",
+              "itemId": "vocab-ima"
+            },
+            {
+              "text": "午前",
+              "reading": "ごぜん",
+              "itemId": "vocab-gozen"
+            },
+            {
+              "text": "九時",
+              "reading": "くじ",
+              "itemId": "vocab-ji"
+            }
+          ]
+        },
+        {
+          "japanese": "今は午後四時半です。",
+          "translation": "It is half past four p.m. now.",
+          "ruby": [
+            {
+              "text": "今",
+              "reading": "いま",
+              "itemId": "vocab-ima"
+            },
+            {
+              "text": "午後",
+              "reading": "ごご",
+              "itemId": "vocab-gogo"
+            },
+            {
+              "text": "四時",
+              "reading": "よじ",
+              "itemId": "vocab-ji"
+            },
+            {
+              "text": "半",
+              "reading": "はん",
+              "itemId": "vocab-han"
+            }
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "grammar-numbers"
+      ],
+      "patternRuby": [
+        {
+          "text": "午前",
+          "reading": "ごぜん",
+          "itemId": "vocab-gozen"
+        },
+        {
+          "text": "午後",
+          "reading": "ごご",
+          "itemId": "vocab-gogo"
+        },
+        {
+          "text": "時",
+          "reading": "じ",
+          "itemId": "vocab-ji"
+        },
+        {
+          "text": "半",
+          "reading": "はん",
+          "itemId": "vocab-han"
+        }
+      ],
+      "formationRuby": [
+        {
+          "text": "四時",
+          "reading": "よじ",
+          "itemId": "vocab-ji"
+        },
+        {
+          "text": "七時",
+          "reading": "しちじ",
+          "itemId": "vocab-ji"
+        },
+        {
+          "text": "九時",
+          "reading": "くじ",
+          "itemId": "vocab-ji"
+        },
+        {
+          "text": "四時",
+          "reading": "よじ",
+          "itemId": "vocab-ji"
+        },
+        {
+          "text": "半",
+          "reading": "はん",
+          "itemId": "vocab-han"
+        }
+      ]
+    },
+    {
+      "id": "grammar-weekdays",
+      "type": "grammar",
+      "title": "Days of the week",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [
+        "grammar-ka"
+      ],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-weekdays",
+      "pattern": "今日 / 明日 は weekday です。",
+      "explanation": "The seven weekdays end in 曜日, read ようび. Use 何曜日 to ask which weekday it is.",
+      "formation": "月・火・水・木・金・土・日 + 曜日",
+      "nuance": "Today is 今日, read きょう. Tomorrow is 明日, read あした here. 日曜日 is にちようび, not ひようび.",
+      "commonMistakes": [],
+      "examples": [
+        {
+          "japanese": "今日は月曜日です。",
+          "translation": "Today is Monday.",
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう",
+              "itemId": "vocab-kyou"
+            },
+            {
+              "text": "月曜日",
+              "reading": "げつようび",
+              "itemId": "vocab-getsuyoubi"
+            }
+          ]
+        },
+        {
+          "japanese": "明日は何曜日ですか。火曜日です。",
+          "translation": "What weekday is tomorrow? Tuesday.",
+          "ruby": [
+            {
+              "text": "明日",
+              "reading": "あした",
+              "itemId": "vocab-ashita"
+            },
+            {
+              "text": "何曜日",
+              "reading": "なんようび",
+              "itemId": "vocab-nanyoubi"
+            },
+            {
+              "text": "火曜日",
+              "reading": "かようび",
+              "itemId": "vocab-kayoubi"
+            }
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "grammar-ka"
+      ],
+      "patternRuby": [
+        {
+          "text": "今日",
+          "reading": "きょう",
+          "itemId": "vocab-kyou"
+        },
+        {
+          "text": "明日",
+          "reading": "あした",
+          "itemId": "vocab-ashita"
+        }
+      ],
+      "formationRuby": [
+        {
+          "text": "火",
+          "reading": "か",
+          "itemId": "kanji-hi"
+        },
+        {
+          "text": "水",
+          "reading": "みず",
+          "itemId": "vocab-mizu"
+        },
+        {
+          "text": "木",
+          "reading": "もく",
+          "itemId": "kanji-ki"
+        },
+        {
+          "text": "金",
+          "reading": "きん",
+          "itemId": "kanji-kane"
+        },
+        {
+          "text": "土",
+          "reading": "ど",
+          "itemId": "kanji-tsuchi"
+        },
+        {
+          "text": "日",
+          "reading": "ひ",
+          "itemId": "kanji-nichi"
+        },
+        {
+          "text": "日",
+          "reading": "ひ",
+          "itemId": "kanji-nichi"
+        }
+      ]
+    },
+    {
+      "id": "grammar-dates",
+      "type": "grammar",
+      "title": "A first set of calendar dates",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [
+        "grammar-numbers",
+        "grammar-weekdays"
+      ],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-dates",
+      "pattern": "month 月 + day 日",
+      "explanation": "State the month before the day. Month names mostly use number + がつ. Learn a small useful set of day-of-month readings as whole expressions.",
+      "formation": "四月 = しがつ; 七月 = しちがつ; 九月 = くがつ; 一日 = ついたち; 二十日 = はつか",
+      "nuance": "一日 is ついたち when it means the first of a month; いちにち means one day. This lesson covers the 1st, 2nd, 3rd, 4th, 10th and 20th, not every date reading. 何日 asks the date; 何曜日 asks the weekday.",
+      "commonMistakes": [
+        "Do not read 四月 as よんがつ or 二十日 as にじゅうにち."
+      ],
+      "examples": [
+        {
+          "japanese": "今日は四月一日です。",
+          "translation": "Today is April first.",
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう",
+              "itemId": "vocab-kyou"
+            },
+            {
+              "text": "四月",
+              "reading": "しがつ",
+              "itemId": "vocab-shigatsu"
+            },
+            {
+              "text": "一日",
+              "reading": "ついたち",
+              "itemId": "vocab-tsuitachi"
+            }
+          ]
+        },
+        {
+          "japanese": "今日は七月二十日です。",
+          "translation": "Today is July twentieth.",
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう",
+              "itemId": "vocab-kyou"
+            },
+            {
+              "text": "七月",
+              "reading": "しちがつ",
+              "itemId": "vocab-shichigatsu"
+            },
+            {
+              "text": "二十日",
+              "reading": "はつか",
+              "itemId": "vocab-hatsuka"
+            }
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "grammar-numbers",
+        "grammar-weekdays"
+      ],
+      "patternRuby": [
+        {
+          "text": "日",
+          "reading": "ひ",
+          "itemId": "kanji-nichi"
+        }
+      ],
+      "formationRuby": [
+        {
+          "text": "四月",
+          "reading": "しがつ",
+          "itemId": "vocab-shigatsu"
+        },
+        {
+          "text": "七月",
+          "reading": "しちがつ",
+          "itemId": "vocab-shichigatsu"
+        },
+        {
+          "text": "九月",
+          "reading": "くがつ",
+          "itemId": "vocab-kugatsu"
+        },
+        {
+          "text": "一日",
+          "reading": "ついたち",
+          "itemId": "vocab-tsuitachi"
+        },
+        {
+          "text": "二十日",
+          "reading": "はつか",
+          "itemId": "vocab-hatsuka"
+        }
+      ]
+    },
+    {
+      "id": "grammar-masu",
+      "type": "grammar",
+      "title": "Polite present verbs",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "daily-actions"
+      ],
+      "prerequisites": [
+        "grammar-desu"
+      ],
+      "revision": 1,
+      "unitId": "unit-daily-actions",
+      "lessonId": "lesson-reading-and-actions",
+      "pattern": "verb in its polite ます form",
+      "explanation": "A polite present verb can describe a regular action or a future action. Learn each verb together with its polite form.",
+      "formation": "読む → 読みます; 見る → 見ます; 聞く → 聞きます; 勉強する → 勉強します",
+      "nuance": "Dictionary forms name verbs in the word list. These four polite forms are taught as pairs; a complete verb-group conjugation system is not assumed. Japanese often leaves out “I” when the speaker is clear.",
+      "commonMistakes": [
+        "Do not add です after a ます verb."
+      ],
+      "examples": [
+        {
+          "japanese": "日本語を勉強します。",
+          "translation": "I study Japanese.",
+          "ruby": [
+            {
+              "text": "日本語",
+              "reading": "にほんご",
+              "itemId": "vocab-nihongo"
+            },
+            {
+              "text": "勉強します",
+              "reading": "べんきょうします",
+              "itemId": "vocab-benkyou"
+            }
+          ]
+        },
+        {
+          "japanese": "本を読みます。",
+          "translation": "I read a book.",
+          "ruby": [
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            },
+            {
+              "text": "読みます",
+              "reading": "よみます",
+              "itemId": "vocab-yomu"
+            }
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "grammar-desu"
+      ],
+      "patternRuby": [],
+      "formationRuby": [
+        {
+          "text": "読む",
+          "reading": "よむ",
+          "itemId": "vocab-yomu"
+        },
+        {
+          "text": "読みます",
+          "reading": "よみます",
+          "itemId": "vocab-yomu"
+        },
+        {
+          "text": "見る",
+          "reading": "みる",
+          "itemId": "vocab-miru"
+        },
+        {
+          "text": "見ます",
+          "reading": "みます",
+          "itemId": "vocab-miru"
+        },
+        {
+          "text": "聞く",
+          "reading": "きく",
+          "itemId": "vocab-kiku"
+        },
+        {
+          "text": "聞きます",
+          "reading": "ききます",
+          "itemId": "vocab-kiku"
+        },
+        {
+          "text": "勉強する",
+          "reading": "べんきょうする",
+          "itemId": "vocab-benkyou"
+        },
+        {
+          "text": "勉強します",
+          "reading": "べんきょうします",
+          "itemId": "vocab-benkyou"
+        }
+      ]
+    },
+    {
+      "id": "grammar-wo",
+      "type": "grammar",
+      "title": "The object of an action: を",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "daily-actions"
+      ],
+      "prerequisites": [
+        "grammar-wa"
+      ],
+      "revision": 1,
+      "unitId": "unit-daily-actions",
+      "lessonId": "lesson-reading-and-actions",
+      "pattern": "N を verb",
+      "explanation": "を marks the thing directly affected by an action: what you read, see, hear, eat or drink.",
+      "formation": "本を読みます; 日本語を勉強します",
+      "nuance": "The particle is written を and pronounced お. Keep it directly after its object.",
+      "commonMistakes": [
+        "Do not use は as a substitute for the object marker in these basic action sentences."
+      ],
+      "examples": [
+        {
+          "japanese": "本を読みます。",
+          "translation": "I read a book.",
+          "ruby": [
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            },
+            {
+              "text": "読みます",
+              "reading": "よみます",
+              "itemId": "vocab-yomu"
+            }
+          ]
+        },
+        {
+          "japanese": "テレビを見ます。",
+          "translation": "I watch television.",
+          "ruby": [
+            {
+              "text": "見ます",
+              "reading": "みます",
+              "itemId": "vocab-miru"
+            }
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "grammar-wa"
+      ],
+      "patternRuby": [],
+      "formationRuby": [
+        {
+          "text": "本",
+          "reading": "ほん",
+          "itemId": "vocab-hon"
+        },
+        {
+          "text": "読みます",
+          "reading": "よみます",
+          "itemId": "vocab-yomu"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご",
+          "itemId": "vocab-nihongo"
+        },
+        {
+          "text": "勉強します",
+          "reading": "べんきょうします",
+          "itemId": "vocab-benkyou"
+        }
+      ]
+    },
+    {
+      "id": "grammar-food-actions",
+      "type": "grammar",
+      "title": "Eating and drinking politely",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "daily-actions"
+      ],
+      "prerequisites": [
+        "grammar-masu",
+        "grammar-wo"
+      ],
+      "revision": 1,
+      "unitId": "unit-daily-actions",
+      "lessonId": "lesson-food-and-drink",
+      "pattern": "食べます / 飲みます",
+      "explanation": "Pair useful food words with the actions 食べます and 飲みます.",
+      "formation": "食べる → 食べます; 飲む → 飲みます",
+      "nuance": "ごはん can mean cooked rice or a meal. コーヒー keeps its long vowel. Water and tea take 飲みます, not 食べます.",
+      "commonMistakes": [],
+      "examples": [
+        {
+          "japanese": "ごはんを食べます。",
+          "translation": "I eat rice.",
+          "ruby": [
+            {
+              "text": "食べます",
+              "reading": "たべます",
+              "itemId": "vocab-taberu"
+            }
+          ]
+        },
+        {
+          "japanese": "お茶を飲みます。",
+          "translation": "I drink tea.",
+          "ruby": [
+            {
+              "text": "お茶",
+              "reading": "おちゃ",
+              "itemId": "vocab-ocha"
+            },
+            {
+              "text": "飲みます",
+              "reading": "のみます",
+              "itemId": "vocab-nomu"
+            }
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "grammar-masu",
+        "grammar-wo"
+      ],
+      "patternRuby": [
+        {
+          "text": "食べます",
+          "reading": "たべます",
+          "itemId": "vocab-taberu"
+        },
+        {
+          "text": "飲みます",
+          "reading": "のみます",
+          "itemId": "vocab-nomu"
+        }
+      ],
+      "formationRuby": [
+        {
+          "text": "食べる",
+          "reading": "たべる",
+          "itemId": "vocab-taberu"
+        },
+        {
+          "text": "食べます",
+          "reading": "たべます",
+          "itemId": "vocab-taberu"
+        },
+        {
+          "text": "飲む",
+          "reading": "のむ",
+          "itemId": "vocab-nomu"
+        },
+        {
+          "text": "飲みます",
+          "reading": "のみます",
+          "itemId": "vocab-nomu"
+        }
+      ]
+    },
+    {
+      "id": "grammar-ni-destination",
+      "type": "grammar",
+      "title": "A destination with に",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "daily-actions"
+      ],
+      "prerequisites": [
+        "grammar-masu"
+      ],
+      "revision": 1,
+      "unitId": "unit-daily-actions",
+      "lessonId": "lesson-going-places",
+      "pattern": "place に 行きます / 来ます / 帰ります",
+      "explanation": "に marks the destination of going, coming or returning.",
+      "formation": "行く → 行きます; 来る → 来ます; 帰る → 帰ります",
+      "nuance": "行きます is go, 来ます is come toward the speaker or the relevant viewpoint, and 帰ります returns to home or one’s base.",
+      "commonMistakes": [],
+      "examples": [
+        {
+          "japanese": "学校に行きます。",
+          "translation": "I go to school.",
+          "ruby": [
+            {
+              "text": "学校",
+              "reading": "がっこう",
+              "itemId": "vocab-gakkou"
+            },
+            {
+              "text": "行きます",
+              "reading": "いきます",
+              "itemId": "vocab-iku"
+            }
+          ]
+        },
+        {
+          "japanese": "友達は家に来ます。",
+          "translation": "My friend comes to my house.",
+          "ruby": [
+            {
+              "text": "友達",
+              "reading": "ともだち",
+              "itemId": "vocab-tomodachi"
+            },
+            {
+              "text": "家",
+              "reading": "いえ",
+              "itemId": "vocab-ie"
+            },
+            {
+              "text": "来ます",
+              "reading": "きます",
+              "itemId": "vocab-kuru"
+            }
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "grammar-masu"
+      ],
+      "patternRuby": [
+        {
+          "text": "行きます",
+          "reading": "いきます",
+          "itemId": "vocab-iku"
+        },
+        {
+          "text": "来ます",
+          "reading": "きます",
+          "itemId": "vocab-kuru"
+        },
+        {
+          "text": "帰ります",
+          "reading": "かえります",
+          "itemId": "vocab-kaeru"
+        }
+      ],
+      "formationRuby": [
+        {
+          "text": "行く",
+          "reading": "いく",
+          "itemId": "vocab-iku"
+        },
+        {
+          "text": "行きます",
+          "reading": "いきます",
+          "itemId": "vocab-iku"
+        },
+        {
+          "text": "来る",
+          "reading": "くる",
+          "itemId": "vocab-kuru"
+        },
+        {
+          "text": "来ます",
+          "reading": "きます",
+          "itemId": "vocab-kuru"
+        },
+        {
+          "text": "帰る",
+          "reading": "かえる",
+          "itemId": "vocab-kaeru"
+        },
+        {
+          "text": "帰ります",
+          "reading": "かえります",
+          "itemId": "vocab-kaeru"
+        }
+      ]
+    },
+    {
+      "id": "grammar-ni-time",
+      "type": "grammar",
+      "title": "A specified time with に",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "daily-actions"
+      ],
+      "prerequisites": [
+        "grammar-clock",
+        "grammar-masu"
+      ],
+      "revision": 1,
+      "unitId": "unit-daily-actions",
+      "lessonId": "lesson-going-places",
+      "pattern": "time に verb",
+      "explanation": "Put に after a specified clock time to say when an action happens.",
+      "formation": "九時に学校に行きます。",
+      "nuance": "Two に phrases can appear together: one is the time, one the destination. 今日, 明日, 毎日 and 毎朝 are normally used without に in these sentences.",
+      "commonMistakes": [
+        "Do not add に after 毎日 in these routines."
+      ],
+      "examples": [
+        {
+          "japanese": "午前九時に学校に行きます。",
+          "translation": "I go to school at nine a.m.",
+          "ruby": [
+            {
+              "text": "午前",
+              "reading": "ごぜん",
+              "itemId": "vocab-gozen"
+            },
+            {
+              "text": "九時",
+              "reading": "くじ",
+              "itemId": "vocab-ji"
+            },
+            {
+              "text": "学校",
+              "reading": "がっこう",
+              "itemId": "vocab-gakkou"
+            },
+            {
+              "text": "行きます",
+              "reading": "いきます",
+              "itemId": "vocab-iku"
+            }
+          ]
+        },
+        {
+          "japanese": "明日、駅に行きます。",
+          "translation": "I will go to the station tomorrow.",
+          "ruby": [
+            {
+              "text": "明日",
+              "reading": "あした",
+              "itemId": "vocab-ashita"
+            },
+            {
+              "text": "駅",
+              "reading": "えき",
+              "itemId": "vocab-eki"
+            },
+            {
+              "text": "行きます",
+              "reading": "いきます",
+              "itemId": "vocab-iku"
+            }
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "grammar-clock",
+        "grammar-masu"
+      ],
+      "patternRuby": [],
+      "formationRuby": [
+        {
+          "text": "九時",
+          "reading": "くじ",
+          "itemId": "vocab-ji"
+        },
+        {
+          "text": "学校",
+          "reading": "がっこう",
+          "itemId": "vocab-gakkou"
+        },
+        {
+          "text": "行きます",
+          "reading": "いきます",
+          "itemId": "vocab-iku"
+        }
+      ]
+    },
+    {
+      "id": "grammar-de-place",
+      "type": "grammar",
+      "title": "Where an action happens: で",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "daily-actions"
+      ],
+      "prerequisites": [
+        "grammar-ni-destination",
+        "grammar-wo"
+      ],
+      "revision": 1,
+      "unitId": "unit-daily-actions",
+      "lessonId": "lesson-where-actions-happen",
+      "pattern": "place で N を verb",
+      "explanation": "で marks the place where an action takes place.",
+      "formation": "図書館で本を読みます。",
+      "nuance": "Compare 学校に行きます (school is the destination) with 学校で勉強します (school is the location of the action). Existence uses に in the next unit.",
+      "commonMistakes": [],
+      "examples": [
+        {
+          "japanese": "家でごはんを食べます。",
+          "translation": "I eat rice at home.",
+          "ruby": [
+            {
+              "text": "家",
+              "reading": "いえ",
+              "itemId": "vocab-ie"
+            },
+            {
+              "text": "食べます",
+              "reading": "たべます",
+              "itemId": "vocab-taberu"
+            }
+          ]
+        },
+        {
+          "japanese": "学校で日本語を勉強します。",
+          "translation": "I study Japanese at school.",
+          "ruby": [
+            {
+              "text": "学校",
+              "reading": "がっこう",
+              "itemId": "vocab-gakkou"
+            },
+            {
+              "text": "日本語",
+              "reading": "にほんご",
+              "itemId": "vocab-nihongo"
+            },
+            {
+              "text": "勉強します",
+              "reading": "べんきょうします",
+              "itemId": "vocab-benkyou"
+            }
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "grammar-ni-destination",
+        "grammar-wo"
+      ],
+      "patternRuby": [],
+      "formationRuby": [
+        {
+          "text": "図書館",
+          "reading": "としょかん",
+          "itemId": "vocab-toshokan"
+        },
+        {
+          "text": "本",
+          "reading": "ほん",
+          "itemId": "vocab-hon"
+        },
+        {
+          "text": "読みます",
+          "reading": "よみます",
+          "itemId": "vocab-yomu"
+        }
+      ]
+    },
+    {
+      "id": "grammar-aru",
+      "type": "grammar",
+      "title": "There is a thing: あります",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "existence-and-position"
+      ],
+      "prerequisites": [
+        "grammar-ni-destination"
+      ],
+      "revision": 1,
+      "unitId": "unit-existence-and-position",
+      "lessonId": "lesson-things-exist",
+      "pattern": "place に thing が あります。",
+      "explanation": "あります describes the existence of things and plants. The place takes に; the thing that exists takes が.",
+      "formation": "ある → あります; 部屋に机があります。",
+      "nuance": "に here locates existence. It does not mark an action location like で. People and animals use います in the next lesson.",
+      "commonMistakes": [],
+      "examples": [
+        {
+          "japanese": "部屋に机があります。",
+          "translation": "There is a desk in the room.",
+          "ruby": [
+            {
+              "text": "部屋",
+              "reading": "へや",
+              "itemId": "vocab-heya"
+            },
+            {
+              "text": "机",
+              "reading": "つくえ",
+              "itemId": "vocab-tsukue"
+            }
+          ]
+        },
+        {
+          "japanese": "学校に図書館があります。",
+          "translation": "There is a library at the school.",
+          "ruby": [
+            {
+              "text": "学校",
+              "reading": "がっこう",
+              "itemId": "vocab-gakkou"
+            },
+            {
+              "text": "図書館",
+              "reading": "としょかん",
+              "itemId": "vocab-toshokan"
+            }
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "grammar-ni-destination"
+      ],
+      "patternRuby": [],
+      "formationRuby": [
+        {
+          "text": "部屋",
+          "reading": "へや",
+          "itemId": "vocab-heya"
+        },
+        {
+          "text": "机",
+          "reading": "つくえ",
+          "itemId": "vocab-tsukue"
+        }
+      ]
+    },
+    {
+      "id": "grammar-ga-existence",
+      "type": "grammar",
+      "title": "Introducing what exists with が",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "existence-and-position"
+      ],
+      "prerequisites": [
+        "grammar-wa"
+      ],
+      "revision": 1,
+      "unitId": "unit-existence-and-position",
+      "lessonId": "lesson-things-exist",
+      "pattern": "N が あります / います。",
+      "explanation": "In an existence sentence, が identifies the thing or living being being introduced.",
+      "formation": "place に + N が + existence verb",
+      "nuance": "This is a first use of が, not a complete explanation of は and が. To talk about a known item’s location, N は place にあります is also possible after the basic pattern is familiar.",
+      "commonMistakes": [],
+      "examples": [
+        {
+          "japanese": "部屋に本があります。",
+          "translation": "There is a book in the room.",
+          "ruby": [
+            {
+              "text": "部屋",
+              "reading": "へや",
+              "itemId": "vocab-heya"
+            },
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            }
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "grammar-wa"
+      ],
+      "patternRuby": [],
+      "formationRuby": []
+    },
+    {
+      "id": "grammar-iru",
+      "type": "grammar",
+      "title": "There is a person or animal: います",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "existence-and-position"
+      ],
+      "prerequisites": [
+        "grammar-aru",
+        "grammar-ga-existence"
+      ],
+      "revision": 1,
+      "unitId": "unit-existence-and-position",
+      "lessonId": "lesson-people-and-animals",
+      "pattern": "place に person / animal が います。",
+      "explanation": "Use います for people and animals, with the same に and が pattern used with あります.",
+      "formation": "いる → います; 学校に先生がいます。",
+      "nuance": "A cat is living, so 猫がいます. A book is a thing, so 本があります.",
+      "commonMistakes": [],
+      "examples": [
+        {
+          "japanese": "部屋に猫がいます。",
+          "translation": "There is a cat in the room.",
+          "ruby": [
+            {
+              "text": "部屋",
+              "reading": "へや",
+              "itemId": "vocab-heya"
+            },
+            {
+              "text": "猫",
+              "reading": "ねこ",
+              "itemId": "vocab-neko"
+            }
+          ]
+        },
+        {
+          "japanese": "学校に先生がいます。",
+          "translation": "There is a teacher at school.",
+          "ruby": [
+            {
+              "text": "学校",
+              "reading": "がっこう",
+              "itemId": "vocab-gakkou"
+            },
+            {
+              "text": "先生",
+              "reading": "せんせい",
+              "itemId": "vocab-sensei"
+            }
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "grammar-aru",
+        "grammar-ga-existence"
+      ],
+      "patternRuby": [],
+      "formationRuby": [
+        {
+          "text": "学校",
+          "reading": "がっこう",
+          "itemId": "vocab-gakkou"
+        },
+        {
+          "text": "先生",
+          "reading": "せんせい",
+          "itemId": "vocab-sensei"
+        }
+      ]
+    },
+    {
+      "id": "grammar-positions",
+      "type": "grammar",
+      "title": "Above, below, inside and beside",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "existence-and-position"
+      ],
+      "prerequisites": [
+        "grammar-no",
+        "grammar-iru",
+        "grammar-aru"
+      ],
+      "revision": 1,
+      "unitId": "unit-existence-and-position",
+      "lessonId": "lesson-positions",
+      "pattern": "N の position に N が あります / います。",
+      "explanation": "Position nouns connect to a reference object with の. The whole place expression then takes に.",
+      "formation": "机の上に本があります; 机の下に猫がいます",
+      "nuance": "For a known topic you can ask 猫はどこにいますか and answer 猫は机の下にいます. 上 means on top or above; 下 means below or under.",
+      "commonMistakes": [],
+      "examples": [
+        {
+          "japanese": "かばんの中にノートがあります。",
+          "translation": "There is a notebook inside the bag.",
+          "ruby": [
+            {
+              "text": "中",
+              "reading": "なか",
+              "itemId": "vocab-naka"
+            }
+          ]
+        },
+        {
+          "japanese": "猫は机の下にいます。",
+          "translation": "The cat is under the desk.",
+          "ruby": [
+            {
+              "text": "猫",
+              "reading": "ねこ",
+              "itemId": "vocab-neko"
+            },
+            {
+              "text": "机",
+              "reading": "つくえ",
+              "itemId": "vocab-tsukue"
+            },
+            {
+              "text": "下",
+              "reading": "した",
+              "itemId": "vocab-shita"
+            }
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "grammar-no",
+        "grammar-iru",
+        "grammar-aru"
+      ],
+      "patternRuby": [],
+      "formationRuby": [
+        {
+          "text": "机",
+          "reading": "つくえ",
+          "itemId": "vocab-tsukue"
+        },
+        {
+          "text": "上",
+          "reading": "うえ",
+          "itemId": "vocab-ue"
+        },
+        {
+          "text": "本",
+          "reading": "ほん",
+          "itemId": "vocab-hon"
+        },
+        {
+          "text": "机",
+          "reading": "つくえ",
+          "itemId": "vocab-tsukue"
+        },
+        {
+          "text": "下",
+          "reading": "した",
+          "itemId": "vocab-shita"
+        },
+        {
+          "text": "猫",
+          "reading": "ねこ",
+          "itemId": "vocab-neko"
+        }
+      ]
+    },
+    {
+      "id": "grammar-i-adjectives",
+      "type": "grammar",
+      "title": "First い adjectives",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "descriptions-and-routines"
+      ],
+      "prerequisites": [
+        "grammar-desu",
+        "grammar-kono-series"
+      ],
+      "revision": 1,
+      "unitId": "unit-descriptions-and-routines",
+      "lessonId": "lesson-describing-things",
+      "pattern": "い-adjective です / い-adjective + N",
+      "explanation": "Use an い adjective directly before a noun or before です in a polite description.",
+      "formation": "大きい机; この机は大きいです。",
+      "nuance": "These are positive present descriptions. Keep the final い before a noun. 高い means expensive for a price and high or tall in other contexts.",
+      "commonMistakes": [
+        "Do not add な: 大きい机, not 大きいな机."
+      ],
+      "examples": [
+        {
+          "japanese": "小さいかばんです。",
+          "translation": "It is a small bag.",
+          "ruby": [
+            {
+              "text": "小さい",
+              "reading": "ちいさい",
+              "itemId": "vocab-chiisai"
+            }
+          ]
+        },
+        {
+          "japanese": "この本は新しいです。",
+          "translation": "This book is new.",
+          "ruby": [
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            },
+            {
+              "text": "新しい",
+              "reading": "あたらしい",
+              "itemId": "vocab-atarashii"
+            }
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "grammar-desu",
+        "grammar-kono-series"
+      ],
+      "patternRuby": [],
+      "formationRuby": [
+        {
+          "text": "大きい",
+          "reading": "おおきい",
+          "itemId": "vocab-ookii"
+        },
+        {
+          "text": "机",
+          "reading": "つくえ",
+          "itemId": "vocab-tsukue"
+        },
+        {
+          "text": "机",
+          "reading": "つくえ",
+          "itemId": "vocab-tsukue"
+        },
+        {
+          "text": "大きい",
+          "reading": "おおきい",
+          "itemId": "vocab-ookii"
+        }
+      ]
+    },
+    {
+      "id": "grammar-na-adjectives",
+      "type": "grammar",
+      "title": "First な adjectives",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "descriptions-and-routines"
+      ],
+      "prerequisites": [
+        "grammar-i-adjectives"
+      ],
+      "revision": 1,
+      "unitId": "unit-descriptions-and-routines",
+      "lessonId": "lesson-describing-places",
+      "pattern": "な-adjective です / な-adjective な N",
+      "explanation": "Use な between this adjective type and a noun; use です directly in a polite description.",
+      "formation": "静かな公園; この公園は静かです。",
+      "nuance": "きれい ends in い but is a な adjective: きれいな部屋. にぎやか describes a lively place. Adjective negative and past forms come in a later tranche.",
+      "commonMistakes": [
+        "Use きれいな部屋, not きれい部屋."
+      ],
+      "examples": [
+        {
+          "japanese": "静かな公園です。",
+          "translation": "It is a quiet park.",
+          "ruby": [
+            {
+              "text": "静か",
+              "reading": "しずか",
+              "itemId": "vocab-shizuka"
+            },
+            {
+              "text": "公園",
+              "reading": "こうえん",
+              "itemId": "vocab-kouen"
+            }
+          ]
+        },
+        {
+          "japanese": "この部屋はきれいです。",
+          "translation": "This room is clean.",
+          "ruby": [
+            {
+              "text": "部屋",
+              "reading": "へや",
+              "itemId": "vocab-heya"
+            }
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "grammar-i-adjectives"
+      ],
+      "patternRuby": [],
+      "formationRuby": [
+        {
+          "text": "静か",
+          "reading": "しずか",
+          "itemId": "vocab-shizuka"
+        },
+        {
+          "text": "公園",
+          "reading": "こうえん",
+          "itemId": "vocab-kouen"
+        },
+        {
+          "text": "公園",
+          "reading": "こうえん",
+          "itemId": "vocab-kouen"
+        },
+        {
+          "text": "静か",
+          "reading": "しずか",
+          "itemId": "vocab-shizuka"
+        }
+      ]
+    },
+    {
+      "id": "grammar-masen",
+      "type": "grammar",
+      "title": "Saying an action does not happen",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "descriptions-and-routines"
+      ],
+      "prerequisites": [
+        "grammar-masu",
+        "grammar-iru",
+        "grammar-noun-negative"
+      ],
+      "revision": 1,
+      "unitId": "unit-descriptions-and-routines",
+      "lessonId": "lesson-negative-routines",
+      "pattern": "polite verb ending ません",
+      "explanation": "Replace the ます ending with ません for a polite present negative: an action does not happen or will not happen.",
+      "formation": "読みます → 読みません; 食べます → 食べません; 行きます → 行きません",
+      "nuance": "ありません means a thing does not exist; いません means a person or animal is absent. Noun negatives still use じゃありません. Time words clarify a routine versus a future plan.",
+      "commonMistakes": [],
+      "examples": [
+        {
+          "japanese": "今日は学校に行きません。",
+          "translation": "I will not go to school today.",
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう",
+              "itemId": "vocab-kyou"
+            },
+            {
+              "text": "学校",
+              "reading": "がっこう",
+              "itemId": "vocab-gakkou"
+            },
+            {
+              "text": "行きません",
+              "reading": "いきません",
+              "itemId": "vocab-iku"
+            }
+          ]
+        },
+        {
+          "japanese": "コーヒーを飲みません。",
+          "translation": "I do not drink coffee.",
+          "ruby": [
+            {
+              "text": "飲みません",
+              "reading": "のみません",
+              "itemId": "vocab-nomu"
+            }
+          ]
+        },
+        {
+          "japanese": "部屋に猫はいません。",
+          "translation": "There is no cat in the room.",
+          "ruby": [
+            {
+              "text": "部屋",
+              "reading": "へや",
+              "itemId": "vocab-heya"
+            },
+            {
+              "text": "猫",
+              "reading": "ねこ",
+              "itemId": "vocab-neko"
+            }
+          ]
+        }
+      ],
+      "relatedGrammar": [
+        "grammar-masu",
+        "grammar-iru",
+        "grammar-noun-negative"
+      ],
+      "patternRuby": [],
+      "formationRuby": [
+        {
+          "text": "読みます",
+          "reading": "よみます",
+          "itemId": "vocab-yomu"
+        },
+        {
+          "text": "読みません",
+          "reading": "よみません",
+          "itemId": "vocab-yomu"
+        },
+        {
+          "text": "食べます",
+          "reading": "たべます",
+          "itemId": "vocab-taberu"
+        },
+        {
+          "text": "食べません",
+          "reading": "たべません",
+          "itemId": "vocab-taberu"
+        },
+        {
+          "text": "行きます",
+          "reading": "いきます",
+          "itemId": "vocab-iku"
+        },
+        {
+          "text": "行きません",
+          "reading": "いきません",
+          "itemId": "vocab-iku"
+        }
+      ]
+    }
+  ]
+}

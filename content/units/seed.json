@@ -1,0 +1,112 @@
+{
+  "items": [
+    {
+      "id": "unit-n5-basics",
+      "type": "unit",
+      "title": "N5 foundations",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "n5-basics"
+      ],
+      "prerequisites": [],
+      "revision": 4,
+      "lessonRefs": [
+        "lesson-first-words",
+        "lesson-meeting-people",
+        "lesson-simple-questions",
+        "lesson-whose-book"
+      ]
+    },
+    {
+      "id": "unit-things-and-places",
+      "type": "unit",
+      "title": "Things and places",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "things-and-places"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "lessonRefs": [
+        "lesson-also",
+        "lesson-identifying-things",
+        "lesson-choosing-things",
+        "lesson-places"
+      ]
+    },
+    {
+      "id": "unit-numbers-and-time",
+      "type": "unit",
+      "title": "Numbers and time",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "lessonRefs": [
+        "lesson-numbers",
+        "lesson-prices",
+        "lesson-clock-time",
+        "lesson-weekdays",
+        "lesson-dates"
+      ]
+    },
+    {
+      "id": "unit-daily-actions",
+      "type": "unit",
+      "title": "Daily actions",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "daily-actions"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "lessonRefs": [
+        "lesson-reading-and-actions",
+        "lesson-food-and-drink",
+        "lesson-going-places",
+        "lesson-where-actions-happen"
+      ]
+    },
+    {
+      "id": "unit-existence-and-position",
+      "type": "unit",
+      "title": "Existence and position",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "existence-and-position"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "lessonRefs": [
+        "lesson-things-exist",
+        "lesson-people-and-animals",
+        "lesson-positions"
+      ]
+    },
+    {
+      "id": "unit-descriptions-and-routines",
+      "type": "unit",
+      "title": "Descriptions and routines",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "descriptions-and-routines"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "lessonRefs": [
+        "lesson-describing-things",
+        "lesson-describing-places",
+        "lesson-negative-routines",
+        "lesson-a-day-to-read"
+      ]
+    }
+  ]
+}

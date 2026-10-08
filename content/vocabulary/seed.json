@@ -1,0 +1,5127 @@
+{
+  "items": [
+    {
+      "id": "vocab-ima",
+      "type": "vocabulary",
+      "title": "今",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "time"
+      ],
+      "prerequisites": [],
+      "revision": 4,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-clock-time",
+      "written": "今",
+      "reading": "いま",
+      "meanings": [
+        "now"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "今は四時です。",
+          "translation": "It is four o’clock now.",
+          "ruby": [
+            {
+              "text": "今",
+              "reading": "いま",
+              "itemId": "vocab-ima"
+            },
+            {
+              "text": "四時",
+              "reading": "よじ",
+              "itemId": "vocab-ji"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-watashi",
+      "type": "vocabulary",
+      "title": "私",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "person"
+      ],
+      "prerequisites": [],
+      "revision": 5,
+      "unitId": "unit-n5-basics",
+      "lessonId": "lesson-first-words",
+      "written": "私",
+      "reading": "わたし",
+      "meanings": [
+        "I; me"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "私は学生です。",
+          "translation": "I am a student.",
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし",
+              "itemId": "vocab-watashi"
+            },
+            {
+              "text": "学生",
+              "reading": "がくせい",
+              "itemId": "vocab-gakusei"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "src": "audio/vocab-watashi.wav",
+        "kind": "synthesized",
+        "transcript": "私",
+        "ruby": [
+          {
+            "text": "私",
+            "reading": "わたし",
+            "itemId": "vocab-watashi"
+          }
+        ],
+        "speechText": "わたし",
+        "voice": "Microsoft Haruka Desktop (ja-JP)"
+      }
+    },
+    {
+      "id": "vocab-gakusei",
+      "type": "vocabulary",
+      "title": "学生",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "person"
+      ],
+      "prerequisites": [
+        "vocab-watashi"
+      ],
+      "revision": 4,
+      "unitId": "unit-n5-basics",
+      "lessonId": "lesson-first-words",
+      "written": "学生",
+      "reading": "がくせい",
+      "meanings": [
+        "student"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "学生です。",
+          "translation": "I am a student.",
+          "ruby": [
+            {
+              "text": "学生",
+              "reading": "がくせい",
+              "itemId": "vocab-gakusei"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-nihon",
+      "type": "vocabulary",
+      "title": "日本",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "place"
+      ],
+      "prerequisites": [],
+      "revision": 4,
+      "unitId": "unit-n5-basics",
+      "lessonId": "lesson-first-words",
+      "written": "日本",
+      "reading": "にほん",
+      "meanings": [
+        "Japan"
+      ],
+      "partOfSpeech": "proper noun",
+      "examples": [
+        {
+          "japanese": "日本です。",
+          "translation": "It is Japan.",
+          "ruby": [
+            {
+              "text": "日本",
+              "reading": "にほん",
+              "itemId": "vocab-nihon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-namae",
+      "type": "vocabulary",
+      "title": "名前",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "identity"
+      ],
+      "prerequisites": [],
+      "revision": 4,
+      "unitId": "unit-n5-basics",
+      "lessonId": "lesson-first-words",
+      "written": "名前",
+      "reading": "なまえ",
+      "meanings": [
+        "name"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "名前は田中です。",
+          "translation": "My name is Tanaka.",
+          "ruby": [
+            {
+              "text": "名前",
+              "reading": "なまえ",
+              "itemId": "vocab-namae"
+            },
+            {
+              "text": "田中",
+              "reading": "たなか"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-sensei",
+      "type": "vocabulary",
+      "title": "先生",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "person"
+      ],
+      "prerequisites": [],
+      "revision": 4,
+      "unitId": "unit-n5-basics",
+      "lessonId": "lesson-meeting-people",
+      "written": "先生",
+      "reading": "せんせい",
+      "meanings": [
+        "teacher"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "先生です。",
+          "translation": "I am a teacher.",
+          "ruby": [
+            {
+              "text": "先生",
+              "reading": "せんせい",
+              "itemId": "vocab-sensei"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-tomodachi",
+      "type": "vocabulary",
+      "title": "友達",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "person"
+      ],
+      "prerequisites": [],
+      "revision": 4,
+      "unitId": "unit-n5-basics",
+      "lessonId": "lesson-whose-book",
+      "written": "友達",
+      "reading": "ともだち",
+      "meanings": [
+        "friend"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "田中さんは私の友達です。",
+          "translation": "Tanaka is my friend.",
+          "ruby": [
+            {
+              "text": "田中",
+              "reading": "たなか"
+            },
+            {
+              "text": "私",
+              "reading": "わたし",
+              "itemId": "vocab-watashi"
+            },
+            {
+              "text": "友達",
+              "reading": "ともだち",
+              "itemId": "vocab-tomodachi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-hon",
+      "type": "vocabulary",
+      "title": "本",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "object"
+      ],
+      "prerequisites": [],
+      "revision": 4,
+      "unitId": "unit-n5-basics",
+      "lessonId": "lesson-first-words",
+      "written": "本",
+      "reading": "ほん",
+      "meanings": [
+        "book"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "本です。",
+          "translation": "It is a book.",
+          "ruby": [
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-mizu",
+      "type": "vocabulary",
+      "title": "水",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "food"
+      ],
+      "prerequisites": [],
+      "revision": 4,
+      "unitId": "unit-daily-actions",
+      "lessonId": "lesson-food-and-drink",
+      "written": "水",
+      "reading": "みず",
+      "meanings": [
+        "water"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "水を飲みます。",
+          "translation": "I drink water.",
+          "ruby": [
+            {
+              "text": "水",
+              "reading": "みず",
+              "itemId": "vocab-mizu"
+            },
+            {
+              "text": "飲みます",
+              "reading": "のみます",
+              "itemId": "vocab-nomu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-tabemono",
+      "type": "vocabulary",
+      "title": "食べ物",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "food"
+      ],
+      "prerequisites": [],
+      "revision": 4,
+      "unitId": "unit-daily-actions",
+      "lessonId": "lesson-food-and-drink",
+      "written": "食べ物",
+      "reading": "たべもの",
+      "meanings": [
+        "food"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "これは私の食べ物です。",
+          "translation": "This is my food.",
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし",
+              "itemId": "vocab-watashi"
+            },
+            {
+              "text": "食べ物",
+              "reading": "たべもの",
+              "itemId": "vocab-tabemono"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-ohayou",
+      "type": "vocabulary",
+      "title": "おはよう",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "greeting"
+      ],
+      "prerequisites": [],
+      "revision": 4,
+      "unitId": "unit-n5-basics",
+      "lessonId": "lesson-meeting-people",
+      "written": "おはよう",
+      "reading": "おはよう",
+      "meanings": [
+        "good morning"
+      ],
+      "partOfSpeech": "expression",
+      "examples": [
+        {
+          "japanese": "おはようございます。",
+          "translation": "Good morning. (polite)",
+          "ruby": []
+        }
+      ]
+    },
+    {
+      "id": "vocab-arigatou",
+      "type": "vocabulary",
+      "title": "ありがとう",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "greeting"
+      ],
+      "prerequisites": [],
+      "revision": 4,
+      "unitId": "unit-n5-basics",
+      "lessonId": "lesson-meeting-people",
+      "written": "ありがとう",
+      "reading": "ありがとう",
+      "meanings": [
+        "thank you"
+      ],
+      "partOfSpeech": "expression",
+      "examples": [
+        {
+          "japanese": "ありがとうございます。",
+          "translation": "Thank you. (polite)",
+          "ruby": []
+        }
+      ]
+    },
+    {
+      "id": "vocab-hajimemashite",
+      "type": "vocabulary",
+      "title": "Nice to meet you (first greeting)",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "n5-basics"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-n5-basics",
+      "lessonId": "lesson-meeting-people",
+      "written": "はじめまして",
+      "reading": "はじめまして",
+      "meanings": [
+        "nice to meet you (first greeting)"
+      ],
+      "partOfSpeech": "expression",
+      "examples": [
+        {
+          "japanese": "はじめまして。田中です。",
+          "translation": "Nice to meet you. I am Tanaka.",
+          "ruby": [
+            {
+              "text": "田中",
+              "reading": "たなか"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-yoroshiku",
+      "type": "vocabulary",
+      "title": "Pleased to meet you; i look forward to knowing or working with you",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "n5-basics"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-n5-basics",
+      "lessonId": "lesson-meeting-people",
+      "written": "よろしくお願いします",
+      "reading": "よろしくおねがいします",
+      "meanings": [
+        "pleased to meet you; I look forward to knowing or working with you"
+      ],
+      "partOfSpeech": "expression",
+      "examples": [
+        {
+          "japanese": "はじめまして。よろしくお願いします。",
+          "translation": "Nice to meet you. I look forward to getting to know you.",
+          "ruby": [
+            {
+              "text": "よろしくお願いします",
+              "reading": "よろしくおねがいします",
+              "itemId": "vocab-yoroshiku"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-san",
+      "type": "vocabulary",
+      "title": "Polite title after a person’s name",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "n5-basics"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-n5-basics",
+      "lessonId": "lesson-meeting-people",
+      "written": "さん",
+      "reading": "さん",
+      "meanings": [
+        "polite title after a person’s name"
+      ],
+      "partOfSpeech": "suffix",
+      "examples": [
+        {
+          "japanese": "田中さんは先生です。",
+          "translation": "Tanaka is a teacher.",
+          "ruby": [
+            {
+              "text": "田中",
+              "reading": "たなか"
+            },
+            {
+              "text": "先生",
+              "reading": "せんせい",
+              "itemId": "vocab-sensei"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-kaishain",
+      "type": "vocabulary",
+      "title": "Company employee",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "n5-basics"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-n5-basics",
+      "lessonId": "lesson-meeting-people",
+      "written": "会社員",
+      "reading": "かいしゃいん",
+      "meanings": [
+        "company employee"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "私は会社員です。",
+          "translation": "I am a company employee.",
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし",
+              "itemId": "vocab-watashi"
+            },
+            {
+              "text": "会社員",
+              "reading": "かいしゃいん",
+              "itemId": "vocab-kaishain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-nihonjin",
+      "type": "vocabulary",
+      "title": "Japanese person",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "n5-basics"
+      ],
+      "prerequisites": [
+        "vocab-nihon"
+      ],
+      "revision": 5,
+      "unitId": "unit-n5-basics",
+      "lessonId": "lesson-meeting-people",
+      "written": "日本人",
+      "reading": "にほんじん",
+      "meanings": [
+        "Japanese person"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "田中さんは日本人です。",
+          "translation": "Tanaka is Japanese.",
+          "ruby": [
+            {
+              "text": "田中",
+              "reading": "たなか"
+            },
+            {
+              "text": "日本人",
+              "reading": "にほんじん",
+              "itemId": "vocab-nihonjin"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "src": "audio/vocab-nihonjin.wav",
+        "kind": "synthesized",
+        "transcript": "日本人",
+        "ruby": [
+          {
+            "text": "日本人",
+            "reading": "にほんじん",
+            "itemId": "vocab-nihonjin"
+          }
+        ],
+        "speechText": "にほんじん",
+        "voice": "Microsoft Haruka Desktop (ja-JP)"
+      }
+    },
+    {
+      "id": "vocab-hai",
+      "type": "vocabulary",
+      "title": "Yes",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "n5-basics"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-n5-basics",
+      "lessonId": "lesson-simple-questions",
+      "written": "はい",
+      "reading": "はい",
+      "meanings": [
+        "yes"
+      ],
+      "partOfSpeech": "interjection",
+      "examples": [
+        {
+          "japanese": "はい、学生です。",
+          "translation": "Yes, I am a student.",
+          "ruby": [
+            {
+              "text": "学生",
+              "reading": "がくせい",
+              "itemId": "vocab-gakusei"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-iie",
+      "type": "vocabulary",
+      "title": "No",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "n5-basics"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-n5-basics",
+      "lessonId": "lesson-simple-questions",
+      "written": "いいえ",
+      "reading": "いいえ",
+      "meanings": [
+        "no"
+      ],
+      "partOfSpeech": "interjection",
+      "examples": [
+        {
+          "japanese": "いいえ、会社員です。",
+          "translation": "No, I am a company employee.",
+          "ruby": [
+            {
+              "text": "会社員",
+              "reading": "かいしゃいん",
+              "itemId": "vocab-kaishain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-nan",
+      "type": "vocabulary",
+      "title": "What (before です and in many compounds)",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "n5-basics"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-n5-basics",
+      "lessonId": "lesson-simple-questions",
+      "written": "何",
+      "reading": "なん",
+      "meanings": [
+        "what (before です and in many compounds)"
+      ],
+      "partOfSpeech": "question word",
+      "examples": [
+        {
+          "japanese": "名前は何ですか。",
+          "translation": "What is your name?",
+          "ruby": [
+            {
+              "text": "名前",
+              "reading": "なまえ",
+              "itemId": "vocab-namae"
+            },
+            {
+              "text": "何",
+              "reading": "なん",
+              "itemId": "vocab-nan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-dare",
+      "type": "vocabulary",
+      "title": "Who",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "n5-basics"
+      ],
+      "prerequisites": [],
+      "revision": 5,
+      "unitId": "unit-n5-basics",
+      "lessonId": "lesson-simple-questions",
+      "written": "だれ",
+      "reading": "だれ",
+      "meanings": [
+        "who"
+      ],
+      "partOfSpeech": "question word",
+      "examples": [
+        {
+          "japanese": "田中さんはだれですか。",
+          "translation": "Who is Tanaka?",
+          "ruby": [
+            {
+              "text": "田中",
+              "reading": "たなか"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "src": "audio/vocab-dare.wav",
+        "kind": "synthesized",
+        "transcript": "だれ",
+        "ruby": [],
+        "speechText": "だれ",
+        "voice": "Microsoft Haruka Desktop (ja-JP)"
+      }
+    },
+    {
+      "id": "vocab-kaban",
+      "type": "vocabulary",
+      "title": "Bag",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "n5-basics"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-n5-basics",
+      "lessonId": "lesson-whose-book",
+      "written": "かばん",
+      "reading": "かばん",
+      "meanings": [
+        "bag"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "田中さんのかばんです。",
+          "translation": "It is Tanaka’s bag.",
+          "ruby": [
+            {
+              "text": "田中",
+              "reading": "たなか"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-notebook",
+      "type": "vocabulary",
+      "title": "Notebook",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "n5-basics"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-n5-basics",
+      "lessonId": "lesson-whose-book",
+      "written": "ノート",
+      "reading": "ノート",
+      "meanings": [
+        "notebook"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "私のノートです。",
+          "translation": "It is my notebook.",
+          "ruby": [
+            {
+              "text": "私",
+              "reading": "わたし",
+              "itemId": "vocab-watashi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-nihongo",
+      "type": "vocabulary",
+      "title": "Japanese language",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "n5-basics"
+      ],
+      "prerequisites": [
+        "vocab-nihon",
+        "vocab-hon"
+      ],
+      "revision": 5,
+      "unitId": "unit-n5-basics",
+      "lessonId": "lesson-whose-book",
+      "written": "日本語",
+      "reading": "にほんご",
+      "meanings": [
+        "Japanese language"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "日本語の本です。",
+          "translation": "It is a Japanese-language book.",
+          "ruby": [
+            {
+              "text": "日本語",
+              "reading": "にほんご",
+              "itemId": "vocab-nihongo"
+            },
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "src": "audio/vocab-nihongo.wav",
+        "kind": "synthesized",
+        "transcript": "日本語",
+        "ruby": [
+          {
+            "text": "日本語",
+            "reading": "にほんご",
+            "itemId": "vocab-nihongo"
+          }
+        ],
+        "speechText": "にほんご",
+        "voice": "Microsoft Haruka Desktop (ja-JP)"
+      }
+    },
+    {
+      "id": "vocab-watashitachi",
+      "type": "vocabulary",
+      "title": "We; us",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "things-and-places"
+      ],
+      "prerequisites": [
+        "vocab-watashi"
+      ],
+      "revision": 5,
+      "unitId": "unit-things-and-places",
+      "lessonId": "lesson-also",
+      "written": "私たち",
+      "reading": "わたしたち",
+      "meanings": [
+        "we; us"
+      ],
+      "partOfSpeech": "pronoun",
+      "examples": [
+        {
+          "japanese": "私たちは学生です。",
+          "translation": "We are students.",
+          "ruby": [
+            {
+              "text": "私たち",
+              "reading": "わたしたち",
+              "itemId": "vocab-watashitachi"
+            },
+            {
+              "text": "学生",
+              "reading": "がくせい",
+              "itemId": "vocab-gakusei"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "src": "audio/vocab-watashitachi.wav",
+        "kind": "synthesized",
+        "transcript": "私たち",
+        "ruby": [
+          {
+            "text": "私たち",
+            "reading": "わたしたち",
+            "itemId": "vocab-watashitachi"
+          }
+        ],
+        "speechText": "わたしたち",
+        "voice": "Microsoft Haruka Desktop (ja-JP)"
+      }
+    },
+    {
+      "id": "vocab-kore",
+      "type": "vocabulary",
+      "title": "This (thing near the speaker)",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "things-and-places"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-things-and-places",
+      "lessonId": "lesson-identifying-things",
+      "written": "これ",
+      "reading": "これ",
+      "meanings": [
+        "this (thing near the speaker)"
+      ],
+      "partOfSpeech": "pronoun",
+      "examples": [
+        {
+          "japanese": "これは本です。",
+          "translation": "This is a book.",
+          "ruby": [
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-sore",
+      "type": "vocabulary",
+      "title": "That (thing near the listener)",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "things-and-places"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-things-and-places",
+      "lessonId": "lesson-identifying-things",
+      "written": "それ",
+      "reading": "それ",
+      "meanings": [
+        "that (thing near the listener)"
+      ],
+      "partOfSpeech": "pronoun",
+      "examples": [
+        {
+          "japanese": "それはノートです。",
+          "translation": "That is a notebook.",
+          "ruby": []
+        }
+      ]
+    },
+    {
+      "id": "vocab-are",
+      "type": "vocabulary",
+      "title": "That (thing away from both people)",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "things-and-places"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-things-and-places",
+      "lessonId": "lesson-identifying-things",
+      "written": "あれ",
+      "reading": "あれ",
+      "meanings": [
+        "that (thing away from both people)"
+      ],
+      "partOfSpeech": "pronoun",
+      "examples": [
+        {
+          "japanese": "あれはかばんです。",
+          "translation": "That over there is a bag.",
+          "ruby": []
+        }
+      ]
+    },
+    {
+      "id": "vocab-enpitsu",
+      "type": "vocabulary",
+      "title": "Pencil",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "things-and-places"
+      ],
+      "prerequisites": [],
+      "revision": 5,
+      "unitId": "unit-things-and-places",
+      "lessonId": "lesson-identifying-things",
+      "written": "えんぴつ",
+      "reading": "えんぴつ",
+      "meanings": [
+        "pencil"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "これはえんぴつです。",
+          "translation": "This is a pencil.",
+          "ruby": []
+        }
+      ],
+      "audio": {
+        "src": "audio/vocab-enpitsu.wav",
+        "kind": "synthesized",
+        "transcript": "えんぴつ",
+        "ruby": [],
+        "speechText": "えんぴつ",
+        "voice": "Microsoft Haruka Desktop (ja-JP)"
+      }
+    },
+    {
+      "id": "vocab-isu",
+      "type": "vocabulary",
+      "title": "Chair",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "things-and-places"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-things-and-places",
+      "lessonId": "lesson-identifying-things",
+      "written": "いす",
+      "reading": "いす",
+      "meanings": [
+        "chair"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "あれはいすです。",
+          "translation": "That over there is a chair.",
+          "ruby": []
+        }
+      ]
+    },
+    {
+      "id": "vocab-tsukue",
+      "type": "vocabulary",
+      "title": "Desk",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "things-and-places"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-things-and-places",
+      "lessonId": "lesson-identifying-things",
+      "written": "机",
+      "reading": "つくえ",
+      "meanings": [
+        "desk"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "それは机です。",
+          "translation": "That is a desk.",
+          "ruby": [
+            {
+              "text": "机",
+              "reading": "つくえ",
+              "itemId": "vocab-tsukue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-kono",
+      "type": "vocabulary",
+      "title": "This … (followed by a noun)",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "things-and-places"
+      ],
+      "prerequisites": [],
+      "revision": 5,
+      "unitId": "unit-things-and-places",
+      "lessonId": "lesson-choosing-things",
+      "written": "この",
+      "reading": "この",
+      "meanings": [
+        "this … (followed by a noun)"
+      ],
+      "partOfSpeech": "determiner",
+      "examples": [
+        {
+          "japanese": "この本は私の本です。",
+          "translation": "This book is my book.",
+          "ruby": [
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            },
+            {
+              "text": "私",
+              "reading": "わたし",
+              "itemId": "vocab-watashi"
+            },
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "src": "audio/vocab-kono.wav",
+        "kind": "synthesized",
+        "transcript": "この",
+        "ruby": [],
+        "speechText": "この",
+        "voice": "Microsoft Haruka Desktop (ja-JP)"
+      }
+    },
+    {
+      "id": "vocab-sono",
+      "type": "vocabulary",
+      "title": "That … (near the listener; followed by a noun)",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "things-and-places"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-things-and-places",
+      "lessonId": "lesson-choosing-things",
+      "written": "その",
+      "reading": "その",
+      "meanings": [
+        "that … (near the listener; followed by a noun)"
+      ],
+      "partOfSpeech": "determiner",
+      "examples": [
+        {
+          "japanese": "そのかばんは田中さんのかばんです。",
+          "translation": "That bag is Tanaka’s bag.",
+          "ruby": [
+            {
+              "text": "田中",
+              "reading": "たなか"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-ano",
+      "type": "vocabulary",
+      "title": "That … over there (followed by a noun)",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "things-and-places"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-things-and-places",
+      "lessonId": "lesson-choosing-things",
+      "written": "あの",
+      "reading": "あの",
+      "meanings": [
+        "that … over there (followed by a noun)"
+      ],
+      "partOfSpeech": "determiner",
+      "examples": [
+        {
+          "japanese": "あの人は先生です。",
+          "translation": "That person over there is a teacher.",
+          "ruby": [
+            {
+              "text": "人",
+              "reading": "ひと",
+              "itemId": "vocab-hito"
+            },
+            {
+              "text": "先生",
+              "reading": "せんせい",
+              "itemId": "vocab-sensei"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-dono",
+      "type": "vocabulary",
+      "title": "Which … (followed by a noun)",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "things-and-places"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-things-and-places",
+      "lessonId": "lesson-choosing-things",
+      "written": "どの",
+      "reading": "どの",
+      "meanings": [
+        "which … (followed by a noun)"
+      ],
+      "partOfSpeech": "determiner",
+      "examples": [
+        {
+          "japanese": "田中さんの本はどの本ですか。",
+          "translation": "Which book is Tanaka’s book?",
+          "ruby": [
+            {
+              "text": "田中",
+              "reading": "たなか"
+            },
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            },
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-hito",
+      "type": "vocabulary",
+      "title": "Person",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "things-and-places"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-things-and-places",
+      "lessonId": "lesson-choosing-things",
+      "written": "人",
+      "reading": "ひと",
+      "meanings": [
+        "person"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "あの人は私の友達です。",
+          "translation": "That person over there is my friend.",
+          "ruby": [
+            {
+              "text": "人",
+              "reading": "ひと",
+              "itemId": "vocab-hito"
+            },
+            {
+              "text": "私",
+              "reading": "わたし",
+              "itemId": "vocab-watashi"
+            },
+            {
+              "text": "友達",
+              "reading": "ともだち",
+              "itemId": "vocab-tomodachi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-koko",
+      "type": "vocabulary",
+      "title": "Here",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "things-and-places"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-things-and-places",
+      "lessonId": "lesson-places",
+      "written": "ここ",
+      "reading": "ここ",
+      "meanings": [
+        "here"
+      ],
+      "partOfSpeech": "pronoun",
+      "examples": [
+        {
+          "japanese": "ここは学校です。",
+          "translation": "This place is a school.",
+          "ruby": [
+            {
+              "text": "学校",
+              "reading": "がっこう",
+              "itemId": "vocab-gakkou"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-soko",
+      "type": "vocabulary",
+      "title": "There (near the listener)",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "things-and-places"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-things-and-places",
+      "lessonId": "lesson-places",
+      "written": "そこ",
+      "reading": "そこ",
+      "meanings": [
+        "there (near the listener)"
+      ],
+      "partOfSpeech": "pronoun",
+      "examples": [
+        {
+          "japanese": "そこは食堂です。",
+          "translation": "That place is the cafeteria.",
+          "ruby": [
+            {
+              "text": "食堂",
+              "reading": "しょくどう",
+              "itemId": "vocab-shokudou"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-asoko",
+      "type": "vocabulary",
+      "title": "Over there",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "things-and-places"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-things-and-places",
+      "lessonId": "lesson-places",
+      "written": "あそこ",
+      "reading": "あそこ",
+      "meanings": [
+        "over there"
+      ],
+      "partOfSpeech": "pronoun",
+      "examples": [
+        {
+          "japanese": "あそこは銀行です。",
+          "translation": "That place over there is a bank.",
+          "ruby": [
+            {
+              "text": "銀行",
+              "reading": "ぎんこう",
+              "itemId": "vocab-ginkou"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-doko",
+      "type": "vocabulary",
+      "title": "Where",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "things-and-places"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-things-and-places",
+      "lessonId": "lesson-places",
+      "written": "どこ",
+      "reading": "どこ",
+      "meanings": [
+        "where"
+      ],
+      "partOfSpeech": "question word",
+      "examples": [
+        {
+          "japanese": "図書館はどこですか。",
+          "translation": "Where is the library?",
+          "ruby": [
+            {
+              "text": "図書館",
+              "reading": "としょかん",
+              "itemId": "vocab-toshokan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-gakkou",
+      "type": "vocabulary",
+      "title": "School",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "things-and-places"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-things-and-places",
+      "lessonId": "lesson-places",
+      "written": "学校",
+      "reading": "がっこう",
+      "meanings": [
+        "school"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "ここは学校です。",
+          "translation": "This place is a school.",
+          "ruby": [
+            {
+              "text": "学校",
+              "reading": "がっこう",
+              "itemId": "vocab-gakkou"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-toshokan",
+      "type": "vocabulary",
+      "title": "Library",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "things-and-places"
+      ],
+      "prerequisites": [],
+      "revision": 5,
+      "unitId": "unit-things-and-places",
+      "lessonId": "lesson-places",
+      "written": "図書館",
+      "reading": "としょかん",
+      "meanings": [
+        "library"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "あそこは図書館です。",
+          "translation": "That place over there is the library.",
+          "ruby": [
+            {
+              "text": "図書館",
+              "reading": "としょかん",
+              "itemId": "vocab-toshokan"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "src": "audio/vocab-toshokan.wav",
+        "kind": "synthesized",
+        "transcript": "図書館",
+        "ruby": [
+          {
+            "text": "図書館",
+            "reading": "としょかん",
+            "itemId": "vocab-toshokan"
+          }
+        ],
+        "speechText": "としょかん",
+        "voice": "Microsoft Haruka Desktop (ja-JP)"
+      }
+    },
+    {
+      "id": "vocab-ginkou",
+      "type": "vocabulary",
+      "title": "Bank",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "things-and-places"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-things-and-places",
+      "lessonId": "lesson-places",
+      "written": "銀行",
+      "reading": "ぎんこう",
+      "meanings": [
+        "bank"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "銀行はどこですか。",
+          "translation": "Where is the bank?",
+          "ruby": [
+            {
+              "text": "銀行",
+              "reading": "ぎんこう",
+              "itemId": "vocab-ginkou"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-shokudou",
+      "type": "vocabulary",
+      "title": "Cafeteria; dining hall",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "things-and-places"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-things-and-places",
+      "lessonId": "lesson-places",
+      "written": "食堂",
+      "reading": "しょくどう",
+      "meanings": [
+        "cafeteria; dining hall"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "そこは学校の食堂です。",
+          "translation": "That place is the school cafeteria.",
+          "ruby": [
+            {
+              "text": "学校",
+              "reading": "がっこう",
+              "itemId": "vocab-gakkou"
+            },
+            {
+              "text": "食堂",
+              "reading": "しょくどう",
+              "itemId": "vocab-shokudou"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-bangou",
+      "type": "vocabulary",
+      "title": "Number (identifier)",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-numbers",
+      "written": "番号",
+      "reading": "ばんごう",
+      "meanings": [
+        "number (identifier)"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "番号は五です。",
+          "translation": "The number is five.",
+          "ruby": [
+            {
+              "text": "番号",
+              "reading": "ばんごう",
+              "itemId": "vocab-bangou"
+            },
+            {
+              "text": "五",
+              "reading": "ご",
+              "itemId": "vocab-go"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-zero",
+      "type": "vocabulary",
+      "title": "Zero",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-numbers",
+      "written": "零",
+      "reading": "れい",
+      "meanings": [
+        "zero"
+      ],
+      "partOfSpeech": "number",
+      "examples": [
+        {
+          "japanese": "番号は零です。",
+          "translation": "The number is zero.",
+          "ruby": [
+            {
+              "text": "番号",
+              "reading": "ばんごう",
+              "itemId": "vocab-bangou"
+            },
+            {
+              "text": "零",
+              "reading": "れい",
+              "itemId": "vocab-zero"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-ichi",
+      "type": "vocabulary",
+      "title": "One",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-numbers",
+      "written": "一",
+      "reading": "いち",
+      "meanings": [
+        "one"
+      ],
+      "partOfSpeech": "number",
+      "examples": [
+        {
+          "japanese": "番号は一です。",
+          "translation": "The number is one.",
+          "ruby": [
+            {
+              "text": "番号",
+              "reading": "ばんごう",
+              "itemId": "vocab-bangou"
+            },
+            {
+              "text": "一",
+              "reading": "いち",
+              "itemId": "vocab-ichi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-ni",
+      "type": "vocabulary",
+      "title": "Two",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-numbers",
+      "written": "二",
+      "reading": "に",
+      "meanings": [
+        "two"
+      ],
+      "partOfSpeech": "number",
+      "examples": [
+        {
+          "japanese": "番号は二です。",
+          "translation": "The number is two.",
+          "ruby": [
+            {
+              "text": "番号",
+              "reading": "ばんごう",
+              "itemId": "vocab-bangou"
+            },
+            {
+              "text": "二",
+              "reading": "に",
+              "itemId": "vocab-ni"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-san-number",
+      "type": "vocabulary",
+      "title": "Three",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-numbers",
+      "written": "三",
+      "reading": "さん",
+      "meanings": [
+        "three"
+      ],
+      "partOfSpeech": "number",
+      "examples": [
+        {
+          "japanese": "番号は三です。",
+          "translation": "The number is three.",
+          "ruby": [
+            {
+              "text": "番号",
+              "reading": "ばんごう",
+              "itemId": "vocab-bangou"
+            },
+            {
+              "text": "三",
+              "reading": "さん",
+              "itemId": "vocab-san-number"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-yon",
+      "type": "vocabulary",
+      "title": "Four",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-numbers",
+      "written": "四",
+      "reading": "よん",
+      "meanings": [
+        "four"
+      ],
+      "partOfSpeech": "number",
+      "examples": [
+        {
+          "japanese": "番号は四です。",
+          "translation": "The number is four.",
+          "ruby": [
+            {
+              "text": "番号",
+              "reading": "ばんごう",
+              "itemId": "vocab-bangou"
+            },
+            {
+              "text": "四",
+              "reading": "よん",
+              "itemId": "vocab-yon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-go",
+      "type": "vocabulary",
+      "title": "Five",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 5,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-numbers",
+      "written": "五",
+      "reading": "ご",
+      "meanings": [
+        "five"
+      ],
+      "partOfSpeech": "number",
+      "examples": [
+        {
+          "japanese": "番号は五です。",
+          "translation": "The number is five.",
+          "ruby": [
+            {
+              "text": "番号",
+              "reading": "ばんごう",
+              "itemId": "vocab-bangou"
+            },
+            {
+              "text": "五",
+              "reading": "ご",
+              "itemId": "vocab-go"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "src": "audio/vocab-go.wav",
+        "kind": "synthesized",
+        "transcript": "五",
+        "ruby": [
+          {
+            "text": "五",
+            "reading": "ご",
+            "itemId": "vocab-go"
+          }
+        ],
+        "speechText": "ご",
+        "voice": "Microsoft Haruka Desktop (ja-JP)"
+      }
+    },
+    {
+      "id": "vocab-roku",
+      "type": "vocabulary",
+      "title": "Six",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-numbers",
+      "written": "六",
+      "reading": "ろく",
+      "meanings": [
+        "six"
+      ],
+      "partOfSpeech": "number",
+      "examples": [
+        {
+          "japanese": "番号は六です。",
+          "translation": "The number is six.",
+          "ruby": [
+            {
+              "text": "番号",
+              "reading": "ばんごう",
+              "itemId": "vocab-bangou"
+            },
+            {
+              "text": "六",
+              "reading": "ろく",
+              "itemId": "vocab-roku"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-nana",
+      "type": "vocabulary",
+      "title": "Seven",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-numbers",
+      "written": "七",
+      "reading": "なな",
+      "meanings": [
+        "seven"
+      ],
+      "partOfSpeech": "number",
+      "examples": [
+        {
+          "japanese": "番号は七です。",
+          "translation": "The number is seven.",
+          "ruby": [
+            {
+              "text": "番号",
+              "reading": "ばんごう",
+              "itemId": "vocab-bangou"
+            },
+            {
+              "text": "七",
+              "reading": "なな",
+              "itemId": "vocab-nana"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-hachi",
+      "type": "vocabulary",
+      "title": "Eight",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-numbers",
+      "written": "八",
+      "reading": "はち",
+      "meanings": [
+        "eight"
+      ],
+      "partOfSpeech": "number",
+      "examples": [
+        {
+          "japanese": "番号は八です。",
+          "translation": "The number is eight.",
+          "ruby": [
+            {
+              "text": "番号",
+              "reading": "ばんごう",
+              "itemId": "vocab-bangou"
+            },
+            {
+              "text": "八",
+              "reading": "はち",
+              "itemId": "vocab-hachi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-kyuu",
+      "type": "vocabulary",
+      "title": "Nine",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-numbers",
+      "written": "九",
+      "reading": "きゅう",
+      "meanings": [
+        "nine"
+      ],
+      "partOfSpeech": "number",
+      "examples": [
+        {
+          "japanese": "番号は九です。",
+          "translation": "The number is nine.",
+          "ruby": [
+            {
+              "text": "番号",
+              "reading": "ばんごう",
+              "itemId": "vocab-bangou"
+            },
+            {
+              "text": "九",
+              "reading": "きゅう",
+              "itemId": "vocab-kyuu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-juu",
+      "type": "vocabulary",
+      "title": "Ten",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-numbers",
+      "written": "十",
+      "reading": "じゅう",
+      "meanings": [
+        "ten"
+      ],
+      "partOfSpeech": "number",
+      "examples": [
+        {
+          "japanese": "番号は十です。",
+          "translation": "The number is ten.",
+          "ruby": [
+            {
+              "text": "番号",
+              "reading": "ばんごう",
+              "itemId": "vocab-bangou"
+            },
+            {
+              "text": "十",
+              "reading": "じゅう",
+              "itemId": "vocab-juu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-juuichi",
+      "type": "vocabulary",
+      "title": "Eleven",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [
+        "vocab-juu",
+        "vocab-ichi"
+      ],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-prices",
+      "written": "十一",
+      "reading": "じゅういち",
+      "meanings": [
+        "eleven"
+      ],
+      "partOfSpeech": "number",
+      "examples": [
+        {
+          "japanese": "番号は十一です。",
+          "translation": "The number is eleven.",
+          "ruby": [
+            {
+              "text": "番号",
+              "reading": "ばんごう",
+              "itemId": "vocab-bangou"
+            },
+            {
+              "text": "十一",
+              "reading": "じゅういち",
+              "itemId": "vocab-juuichi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-nijuu",
+      "type": "vocabulary",
+      "title": "Twenty",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [
+        "vocab-ni",
+        "vocab-juu"
+      ],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-prices",
+      "written": "二十",
+      "reading": "にじゅう",
+      "meanings": [
+        "twenty"
+      ],
+      "partOfSpeech": "number",
+      "examples": [
+        {
+          "japanese": "番号は二十です。",
+          "translation": "The number is twenty.",
+          "ruby": [
+            {
+              "text": "番号",
+              "reading": "ばんごう",
+              "itemId": "vocab-bangou"
+            },
+            {
+              "text": "二十",
+              "reading": "にじゅう",
+              "itemId": "vocab-nijuu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-hyaku",
+      "type": "vocabulary",
+      "title": "One hundred",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 5,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-prices",
+      "written": "百",
+      "reading": "ひゃく",
+      "meanings": [
+        "one hundred"
+      ],
+      "partOfSpeech": "number",
+      "examples": [
+        {
+          "japanese": "このパンは百円です。",
+          "translation": "This bread is one hundred yen.",
+          "ruby": [
+            {
+              "text": "百",
+              "reading": "ひゃく",
+              "itemId": "vocab-hyaku"
+            },
+            {
+              "text": "円",
+              "reading": "えん",
+              "itemId": "vocab-en"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "src": "audio/vocab-hyaku.wav",
+        "kind": "synthesized",
+        "transcript": "百",
+        "ruby": [
+          {
+            "text": "百",
+            "reading": "ひゃく",
+            "itemId": "vocab-hyaku"
+          }
+        ],
+        "speechText": "ひゃく",
+        "voice": "Microsoft Haruka Desktop (ja-JP)"
+      }
+    },
+    {
+      "id": "vocab-sen",
+      "type": "vocabulary",
+      "title": "One thousand",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-prices",
+      "written": "千",
+      "reading": "せん",
+      "meanings": [
+        "one thousand"
+      ],
+      "partOfSpeech": "number",
+      "examples": [
+        {
+          "japanese": "この本は千円です。",
+          "translation": "This book is one thousand yen.",
+          "ruby": [
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            },
+            {
+              "text": "千",
+              "reading": "せん",
+              "itemId": "vocab-sen"
+            },
+            {
+              "text": "円",
+              "reading": "えん",
+              "itemId": "vocab-en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-en",
+      "type": "vocabulary",
+      "title": "Yen",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-prices",
+      "written": "円",
+      "reading": "えん",
+      "meanings": [
+        "yen"
+      ],
+      "partOfSpeech": "counter",
+      "examples": [
+        {
+          "japanese": "このりんごは百円です。",
+          "translation": "This apple is one hundred yen.",
+          "ruby": [
+            {
+              "text": "百",
+              "reading": "ひゃく",
+              "itemId": "vocab-hyaku"
+            },
+            {
+              "text": "円",
+              "reading": "えん",
+              "itemId": "vocab-en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-ikura",
+      "type": "vocabulary",
+      "title": "How much (price)",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-prices",
+      "written": "いくら",
+      "reading": "いくら",
+      "meanings": [
+        "how much (price)"
+      ],
+      "partOfSpeech": "question word",
+      "examples": [
+        {
+          "japanese": "この本はいくらですか。",
+          "translation": "How much is this book?",
+          "ruby": [
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-pan",
+      "type": "vocabulary",
+      "title": "Bread",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-prices",
+      "written": "パン",
+      "reading": "パン",
+      "meanings": [
+        "bread"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "このパンは百円です。",
+          "translation": "This bread is one hundred yen.",
+          "ruby": [
+            {
+              "text": "百",
+              "reading": "ひゃく",
+              "itemId": "vocab-hyaku"
+            },
+            {
+              "text": "円",
+              "reading": "えん",
+              "itemId": "vocab-en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-ringo",
+      "type": "vocabulary",
+      "title": "Apple",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 5,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-prices",
+      "written": "りんご",
+      "reading": "りんご",
+      "meanings": [
+        "apple"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "このりんごは百円です。",
+          "translation": "This apple is one hundred yen.",
+          "ruby": [
+            {
+              "text": "百",
+              "reading": "ひゃく",
+              "itemId": "vocab-hyaku"
+            },
+            {
+              "text": "円",
+              "reading": "えん",
+              "itemId": "vocab-en"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "src": "audio/vocab-ringo.wav",
+        "kind": "synthesized",
+        "transcript": "りんご",
+        "ruby": [],
+        "speechText": "りんご",
+        "voice": "Microsoft Haruka Desktop (ja-JP)"
+      }
+    },
+    {
+      "id": "vocab-nanji",
+      "type": "vocabulary",
+      "title": "What time",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 5,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-clock-time",
+      "written": "何時",
+      "reading": "なんじ",
+      "meanings": [
+        "what time"
+      ],
+      "partOfSpeech": "question word",
+      "examples": [
+        {
+          "japanese": "今は何時ですか。",
+          "translation": "What time is it now?",
+          "ruby": [
+            {
+              "text": "今",
+              "reading": "いま",
+              "itemId": "vocab-ima"
+            },
+            {
+              "text": "何時",
+              "reading": "なんじ",
+              "itemId": "vocab-nanji"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "src": "audio/vocab-nanji.wav",
+        "kind": "synthesized",
+        "transcript": "何時",
+        "ruby": [
+          {
+            "text": "何時",
+            "reading": "なんじ",
+            "itemId": "vocab-nanji"
+          }
+        ],
+        "speechText": "なんじ",
+        "voice": "Microsoft Haruka Desktop (ja-JP)"
+      }
+    },
+    {
+      "id": "vocab-ji",
+      "type": "vocabulary",
+      "title": "O’clock (after an hour number)",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-clock-time",
+      "written": "時",
+      "reading": "じ",
+      "meanings": [
+        "o’clock (after an hour number)"
+      ],
+      "partOfSpeech": "counter",
+      "examples": [
+        {
+          "japanese": "今は四時です。",
+          "translation": "It is four o’clock now.",
+          "ruby": [
+            {
+              "text": "今",
+              "reading": "いま",
+              "itemId": "vocab-ima"
+            },
+            {
+              "text": "四時",
+              "reading": "よじ",
+              "itemId": "vocab-ji"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-han",
+      "type": "vocabulary",
+      "title": "Half (past an hour)",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-clock-time",
+      "written": "半",
+      "reading": "はん",
+      "meanings": [
+        "half (past an hour)"
+      ],
+      "partOfSpeech": "suffix",
+      "examples": [
+        {
+          "japanese": "今は七時半です。",
+          "translation": "It is half past seven now.",
+          "ruby": [
+            {
+              "text": "今",
+              "reading": "いま",
+              "itemId": "vocab-ima"
+            },
+            {
+              "text": "七時",
+              "reading": "しちじ",
+              "itemId": "vocab-ji"
+            },
+            {
+              "text": "半",
+              "reading": "はん",
+              "itemId": "vocab-han"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-gozen",
+      "type": "vocabulary",
+      "title": "A.m.; morning (before noon)",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-clock-time",
+      "written": "午前",
+      "reading": "ごぜん",
+      "meanings": [
+        "a.m.; morning (before noon)"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "今は午前九時です。",
+          "translation": "It is nine a.m. now.",
+          "ruby": [
+            {
+              "text": "今",
+              "reading": "いま",
+              "itemId": "vocab-ima"
+            },
+            {
+              "text": "午前",
+              "reading": "ごぜん",
+              "itemId": "vocab-gozen"
+            },
+            {
+              "text": "九時",
+              "reading": "くじ",
+              "itemId": "vocab-ji"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-gogo",
+      "type": "vocabulary",
+      "title": "P.m.; afternoon",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-clock-time",
+      "written": "午後",
+      "reading": "ごご",
+      "meanings": [
+        "p.m.; afternoon"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "今は午後四時です。",
+          "translation": "It is four p.m. now.",
+          "ruby": [
+            {
+              "text": "今",
+              "reading": "いま",
+              "itemId": "vocab-ima"
+            },
+            {
+              "text": "午後",
+              "reading": "ごご",
+              "itemId": "vocab-gogo"
+            },
+            {
+              "text": "四時",
+              "reading": "よじ",
+              "itemId": "vocab-ji"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-kyou",
+      "type": "vocabulary",
+      "title": "Today",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-weekdays",
+      "written": "今日",
+      "reading": "きょう",
+      "meanings": [
+        "today"
+      ],
+      "partOfSpeech": "time noun",
+      "examples": [
+        {
+          "japanese": "今日は月曜日です。",
+          "translation": "Today is Monday.",
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう",
+              "itemId": "vocab-kyou"
+            },
+            {
+              "text": "月曜日",
+              "reading": "げつようび",
+              "itemId": "vocab-getsuyoubi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-ashita",
+      "type": "vocabulary",
+      "title": "Tomorrow",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-weekdays",
+      "written": "明日",
+      "reading": "あした",
+      "meanings": [
+        "tomorrow"
+      ],
+      "partOfSpeech": "time noun",
+      "examples": [
+        {
+          "japanese": "明日は火曜日です。",
+          "translation": "Tomorrow is Tuesday.",
+          "ruby": [
+            {
+              "text": "明日",
+              "reading": "あした",
+              "itemId": "vocab-ashita"
+            },
+            {
+              "text": "火曜日",
+              "reading": "かようび",
+              "itemId": "vocab-kayoubi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-getsuyoubi",
+      "type": "vocabulary",
+      "title": "Monday",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 5,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-weekdays",
+      "written": "月曜日",
+      "reading": "げつようび",
+      "meanings": [
+        "Monday"
+      ],
+      "partOfSpeech": "time noun",
+      "examples": [
+        {
+          "japanese": "今日は月曜日です。",
+          "translation": "Today is Monday.",
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう",
+              "itemId": "vocab-kyou"
+            },
+            {
+              "text": "月曜日",
+              "reading": "げつようび",
+              "itemId": "vocab-getsuyoubi"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "src": "audio/vocab-getsuyoubi.wav",
+        "kind": "synthesized",
+        "transcript": "月曜日",
+        "ruby": [
+          {
+            "text": "月曜日",
+            "reading": "げつようび",
+            "itemId": "vocab-getsuyoubi"
+          }
+        ],
+        "speechText": "げつようび",
+        "voice": "Microsoft Haruka Desktop (ja-JP)"
+      }
+    },
+    {
+      "id": "vocab-kayoubi",
+      "type": "vocabulary",
+      "title": "Tuesday",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-weekdays",
+      "written": "火曜日",
+      "reading": "かようび",
+      "meanings": [
+        "Tuesday"
+      ],
+      "partOfSpeech": "time noun",
+      "examples": [
+        {
+          "japanese": "今日は火曜日です。",
+          "translation": "Today is Tuesday.",
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう",
+              "itemId": "vocab-kyou"
+            },
+            {
+              "text": "火曜日",
+              "reading": "かようび",
+              "itemId": "vocab-kayoubi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-suiyoubi",
+      "type": "vocabulary",
+      "title": "Wednesday",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-weekdays",
+      "written": "水曜日",
+      "reading": "すいようび",
+      "meanings": [
+        "Wednesday"
+      ],
+      "partOfSpeech": "time noun",
+      "examples": [
+        {
+          "japanese": "今日は水曜日です。",
+          "translation": "Today is Wednesday.",
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう",
+              "itemId": "vocab-kyou"
+            },
+            {
+              "text": "水曜日",
+              "reading": "すいようび",
+              "itemId": "vocab-suiyoubi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-mokuyoubi",
+      "type": "vocabulary",
+      "title": "Thursday",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-weekdays",
+      "written": "木曜日",
+      "reading": "もくようび",
+      "meanings": [
+        "Thursday"
+      ],
+      "partOfSpeech": "time noun",
+      "examples": [
+        {
+          "japanese": "今日は木曜日です。",
+          "translation": "Today is Thursday.",
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう",
+              "itemId": "vocab-kyou"
+            },
+            {
+              "text": "木曜日",
+              "reading": "もくようび",
+              "itemId": "vocab-mokuyoubi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-kinyoubi",
+      "type": "vocabulary",
+      "title": "Friday",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-weekdays",
+      "written": "金曜日",
+      "reading": "きんようび",
+      "meanings": [
+        "Friday"
+      ],
+      "partOfSpeech": "time noun",
+      "examples": [
+        {
+          "japanese": "今日は金曜日です。",
+          "translation": "Today is Friday.",
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう",
+              "itemId": "vocab-kyou"
+            },
+            {
+              "text": "金曜日",
+              "reading": "きんようび",
+              "itemId": "vocab-kinyoubi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-doyoubi",
+      "type": "vocabulary",
+      "title": "Saturday",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-weekdays",
+      "written": "土曜日",
+      "reading": "どようび",
+      "meanings": [
+        "Saturday"
+      ],
+      "partOfSpeech": "time noun",
+      "examples": [
+        {
+          "japanese": "今日は土曜日です。",
+          "translation": "Today is Saturday.",
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう",
+              "itemId": "vocab-kyou"
+            },
+            {
+              "text": "土曜日",
+              "reading": "どようび",
+              "itemId": "vocab-doyoubi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-nichiyoubi",
+      "type": "vocabulary",
+      "title": "Sunday",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-weekdays",
+      "written": "日曜日",
+      "reading": "にちようび",
+      "meanings": [
+        "Sunday"
+      ],
+      "partOfSpeech": "time noun",
+      "examples": [
+        {
+          "japanese": "今日は日曜日です。",
+          "translation": "Today is Sunday.",
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう",
+              "itemId": "vocab-kyou"
+            },
+            {
+              "text": "日曜日",
+              "reading": "にちようび",
+              "itemId": "vocab-nichiyoubi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-nanyoubi",
+      "type": "vocabulary",
+      "title": "What day of the week",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-weekdays",
+      "written": "何曜日",
+      "reading": "なんようび",
+      "meanings": [
+        "what day of the week"
+      ],
+      "partOfSpeech": "question word",
+      "examples": [
+        {
+          "japanese": "今日は何曜日ですか。",
+          "translation": "What day of the week is it today?",
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう",
+              "itemId": "vocab-kyou"
+            },
+            {
+              "text": "何曜日",
+              "reading": "なんようび",
+              "itemId": "vocab-nanyoubi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-shigatsu",
+      "type": "vocabulary",
+      "title": "April",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-dates",
+      "written": "四月",
+      "reading": "しがつ",
+      "meanings": [
+        "April"
+      ],
+      "partOfSpeech": "time noun",
+      "examples": [
+        {
+          "japanese": "今日は四月一日です。",
+          "translation": "Today is the first of April.",
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう",
+              "itemId": "vocab-kyou"
+            },
+            {
+              "text": "四月",
+              "reading": "しがつ",
+              "itemId": "vocab-shigatsu"
+            },
+            {
+              "text": "一日",
+              "reading": "ついたち",
+              "itemId": "vocab-tsuitachi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-shichigatsu",
+      "type": "vocabulary",
+      "title": "July",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-dates",
+      "written": "七月",
+      "reading": "しちがつ",
+      "meanings": [
+        "July"
+      ],
+      "partOfSpeech": "time noun",
+      "examples": [
+        {
+          "japanese": "今日は七月一日です。",
+          "translation": "Today is the first of July.",
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう",
+              "itemId": "vocab-kyou"
+            },
+            {
+              "text": "七月",
+              "reading": "しちがつ",
+              "itemId": "vocab-shichigatsu"
+            },
+            {
+              "text": "一日",
+              "reading": "ついたち",
+              "itemId": "vocab-tsuitachi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-kugatsu",
+      "type": "vocabulary",
+      "title": "September",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-dates",
+      "written": "九月",
+      "reading": "くがつ",
+      "meanings": [
+        "September"
+      ],
+      "partOfSpeech": "time noun",
+      "examples": [
+        {
+          "japanese": "今日は九月一日です。",
+          "translation": "Today is the first of September.",
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう",
+              "itemId": "vocab-kyou"
+            },
+            {
+              "text": "九月",
+              "reading": "くがつ",
+              "itemId": "vocab-kugatsu"
+            },
+            {
+              "text": "一日",
+              "reading": "ついたち",
+              "itemId": "vocab-tsuitachi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-tsuitachi",
+      "type": "vocabulary",
+      "title": "The first day of the month",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-dates",
+      "written": "一日",
+      "reading": "ついたち",
+      "meanings": [
+        "the first day of the month"
+      ],
+      "partOfSpeech": "time noun",
+      "examples": [
+        {
+          "japanese": "今日は四月一日です。",
+          "translation": "Today is the first day of the month in April.",
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう",
+              "itemId": "vocab-kyou"
+            },
+            {
+              "text": "四月",
+              "reading": "しがつ",
+              "itemId": "vocab-shigatsu"
+            },
+            {
+              "text": "一日",
+              "reading": "ついたち",
+              "itemId": "vocab-tsuitachi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-futsuka",
+      "type": "vocabulary",
+      "title": "The second day of the month",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-dates",
+      "written": "二日",
+      "reading": "ふつか",
+      "meanings": [
+        "the second day of the month"
+      ],
+      "partOfSpeech": "time noun",
+      "examples": [
+        {
+          "japanese": "今日は四月二日です。",
+          "translation": "Today is the second day of the month in April.",
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう",
+              "itemId": "vocab-kyou"
+            },
+            {
+              "text": "四月",
+              "reading": "しがつ",
+              "itemId": "vocab-shigatsu"
+            },
+            {
+              "text": "二日",
+              "reading": "ふつか",
+              "itemId": "vocab-futsuka"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-mikka",
+      "type": "vocabulary",
+      "title": "The third day of the month",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-dates",
+      "written": "三日",
+      "reading": "みっか",
+      "meanings": [
+        "the third day of the month"
+      ],
+      "partOfSpeech": "time noun",
+      "examples": [
+        {
+          "japanese": "今日は四月三日です。",
+          "translation": "Today is the third day of the month in April.",
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう",
+              "itemId": "vocab-kyou"
+            },
+            {
+              "text": "四月",
+              "reading": "しがつ",
+              "itemId": "vocab-shigatsu"
+            },
+            {
+              "text": "三日",
+              "reading": "みっか",
+              "itemId": "vocab-mikka"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-yokka",
+      "type": "vocabulary",
+      "title": "The fourth day of the month",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-dates",
+      "written": "四日",
+      "reading": "よっか",
+      "meanings": [
+        "the fourth day of the month"
+      ],
+      "partOfSpeech": "time noun",
+      "examples": [
+        {
+          "japanese": "今日は四月四日です。",
+          "translation": "Today is the fourth day of the month in April.",
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう",
+              "itemId": "vocab-kyou"
+            },
+            {
+              "text": "四月",
+              "reading": "しがつ",
+              "itemId": "vocab-shigatsu"
+            },
+            {
+              "text": "四日",
+              "reading": "よっか",
+              "itemId": "vocab-yokka"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-tooka",
+      "type": "vocabulary",
+      "title": "The tenth day of the month",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-dates",
+      "written": "十日",
+      "reading": "とおか",
+      "meanings": [
+        "the tenth day of the month"
+      ],
+      "partOfSpeech": "time noun",
+      "examples": [
+        {
+          "japanese": "今日は四月十日です。",
+          "translation": "Today is the tenth day of the month in April.",
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう",
+              "itemId": "vocab-kyou"
+            },
+            {
+              "text": "四月",
+              "reading": "しがつ",
+              "itemId": "vocab-shigatsu"
+            },
+            {
+              "text": "十日",
+              "reading": "とおか",
+              "itemId": "vocab-tooka"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-hatsuka",
+      "type": "vocabulary",
+      "title": "The twentieth day of the month",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 5,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-dates",
+      "written": "二十日",
+      "reading": "はつか",
+      "meanings": [
+        "the twentieth day of the month"
+      ],
+      "partOfSpeech": "time noun",
+      "examples": [
+        {
+          "japanese": "今日は四月二十日です。",
+          "translation": "Today is the twentieth day of the month in April.",
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう",
+              "itemId": "vocab-kyou"
+            },
+            {
+              "text": "四月",
+              "reading": "しがつ",
+              "itemId": "vocab-shigatsu"
+            },
+            {
+              "text": "二十日",
+              "reading": "はつか",
+              "itemId": "vocab-hatsuka"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "src": "audio/vocab-hatsuka.wav",
+        "kind": "synthesized",
+        "transcript": "二十日",
+        "ruby": [
+          {
+            "text": "二十日",
+            "reading": "はつか",
+            "itemId": "vocab-hatsuka"
+          }
+        ],
+        "speechText": "はつか",
+        "voice": "Microsoft Haruka Desktop (ja-JP)"
+      }
+    },
+    {
+      "id": "vocab-nangatsu",
+      "type": "vocabulary",
+      "title": "What month",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-dates",
+      "written": "何月",
+      "reading": "なんがつ",
+      "meanings": [
+        "what month"
+      ],
+      "partOfSpeech": "question word",
+      "examples": [
+        {
+          "japanese": "今は何月ですか。",
+          "translation": "What month is it now?",
+          "ruby": [
+            {
+              "text": "今",
+              "reading": "いま",
+              "itemId": "vocab-ima"
+            },
+            {
+              "text": "何月",
+              "reading": "なんがつ",
+              "itemId": "vocab-nangatsu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-nannichi",
+      "type": "vocabulary",
+      "title": "What day of the month",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-dates",
+      "written": "何日",
+      "reading": "なんにち",
+      "meanings": [
+        "what day of the month"
+      ],
+      "partOfSpeech": "question word",
+      "examples": [
+        {
+          "japanese": "今日は何日ですか。",
+          "translation": "What day of the month is it today?",
+          "ruby": [
+            {
+              "text": "今日",
+              "reading": "きょう",
+              "itemId": "vocab-kyou"
+            },
+            {
+              "text": "何日",
+              "reading": "なんにち",
+              "itemId": "vocab-nannichi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-yomu",
+      "type": "vocabulary",
+      "title": "Read",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "daily-actions"
+      ],
+      "prerequisites": [],
+      "revision": 5,
+      "unitId": "unit-daily-actions",
+      "lessonId": "lesson-reading-and-actions",
+      "written": "読む",
+      "reading": "よむ",
+      "meanings": [
+        "read"
+      ],
+      "partOfSpeech": "verb",
+      "examples": [
+        {
+          "japanese": "日本語の本を読みます。",
+          "translation": "I read a Japanese-language book.",
+          "ruby": [
+            {
+              "text": "日本語",
+              "reading": "にほんご",
+              "itemId": "vocab-nihongo"
+            },
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            },
+            {
+              "text": "読みます",
+              "reading": "よみます",
+              "itemId": "vocab-yomu"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "src": "audio/vocab-yomu.wav",
+        "kind": "synthesized",
+        "transcript": "読む",
+        "ruby": [
+          {
+            "text": "読む",
+            "reading": "よむ",
+            "itemId": "vocab-yomu"
+          }
+        ],
+        "speechText": "よむ",
+        "voice": "Microsoft Haruka Desktop (ja-JP)"
+      }
+    },
+    {
+      "id": "vocab-miru",
+      "type": "vocabulary",
+      "title": "See; watch",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "daily-actions"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-daily-actions",
+      "lessonId": "lesson-reading-and-actions",
+      "written": "見る",
+      "reading": "みる",
+      "meanings": [
+        "see; watch"
+      ],
+      "partOfSpeech": "verb",
+      "examples": [
+        {
+          "japanese": "テレビを見ます。",
+          "translation": "I watch television.",
+          "ruby": [
+            {
+              "text": "見ます",
+              "reading": "みます",
+              "itemId": "vocab-miru"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-kiku",
+      "type": "vocabulary",
+      "title": "Listen; hear",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "daily-actions"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-daily-actions",
+      "lessonId": "lesson-reading-and-actions",
+      "written": "聞く",
+      "reading": "きく",
+      "meanings": [
+        "listen; hear"
+      ],
+      "partOfSpeech": "verb",
+      "examples": [
+        {
+          "japanese": "日本語を聞きます。",
+          "translation": "I listen to Japanese.",
+          "ruby": [
+            {
+              "text": "日本語",
+              "reading": "にほんご",
+              "itemId": "vocab-nihongo"
+            },
+            {
+              "text": "聞きます",
+              "reading": "ききます",
+              "itemId": "vocab-kiku"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-benkyou",
+      "type": "vocabulary",
+      "title": "Study",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "daily-actions"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-daily-actions",
+      "lessonId": "lesson-reading-and-actions",
+      "written": "勉強する",
+      "reading": "べんきょうする",
+      "meanings": [
+        "study"
+      ],
+      "partOfSpeech": "verb",
+      "examples": [
+        {
+          "japanese": "日本語を勉強します。",
+          "translation": "I study Japanese.",
+          "ruby": [
+            {
+              "text": "日本語",
+              "reading": "にほんご",
+              "itemId": "vocab-nihongo"
+            },
+            {
+              "text": "勉強します",
+              "reading": "べんきょうします",
+              "itemId": "vocab-benkyou"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-terebi",
+      "type": "vocabulary",
+      "title": "Television",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "daily-actions"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-daily-actions",
+      "lessonId": "lesson-reading-and-actions",
+      "written": "テレビ",
+      "reading": "テレビ",
+      "meanings": [
+        "television"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "テレビを見ます。",
+          "translation": "I watch television.",
+          "ruby": [
+            {
+              "text": "見ます",
+              "reading": "みます",
+              "itemId": "vocab-miru"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-taberu",
+      "type": "vocabulary",
+      "title": "Eat",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "daily-actions"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-daily-actions",
+      "lessonId": "lesson-food-and-drink",
+      "written": "食べる",
+      "reading": "たべる",
+      "meanings": [
+        "eat"
+      ],
+      "partOfSpeech": "verb",
+      "examples": [
+        {
+          "japanese": "パンを食べます。",
+          "translation": "I eat bread.",
+          "ruby": [
+            {
+              "text": "食べます",
+              "reading": "たべます",
+              "itemId": "vocab-taberu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-nomu",
+      "type": "vocabulary",
+      "title": "Drink",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "daily-actions"
+      ],
+      "prerequisites": [],
+      "revision": 5,
+      "unitId": "unit-daily-actions",
+      "lessonId": "lesson-food-and-drink",
+      "written": "飲む",
+      "reading": "のむ",
+      "meanings": [
+        "drink"
+      ],
+      "partOfSpeech": "verb",
+      "examples": [
+        {
+          "japanese": "水を飲みます。",
+          "translation": "I drink water.",
+          "ruby": [
+            {
+              "text": "水",
+              "reading": "みず",
+              "itemId": "vocab-mizu"
+            },
+            {
+              "text": "飲みます",
+              "reading": "のみます",
+              "itemId": "vocab-nomu"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "src": "audio/vocab-nomu.wav",
+        "kind": "synthesized",
+        "transcript": "飲む",
+        "ruby": [
+          {
+            "text": "飲む",
+            "reading": "のむ",
+            "itemId": "vocab-nomu"
+          }
+        ],
+        "speechText": "のむ",
+        "voice": "Microsoft Haruka Desktop (ja-JP)"
+      }
+    },
+    {
+      "id": "vocab-gohan",
+      "type": "vocabulary",
+      "title": "Cooked rice; meal",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "daily-actions"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-daily-actions",
+      "lessonId": "lesson-food-and-drink",
+      "written": "ごはん",
+      "reading": "ごはん",
+      "meanings": [
+        "cooked rice; meal"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "ごはんを食べます。",
+          "translation": "I eat rice.",
+          "ruby": [
+            {
+              "text": "食べます",
+              "reading": "たべます",
+              "itemId": "vocab-taberu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-ocha",
+      "type": "vocabulary",
+      "title": "Tea",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "daily-actions"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-daily-actions",
+      "lessonId": "lesson-food-and-drink",
+      "written": "お茶",
+      "reading": "おちゃ",
+      "meanings": [
+        "tea"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "お茶を飲みます。",
+          "translation": "I drink tea.",
+          "ruby": [
+            {
+              "text": "お茶",
+              "reading": "おちゃ",
+              "itemId": "vocab-ocha"
+            },
+            {
+              "text": "飲みます",
+              "reading": "のみます",
+              "itemId": "vocab-nomu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-koohii",
+      "type": "vocabulary",
+      "title": "Coffee",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "daily-actions"
+      ],
+      "prerequisites": [],
+      "revision": 5,
+      "unitId": "unit-daily-actions",
+      "lessonId": "lesson-food-and-drink",
+      "written": "コーヒー",
+      "reading": "コーヒー",
+      "meanings": [
+        "coffee"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "コーヒーを飲みます。",
+          "translation": "I drink coffee.",
+          "ruby": [
+            {
+              "text": "飲みます",
+              "reading": "のみます",
+              "itemId": "vocab-nomu"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "src": "audio/vocab-koohii.wav",
+        "kind": "synthesized",
+        "transcript": "コーヒー",
+        "ruby": [],
+        "speechText": "コーヒー",
+        "voice": "Microsoft Haruka Desktop (ja-JP)"
+      }
+    },
+    {
+      "id": "vocab-iku",
+      "type": "vocabulary",
+      "title": "Go",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "daily-actions"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-daily-actions",
+      "lessonId": "lesson-going-places",
+      "written": "行く",
+      "reading": "いく",
+      "meanings": [
+        "go"
+      ],
+      "partOfSpeech": "verb",
+      "examples": [
+        {
+          "japanese": "九時に学校に行きます。",
+          "translation": "I go to school at nine.",
+          "ruby": [
+            {
+              "text": "九時",
+              "reading": "くじ",
+              "itemId": "vocab-ji"
+            },
+            {
+              "text": "学校",
+              "reading": "がっこう",
+              "itemId": "vocab-gakkou"
+            },
+            {
+              "text": "行きます",
+              "reading": "いきます",
+              "itemId": "vocab-iku"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-kuru",
+      "type": "vocabulary",
+      "title": "Come",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "daily-actions"
+      ],
+      "prerequisites": [],
+      "revision": 5,
+      "unitId": "unit-daily-actions",
+      "lessonId": "lesson-going-places",
+      "written": "来る",
+      "reading": "くる",
+      "meanings": [
+        "come"
+      ],
+      "partOfSpeech": "verb",
+      "examples": [
+        {
+          "japanese": "友達は家に来ます。",
+          "translation": "My friend comes to my house.",
+          "ruby": [
+            {
+              "text": "友達",
+              "reading": "ともだち",
+              "itemId": "vocab-tomodachi"
+            },
+            {
+              "text": "家",
+              "reading": "いえ",
+              "itemId": "vocab-ie"
+            },
+            {
+              "text": "来ます",
+              "reading": "きます",
+              "itemId": "vocab-kuru"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "src": "audio/vocab-kuru.wav",
+        "kind": "synthesized",
+        "transcript": "来る",
+        "ruby": [
+          {
+            "text": "来る",
+            "reading": "くる",
+            "itemId": "vocab-kuru"
+          }
+        ],
+        "speechText": "くる",
+        "voice": "Microsoft Haruka Desktop (ja-JP)"
+      }
+    },
+    {
+      "id": "vocab-kaeru",
+      "type": "vocabulary",
+      "title": "Return (home or to one’s base)",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "daily-actions"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-daily-actions",
+      "lessonId": "lesson-going-places",
+      "written": "帰る",
+      "reading": "かえる",
+      "meanings": [
+        "return (home or to one’s base)"
+      ],
+      "partOfSpeech": "verb",
+      "examples": [
+        {
+          "japanese": "午後四時に家に帰ります。",
+          "translation": "I return home at four p.m.",
+          "ruby": [
+            {
+              "text": "午後",
+              "reading": "ごご",
+              "itemId": "vocab-gogo"
+            },
+            {
+              "text": "四時",
+              "reading": "よじ",
+              "itemId": "vocab-ji"
+            },
+            {
+              "text": "家",
+              "reading": "いえ",
+              "itemId": "vocab-ie"
+            },
+            {
+              "text": "帰ります",
+              "reading": "かえります",
+              "itemId": "vocab-kaeru"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-eki",
+      "type": "vocabulary",
+      "title": "Station",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "daily-actions"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-daily-actions",
+      "lessonId": "lesson-going-places",
+      "written": "駅",
+      "reading": "えき",
+      "meanings": [
+        "station"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "駅に行きます。",
+          "translation": "I go to the station.",
+          "ruby": [
+            {
+              "text": "駅",
+              "reading": "えき",
+              "itemId": "vocab-eki"
+            },
+            {
+              "text": "行きます",
+              "reading": "いきます",
+              "itemId": "vocab-iku"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-ie",
+      "type": "vocabulary",
+      "title": "House; home",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "daily-actions"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-daily-actions",
+      "lessonId": "lesson-going-places",
+      "written": "家",
+      "reading": "いえ",
+      "meanings": [
+        "house; home"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "家に帰ります。",
+          "translation": "I return home.",
+          "ruby": [
+            {
+              "text": "家",
+              "reading": "いえ",
+              "itemId": "vocab-ie"
+            },
+            {
+              "text": "帰ります",
+              "reading": "かえります",
+              "itemId": "vocab-kaeru"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-asa",
+      "type": "vocabulary",
+      "title": "Morning",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "daily-actions"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-daily-actions",
+      "lessonId": "lesson-where-actions-happen",
+      "written": "朝",
+      "reading": "あさ",
+      "meanings": [
+        "morning"
+      ],
+      "partOfSpeech": "time noun",
+      "examples": [
+        {
+          "japanese": "朝、家でごはんを食べます。",
+          "translation": "In the morning, I eat rice at home.",
+          "ruby": [
+            {
+              "text": "朝",
+              "reading": "あさ",
+              "itemId": "vocab-asa"
+            },
+            {
+              "text": "家",
+              "reading": "いえ",
+              "itemId": "vocab-ie"
+            },
+            {
+              "text": "食べます",
+              "reading": "たべます",
+              "itemId": "vocab-taberu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-mainichi",
+      "type": "vocabulary",
+      "title": "Every day",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "daily-actions"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-daily-actions",
+      "lessonId": "lesson-where-actions-happen",
+      "written": "毎日",
+      "reading": "まいにち",
+      "meanings": [
+        "every day"
+      ],
+      "partOfSpeech": "time noun",
+      "examples": [
+        {
+          "japanese": "毎日、学校で日本語を勉強します。",
+          "translation": "I study Japanese at school every day.",
+          "ruby": [
+            {
+              "text": "毎日",
+              "reading": "まいにち",
+              "itemId": "vocab-mainichi"
+            },
+            {
+              "text": "学校",
+              "reading": "がっこう",
+              "itemId": "vocab-gakkou"
+            },
+            {
+              "text": "日本語",
+              "reading": "にほんご",
+              "itemId": "vocab-nihongo"
+            },
+            {
+              "text": "勉強します",
+              "reading": "べんきょうします",
+              "itemId": "vocab-benkyou"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-maiasa",
+      "type": "vocabulary",
+      "title": "Every morning",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "daily-actions"
+      ],
+      "prerequisites": [],
+      "revision": 5,
+      "unitId": "unit-daily-actions",
+      "lessonId": "lesson-where-actions-happen",
+      "written": "毎朝",
+      "reading": "まいあさ",
+      "meanings": [
+        "every morning"
+      ],
+      "partOfSpeech": "time noun",
+      "examples": [
+        {
+          "japanese": "毎朝、お茶を飲みます。",
+          "translation": "I drink tea every morning.",
+          "ruby": [
+            {
+              "text": "毎朝",
+              "reading": "まいあさ",
+              "itemId": "vocab-maiasa"
+            },
+            {
+              "text": "お茶",
+              "reading": "おちゃ",
+              "itemId": "vocab-ocha"
+            },
+            {
+              "text": "飲みます",
+              "reading": "のみます",
+              "itemId": "vocab-nomu"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "src": "audio/vocab-maiasa.wav",
+        "kind": "synthesized",
+        "transcript": "毎朝",
+        "ruby": [
+          {
+            "text": "毎朝",
+            "reading": "まいあさ",
+            "itemId": "vocab-maiasa"
+          }
+        ],
+        "speechText": "まいあさ",
+        "voice": "Microsoft Haruka Desktop (ja-JP)"
+      }
+    },
+    {
+      "id": "vocab-aru",
+      "type": "vocabulary",
+      "title": "Exist; there is (things and plants)",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "existence-and-position"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-existence-and-position",
+      "lessonId": "lesson-things-exist",
+      "written": "ある",
+      "reading": "ある",
+      "meanings": [
+        "exist; there is (things and plants)"
+      ],
+      "partOfSpeech": "verb",
+      "examples": [
+        {
+          "japanese": "部屋に机があります。",
+          "translation": "There is a desk in the room.",
+          "ruby": [
+            {
+              "text": "部屋",
+              "reading": "へや",
+              "itemId": "vocab-heya"
+            },
+            {
+              "text": "机",
+              "reading": "つくえ",
+              "itemId": "vocab-tsukue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-heya",
+      "type": "vocabulary",
+      "title": "Room",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "existence-and-position"
+      ],
+      "prerequisites": [],
+      "revision": 5,
+      "unitId": "unit-existence-and-position",
+      "lessonId": "lesson-things-exist",
+      "written": "部屋",
+      "reading": "へや",
+      "meanings": [
+        "room"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "部屋にいすがあります。",
+          "translation": "There is a chair in the room.",
+          "ruby": [
+            {
+              "text": "部屋",
+              "reading": "へや",
+              "itemId": "vocab-heya"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "src": "audio/vocab-heya.wav",
+        "kind": "synthesized",
+        "transcript": "部屋",
+        "ruby": [
+          {
+            "text": "部屋",
+            "reading": "へや",
+            "itemId": "vocab-heya"
+          }
+        ],
+        "speechText": "へや",
+        "voice": "Microsoft Haruka Desktop (ja-JP)"
+      }
+    },
+    {
+      "id": "vocab-iru",
+      "type": "vocabulary",
+      "title": "Exist; there is (people and animals)",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "existence-and-position"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-existence-and-position",
+      "lessonId": "lesson-people-and-animals",
+      "written": "いる",
+      "reading": "いる",
+      "meanings": [
+        "exist; there is (people and animals)"
+      ],
+      "partOfSpeech": "verb",
+      "examples": [
+        {
+          "japanese": "学校に先生がいます。",
+          "translation": "There is a teacher at school.",
+          "ruby": [
+            {
+              "text": "学校",
+              "reading": "がっこう",
+              "itemId": "vocab-gakkou"
+            },
+            {
+              "text": "先生",
+              "reading": "せんせい",
+              "itemId": "vocab-sensei"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-neko",
+      "type": "vocabulary",
+      "title": "Cat",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "existence-and-position"
+      ],
+      "prerequisites": [],
+      "revision": 5,
+      "unitId": "unit-existence-and-position",
+      "lessonId": "lesson-people-and-animals",
+      "written": "猫",
+      "reading": "ねこ",
+      "meanings": [
+        "cat"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "部屋に猫がいます。",
+          "translation": "There is a cat in the room.",
+          "ruby": [
+            {
+              "text": "部屋",
+              "reading": "へや",
+              "itemId": "vocab-heya"
+            },
+            {
+              "text": "猫",
+              "reading": "ねこ",
+              "itemId": "vocab-neko"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "src": "audio/vocab-neko.wav",
+        "kind": "synthesized",
+        "transcript": "猫",
+        "ruby": [
+          {
+            "text": "猫",
+            "reading": "ねこ",
+            "itemId": "vocab-neko"
+          }
+        ],
+        "speechText": "ねこ",
+        "voice": "Microsoft Haruka Desktop (ja-JP)"
+      }
+    },
+    {
+      "id": "vocab-inu",
+      "type": "vocabulary",
+      "title": "Dog",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "existence-and-position"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-existence-and-position",
+      "lessonId": "lesson-people-and-animals",
+      "written": "犬",
+      "reading": "いぬ",
+      "meanings": [
+        "dog"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "家に犬がいます。",
+          "translation": "There is a dog at home.",
+          "ruby": [
+            {
+              "text": "家",
+              "reading": "いえ",
+              "itemId": "vocab-ie"
+            },
+            {
+              "text": "犬",
+              "reading": "いぬ",
+              "itemId": "vocab-inu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-ue",
+      "type": "vocabulary",
+      "title": "Above; on top",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "existence-and-position"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-existence-and-position",
+      "lessonId": "lesson-positions",
+      "written": "上",
+      "reading": "うえ",
+      "meanings": [
+        "above; on top"
+      ],
+      "partOfSpeech": "position noun",
+      "examples": [
+        {
+          "japanese": "机の上に本があります。",
+          "translation": "There is a book on the desk.",
+          "ruby": [
+            {
+              "text": "机",
+              "reading": "つくえ",
+              "itemId": "vocab-tsukue"
+            },
+            {
+              "text": "上",
+              "reading": "うえ",
+              "itemId": "vocab-ue"
+            },
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-shita",
+      "type": "vocabulary",
+      "title": "Below; under",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "existence-and-position"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-existence-and-position",
+      "lessonId": "lesson-positions",
+      "written": "下",
+      "reading": "した",
+      "meanings": [
+        "below; under"
+      ],
+      "partOfSpeech": "position noun",
+      "examples": [
+        {
+          "japanese": "机の下に猫がいます。",
+          "translation": "There is a cat under the desk.",
+          "ruby": [
+            {
+              "text": "机",
+              "reading": "つくえ",
+              "itemId": "vocab-tsukue"
+            },
+            {
+              "text": "下",
+              "reading": "した",
+              "itemId": "vocab-shita"
+            },
+            {
+              "text": "猫",
+              "reading": "ねこ",
+              "itemId": "vocab-neko"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-naka",
+      "type": "vocabulary",
+      "title": "Inside",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "existence-and-position"
+      ],
+      "prerequisites": [],
+      "revision": 5,
+      "unitId": "unit-existence-and-position",
+      "lessonId": "lesson-positions",
+      "written": "中",
+      "reading": "なか",
+      "meanings": [
+        "inside"
+      ],
+      "partOfSpeech": "position noun",
+      "examples": [
+        {
+          "japanese": "かばんの中にノートがあります。",
+          "translation": "There is a notebook in the bag.",
+          "ruby": [
+            {
+              "text": "中",
+              "reading": "なか",
+              "itemId": "vocab-naka"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "src": "audio/vocab-naka.wav",
+        "kind": "synthesized",
+        "transcript": "中",
+        "ruby": [
+          {
+            "text": "中",
+            "reading": "なか",
+            "itemId": "vocab-naka"
+          }
+        ],
+        "speechText": "なか",
+        "voice": "Microsoft Haruka Desktop (ja-JP)"
+      }
+    },
+    {
+      "id": "vocab-tonari",
+      "type": "vocabulary",
+      "title": "Next to; beside",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "existence-and-position"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-existence-and-position",
+      "lessonId": "lesson-positions",
+      "written": "隣",
+      "reading": "となり",
+      "meanings": [
+        "next to; beside"
+      ],
+      "partOfSpeech": "position noun",
+      "examples": [
+        {
+          "japanese": "銀行の隣に学校があります。",
+          "translation": "There is a school next to the bank.",
+          "ruby": [
+            {
+              "text": "銀行",
+              "reading": "ぎんこう",
+              "itemId": "vocab-ginkou"
+            },
+            {
+              "text": "隣",
+              "reading": "となり",
+              "itemId": "vocab-tonari"
+            },
+            {
+              "text": "学校",
+              "reading": "がっこう",
+              "itemId": "vocab-gakkou"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-ookii",
+      "type": "vocabulary",
+      "title": "Big",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "descriptions-and-routines"
+      ],
+      "prerequisites": [],
+      "revision": 5,
+      "unitId": "unit-descriptions-and-routines",
+      "lessonId": "lesson-describing-things",
+      "written": "大きい",
+      "reading": "おおきい",
+      "meanings": [
+        "big"
+      ],
+      "partOfSpeech": "i-adjective",
+      "examples": [
+        {
+          "japanese": "この机は大きいです。",
+          "translation": "This desk is big.",
+          "ruby": [
+            {
+              "text": "机",
+              "reading": "つくえ",
+              "itemId": "vocab-tsukue"
+            },
+            {
+              "text": "大きい",
+              "reading": "おおきい",
+              "itemId": "vocab-ookii"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "src": "audio/vocab-ookii.wav",
+        "kind": "synthesized",
+        "transcript": "大きい",
+        "ruby": [
+          {
+            "text": "大きい",
+            "reading": "おおきい",
+            "itemId": "vocab-ookii"
+          }
+        ],
+        "speechText": "おおきい",
+        "voice": "Microsoft Haruka Desktop (ja-JP)"
+      }
+    },
+    {
+      "id": "vocab-chiisai",
+      "type": "vocabulary",
+      "title": "Small",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "descriptions-and-routines"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-descriptions-and-routines",
+      "lessonId": "lesson-describing-things",
+      "written": "小さい",
+      "reading": "ちいさい",
+      "meanings": [
+        "small"
+      ],
+      "partOfSpeech": "i-adjective",
+      "examples": [
+        {
+          "japanese": "このかばんは小さいです。",
+          "translation": "This bag is small.",
+          "ruby": [
+            {
+              "text": "小さい",
+              "reading": "ちいさい",
+              "itemId": "vocab-chiisai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-atarashii",
+      "type": "vocabulary",
+      "title": "New",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "descriptions-and-routines"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-descriptions-and-routines",
+      "lessonId": "lesson-describing-things",
+      "written": "新しい",
+      "reading": "あたらしい",
+      "meanings": [
+        "new"
+      ],
+      "partOfSpeech": "i-adjective",
+      "examples": [
+        {
+          "japanese": "この本は新しいです。",
+          "translation": "This book is new.",
+          "ruby": [
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            },
+            {
+              "text": "新しい",
+              "reading": "あたらしい",
+              "itemId": "vocab-atarashii"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-furui",
+      "type": "vocabulary",
+      "title": "Old (things)",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "descriptions-and-routines"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-descriptions-and-routines",
+      "lessonId": "lesson-describing-things",
+      "written": "古い",
+      "reading": "ふるい",
+      "meanings": [
+        "old (things)"
+      ],
+      "partOfSpeech": "i-adjective",
+      "examples": [
+        {
+          "japanese": "あの学校は古いです。",
+          "translation": "That school is old.",
+          "ruby": [
+            {
+              "text": "学校",
+              "reading": "がっこう",
+              "itemId": "vocab-gakkou"
+            },
+            {
+              "text": "古い",
+              "reading": "ふるい",
+              "itemId": "vocab-furui"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-takai",
+      "type": "vocabulary",
+      "title": "Expensive; high",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "descriptions-and-routines"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-descriptions-and-routines",
+      "lessonId": "lesson-describing-things",
+      "written": "高い",
+      "reading": "たかい",
+      "meanings": [
+        "expensive; high"
+      ],
+      "partOfSpeech": "i-adjective",
+      "examples": [
+        {
+          "japanese": "この本は高いです。",
+          "translation": "This book is expensive.",
+          "ruby": [
+            {
+              "text": "本",
+              "reading": "ほん",
+              "itemId": "vocab-hon"
+            },
+            {
+              "text": "高い",
+              "reading": "たかい",
+              "itemId": "vocab-takai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-yasui",
+      "type": "vocabulary",
+      "title": "Inexpensive",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "descriptions-and-routines"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-descriptions-and-routines",
+      "lessonId": "lesson-describing-things",
+      "written": "安い",
+      "reading": "やすい",
+      "meanings": [
+        "inexpensive"
+      ],
+      "partOfSpeech": "i-adjective",
+      "examples": [
+        {
+          "japanese": "このパンは安いです。",
+          "translation": "This bread is inexpensive.",
+          "ruby": [
+            {
+              "text": "安い",
+              "reading": "やすい",
+              "itemId": "vocab-yasui"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-shizuka",
+      "type": "vocabulary",
+      "title": "Quiet",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "descriptions-and-routines"
+      ],
+      "prerequisites": [],
+      "revision": 5,
+      "unitId": "unit-descriptions-and-routines",
+      "lessonId": "lesson-describing-places",
+      "written": "静か",
+      "reading": "しずか",
+      "meanings": [
+        "quiet"
+      ],
+      "partOfSpeech": "na-adjective",
+      "examples": [
+        {
+          "japanese": "この公園は静かです。",
+          "translation": "This park is quiet.",
+          "ruby": [
+            {
+              "text": "公園",
+              "reading": "こうえん",
+              "itemId": "vocab-kouen"
+            },
+            {
+              "text": "静か",
+              "reading": "しずか",
+              "itemId": "vocab-shizuka"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "src": "audio/vocab-shizuka.wav",
+        "kind": "synthesized",
+        "transcript": "静か",
+        "ruby": [
+          {
+            "text": "静か",
+            "reading": "しずか",
+            "itemId": "vocab-shizuka"
+          }
+        ],
+        "speechText": "しずか",
+        "voice": "Microsoft Haruka Desktop (ja-JP)"
+      }
+    },
+    {
+      "id": "vocab-nigiyaka",
+      "type": "vocabulary",
+      "title": "Lively",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "descriptions-and-routines"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-descriptions-and-routines",
+      "lessonId": "lesson-describing-places",
+      "written": "にぎやか",
+      "reading": "にぎやか",
+      "meanings": [
+        "lively"
+      ],
+      "partOfSpeech": "na-adjective",
+      "examples": [
+        {
+          "japanese": "この町はにぎやかです。",
+          "translation": "This town is lively.",
+          "ruby": [
+            {
+              "text": "町",
+              "reading": "まち",
+              "itemId": "vocab-machi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-kirei",
+      "type": "vocabulary",
+      "title": "Beautiful; clean",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "descriptions-and-routines"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-descriptions-and-routines",
+      "lessonId": "lesson-describing-places",
+      "written": "きれい",
+      "reading": "きれい",
+      "meanings": [
+        "beautiful; clean"
+      ],
+      "partOfSpeech": "na-adjective",
+      "examples": [
+        {
+          "japanese": "この部屋はきれいです。",
+          "translation": "This room is clean.",
+          "ruby": [
+            {
+              "text": "部屋",
+              "reading": "へや",
+              "itemId": "vocab-heya"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-benri",
+      "type": "vocabulary",
+      "title": "Convenient",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "descriptions-and-routines"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-descriptions-and-routines",
+      "lessonId": "lesson-describing-places",
+      "written": "便利",
+      "reading": "べんり",
+      "meanings": [
+        "convenient"
+      ],
+      "partOfSpeech": "na-adjective",
+      "examples": [
+        {
+          "japanese": "この図書館は便利です。",
+          "translation": "This library is convenient.",
+          "ruby": [
+            {
+              "text": "図書館",
+              "reading": "としょかん",
+              "itemId": "vocab-toshokan"
+            },
+            {
+              "text": "便利",
+              "reading": "べんり",
+              "itemId": "vocab-benri"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-machi",
+      "type": "vocabulary",
+      "title": "Town",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "descriptions-and-routines"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-descriptions-and-routines",
+      "lessonId": "lesson-describing-places",
+      "written": "町",
+      "reading": "まち",
+      "meanings": [
+        "town"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "この町はにぎやかです。",
+          "translation": "This town is lively.",
+          "ruby": [
+            {
+              "text": "町",
+              "reading": "まち",
+              "itemId": "vocab-machi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-kouen",
+      "type": "vocabulary",
+      "title": "Park",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "descriptions-and-routines"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-descriptions-and-routines",
+      "lessonId": "lesson-describing-places",
+      "written": "公園",
+      "reading": "こうえん",
+      "meanings": [
+        "park"
+      ],
+      "partOfSpeech": "noun",
+      "examples": [
+        {
+          "japanese": "静かな公園です。",
+          "translation": "It is a quiet park.",
+          "ruby": [
+            {
+              "text": "静か",
+              "reading": "しずか",
+              "itemId": "vocab-shizuka"
+            },
+            {
+              "text": "公園",
+              "reading": "こうえん",
+              "itemId": "vocab-kouen"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1152 @@
+{
+  "items": [
+    {
+      "id": "kanji-ichi",
+      "type": "kanji",
+      "title": "一",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "number"
+      ],
+      "prerequisites": [],
+      "revision": 4,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-numbers",
+      "character": "一",
+      "meanings": [
+        "one"
+      ],
+      "onyomi": [
+        "イチ"
+      ],
+      "kunyomi": [
+        "ひと"
+      ],
+      "vocabularyRefs": [
+        "vocab-ichi"
+      ],
+      "strokeOrder": {
+        "source": "seed",
+        "strokes": 1
+      }
+    },
+    {
+      "id": "kanji-nichi",
+      "type": "kanji",
+      "title": "日",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "time"
+      ],
+      "prerequisites": [],
+      "revision": 4,
+      "unitId": "unit-n5-basics",
+      "lessonId": "lesson-first-words",
+      "character": "日",
+      "meanings": [
+        "day; sun"
+      ],
+      "onyomi": [
+        "ニチ",
+        "ジツ"
+      ],
+      "kunyomi": [
+        "ひ",
+        "か"
+      ],
+      "vocabularyRefs": [
+        "vocab-nihon"
+      ]
+    },
+    {
+      "id": "kanji-hon",
+      "type": "kanji",
+      "title": "本",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "object"
+      ],
+      "prerequisites": [],
+      "revision": 4,
+      "unitId": "unit-n5-basics",
+      "lessonId": "lesson-first-words",
+      "character": "本",
+      "meanings": [
+        "book; origin"
+      ],
+      "onyomi": [
+        "ホン"
+      ],
+      "kunyomi": [
+        "もと"
+      ],
+      "vocabularyRefs": [
+        "vocab-hon"
+      ]
+    },
+    {
+      "id": "kanji-jin",
+      "type": "kanji",
+      "title": "人 · person",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "n5-basics"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-n5-basics",
+      "lessonId": "lesson-meeting-people",
+      "character": "人",
+      "meanings": [
+        "person"
+      ],
+      "onyomi": [
+        "ジン",
+        "ニン"
+      ],
+      "kunyomi": [
+        "ひと"
+      ],
+      "vocabularyRefs": [
+        "vocab-nihonjin"
+      ]
+    },
+    {
+      "id": "kanji-sei",
+      "type": "kanji",
+      "title": "生 · life; student in 学生",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "n5-basics"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-n5-basics",
+      "lessonId": "lesson-meeting-people",
+      "character": "生",
+      "meanings": [
+        "life; student in 学生"
+      ],
+      "onyomi": [
+        "セイ",
+        "ショウ"
+      ],
+      "kunyomi": [
+        "い.きる"
+      ],
+      "vocabularyRefs": [
+        "vocab-gakusei",
+        "vocab-sensei"
+      ]
+    },
+    {
+      "id": "kanji-go",
+      "type": "kanji",
+      "title": "語 · language",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "n5-basics"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-n5-basics",
+      "lessonId": "lesson-whose-book",
+      "character": "語",
+      "meanings": [
+        "language"
+      ],
+      "onyomi": [
+        "ゴ"
+      ],
+      "kunyomi": [
+        "かた.る"
+      ],
+      "vocabularyRefs": [
+        "vocab-nihongo"
+      ]
+    },
+    {
+      "id": "kanji-gaku",
+      "type": "kanji",
+      "title": "学 · learning",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "things-and-places"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-things-and-places",
+      "lessonId": "lesson-places",
+      "character": "学",
+      "meanings": [
+        "learning"
+      ],
+      "onyomi": [
+        "ガク"
+      ],
+      "kunyomi": [
+        "まな.ぶ"
+      ],
+      "vocabularyRefs": [
+        "vocab-gakusei",
+        "vocab-gakkou"
+      ]
+    },
+    {
+      "id": "kanji-kou",
+      "type": "kanji",
+      "title": "校 · school",
+      "level": "N5",
+      "difficulty": 1,
+      "tags": [
+        "things-and-places"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-things-and-places",
+      "lessonId": "lesson-places",
+      "character": "校",
+      "meanings": [
+        "school"
+      ],
+      "onyomi": [
+        "コウ"
+      ],
+      "kunyomi": [],
+      "vocabularyRefs": [
+        "vocab-gakkou"
+      ]
+    },
+    {
+      "id": "kanji-ni",
+      "type": "kanji",
+      "title": "二 · two",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-numbers",
+      "character": "二",
+      "meanings": [
+        "two"
+      ],
+      "onyomi": [
+        "ニ"
+      ],
+      "kunyomi": [
+        "ふた"
+      ],
+      "vocabularyRefs": [
+        "vocab-ni"
+      ]
+    },
+    {
+      "id": "kanji-san",
+      "type": "kanji",
+      "title": "三 · three",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-numbers",
+      "character": "三",
+      "meanings": [
+        "three"
+      ],
+      "onyomi": [
+        "サン"
+      ],
+      "kunyomi": [
+        "み"
+      ],
+      "vocabularyRefs": [
+        "vocab-san-number"
+      ]
+    },
+    {
+      "id": "kanji-yon",
+      "type": "kanji",
+      "title": "四 · four",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-numbers",
+      "character": "四",
+      "meanings": [
+        "four"
+      ],
+      "onyomi": [
+        "シ"
+      ],
+      "kunyomi": [
+        "よん",
+        "よ"
+      ],
+      "vocabularyRefs": [
+        "vocab-yon"
+      ]
+    },
+    {
+      "id": "kanji-go-number",
+      "type": "kanji",
+      "title": "五 · five",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-numbers",
+      "character": "五",
+      "meanings": [
+        "five"
+      ],
+      "onyomi": [
+        "ゴ"
+      ],
+      "kunyomi": [
+        "いつ"
+      ],
+      "vocabularyRefs": [
+        "vocab-go"
+      ]
+    },
+    {
+      "id": "kanji-roku",
+      "type": "kanji",
+      "title": "六 · six",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-numbers",
+      "character": "六",
+      "meanings": [
+        "six"
+      ],
+      "onyomi": [
+        "ロク"
+      ],
+      "kunyomi": [
+        "む"
+      ],
+      "vocabularyRefs": [
+        "vocab-roku"
+      ]
+    },
+    {
+      "id": "kanji-nana",
+      "type": "kanji",
+      "title": "七 · seven",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-numbers",
+      "character": "七",
+      "meanings": [
+        "seven"
+      ],
+      "onyomi": [
+        "シチ"
+      ],
+      "kunyomi": [
+        "なな"
+      ],
+      "vocabularyRefs": [
+        "vocab-nana"
+      ]
+    },
+    {
+      "id": "kanji-hachi",
+      "type": "kanji",
+      "title": "八 · eight",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-numbers",
+      "character": "八",
+      "meanings": [
+        "eight"
+      ],
+      "onyomi": [
+        "ハチ"
+      ],
+      "kunyomi": [
+        "や"
+      ],
+      "vocabularyRefs": [
+        "vocab-hachi"
+      ]
+    },
+    {
+      "id": "kanji-kyuu",
+      "type": "kanji",
+      "title": "九 · nine",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-numbers",
+      "character": "九",
+      "meanings": [
+        "nine"
+      ],
+      "onyomi": [
+        "キュウ",
+        "ク"
+      ],
+      "kunyomi": [
+        "ここの"
+      ],
+      "vocabularyRefs": [
+        "vocab-kyuu"
+      ]
+    },
+    {
+      "id": "kanji-juu",
+      "type": "kanji",
+      "title": "十 · ten",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-numbers",
+      "character": "十",
+      "meanings": [
+        "ten"
+      ],
+      "onyomi": [
+        "ジュウ"
+      ],
+      "kunyomi": [
+        "とお"
+      ],
+      "vocabularyRefs": [
+        "vocab-juu"
+      ]
+    },
+    {
+      "id": "kanji-hyaku",
+      "type": "kanji",
+      "title": "百 · hundred",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-prices",
+      "character": "百",
+      "meanings": [
+        "hundred"
+      ],
+      "onyomi": [
+        "ヒャク"
+      ],
+      "kunyomi": [],
+      "vocabularyRefs": [
+        "vocab-hyaku"
+      ]
+    },
+    {
+      "id": "kanji-sen",
+      "type": "kanji",
+      "title": "千 · thousand",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-prices",
+      "character": "千",
+      "meanings": [
+        "thousand"
+      ],
+      "onyomi": [
+        "セン"
+      ],
+      "kunyomi": [],
+      "vocabularyRefs": [
+        "vocab-sen"
+      ]
+    },
+    {
+      "id": "kanji-en",
+      "type": "kanji",
+      "title": "円 · yen; circle",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-prices",
+      "character": "円",
+      "meanings": [
+        "yen; circle"
+      ],
+      "onyomi": [
+        "エン"
+      ],
+      "kunyomi": [],
+      "vocabularyRefs": [
+        "vocab-en"
+      ]
+    },
+    {
+      "id": "kanji-ji",
+      "type": "kanji",
+      "title": "時 · time; hour",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-clock-time",
+      "character": "時",
+      "meanings": [
+        "time; hour"
+      ],
+      "onyomi": [
+        "ジ"
+      ],
+      "kunyomi": [
+        "とき"
+      ],
+      "vocabularyRefs": [
+        "vocab-nanji",
+        "vocab-ji"
+      ]
+    },
+    {
+      "id": "kanji-han",
+      "type": "kanji",
+      "title": "半 · half",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-clock-time",
+      "character": "半",
+      "meanings": [
+        "half"
+      ],
+      "onyomi": [
+        "ハン"
+      ],
+      "kunyomi": [],
+      "vocabularyRefs": [
+        "vocab-han"
+      ]
+    },
+    {
+      "id": "kanji-tsuki",
+      "type": "kanji",
+      "title": "月 · moon; month",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-weekdays",
+      "character": "月",
+      "meanings": [
+        "moon; month"
+      ],
+      "onyomi": [
+        "ゲツ",
+        "ガツ"
+      ],
+      "kunyomi": [
+        "つき"
+      ],
+      "vocabularyRefs": [
+        "vocab-getsuyoubi"
+      ]
+    },
+    {
+      "id": "kanji-hi",
+      "type": "kanji",
+      "title": "火 · fire",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-weekdays",
+      "character": "火",
+      "meanings": [
+        "fire"
+      ],
+      "onyomi": [
+        "カ"
+      ],
+      "kunyomi": [
+        "ひ"
+      ],
+      "vocabularyRefs": [
+        "vocab-kayoubi"
+      ]
+    },
+    {
+      "id": "kanji-mizu",
+      "type": "kanji",
+      "title": "水 · water",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-weekdays",
+      "character": "水",
+      "meanings": [
+        "water"
+      ],
+      "onyomi": [
+        "スイ"
+      ],
+      "kunyomi": [
+        "みず"
+      ],
+      "vocabularyRefs": [
+        "vocab-suiyoubi"
+      ]
+    },
+    {
+      "id": "kanji-ki",
+      "type": "kanji",
+      "title": "木 · tree; wood",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-weekdays",
+      "character": "木",
+      "meanings": [
+        "tree; wood"
+      ],
+      "onyomi": [
+        "モク",
+        "ボク"
+      ],
+      "kunyomi": [
+        "き"
+      ],
+      "vocabularyRefs": [
+        "vocab-mokuyoubi"
+      ]
+    },
+    {
+      "id": "kanji-kane",
+      "type": "kanji",
+      "title": "金 · gold; money",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-weekdays",
+      "character": "金",
+      "meanings": [
+        "gold; money"
+      ],
+      "onyomi": [
+        "キン",
+        "コン"
+      ],
+      "kunyomi": [
+        "かね"
+      ],
+      "vocabularyRefs": [
+        "vocab-kinyoubi"
+      ]
+    },
+    {
+      "id": "kanji-tsuchi",
+      "type": "kanji",
+      "title": "土 · earth; soil",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "numbers-and-time"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-numbers-and-time",
+      "lessonId": "lesson-weekdays",
+      "character": "土",
+      "meanings": [
+        "earth; soil"
+      ],
+      "onyomi": [
+        "ド",
+        "ト"
+      ],
+      "kunyomi": [
+        "つち"
+      ],
+      "vocabularyRefs": [
+        "vocab-doyoubi"
+      ]
+    },
+    {
+      "id": "kanji-yomu",
+      "type": "kanji",
+      "title": "読 · read",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "daily-actions"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-daily-actions",
+      "lessonId": "lesson-reading-and-actions",
+      "character": "読",
+      "meanings": [
+        "read"
+      ],
+      "onyomi": [
+        "ドク"
+      ],
+      "kunyomi": [
+        "よ.む"
+      ],
+      "vocabularyRefs": [
+        "vocab-yomu"
+      ]
+    },
+    {
+      "id": "kanji-miru",
+      "type": "kanji",
+      "title": "見 · see",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "daily-actions"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-daily-actions",
+      "lessonId": "lesson-reading-and-actions",
+      "character": "見",
+      "meanings": [
+        "see"
+      ],
+      "onyomi": [
+        "ケン"
+      ],
+      "kunyomi": [
+        "み.る"
+      ],
+      "vocabularyRefs": [
+        "vocab-miru"
+      ]
+    },
+    {
+      "id": "kanji-kiku",
+      "type": "kanji",
+      "title": "聞 · hear; listen",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "daily-actions"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-daily-actions",
+      "lessonId": "lesson-reading-and-actions",
+      "character": "聞",
+      "meanings": [
+        "hear; listen"
+      ],
+      "onyomi": [
+        "ブン",
+        "モン"
+      ],
+      "kunyomi": [
+        "き.く"
+      ],
+      "vocabularyRefs": [
+        "vocab-kiku"
+      ]
+    },
+    {
+      "id": "kanji-taberu",
+      "type": "kanji",
+      "title": "食 · eat; food",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "daily-actions"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-daily-actions",
+      "lessonId": "lesson-food-and-drink",
+      "character": "食",
+      "meanings": [
+        "eat; food"
+      ],
+      "onyomi": [
+        "ショク"
+      ],
+      "kunyomi": [
+        "た.べる"
+      ],
+      "vocabularyRefs": [
+        "vocab-taberu",
+        "vocab-tabemono"
+      ]
+    },
+    {
+      "id": "kanji-nomu",
+      "type": "kanji",
+      "title": "飲 · drink",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "daily-actions"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-daily-actions",
+      "lessonId": "lesson-food-and-drink",
+      "character": "飲",
+      "meanings": [
+        "drink"
+      ],
+      "onyomi": [
+        "イン"
+      ],
+      "kunyomi": [
+        "の.む"
+      ],
+      "vocabularyRefs": [
+        "vocab-nomu"
+      ]
+    },
+    {
+      "id": "kanji-iku",
+      "type": "kanji",
+      "title": "行 · go",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "daily-actions"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-daily-actions",
+      "lessonId": "lesson-going-places",
+      "character": "行",
+      "meanings": [
+        "go"
+      ],
+      "onyomi": [
+        "コウ",
+        "ギョウ"
+      ],
+      "kunyomi": [
+        "い.く",
+        "ゆ.く"
+      ],
+      "vocabularyRefs": [
+        "vocab-iku"
+      ]
+    },
+    {
+      "id": "kanji-kuru",
+      "type": "kanji",
+      "title": "来 · come",
+      "level": "N5",
+      "difficulty": 2,
+      "tags": [
+        "daily-actions"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-daily-actions",
+      "lessonId": "lesson-going-places",
+      "character": "来",
+      "meanings": [
+        "come"
+      ],
+      "onyomi": [
+        "ライ"
+      ],
+      "kunyomi": [
+        "く.る",
+        "き"
+      ],
+      "vocabularyRefs": [
+        "vocab-kuru"
+      ]
+    },
+    {
+      "id": "kanji-ue",
+      "type": "kanji",
+      "title": "上 · up; above",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "existence-and-position"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-existence-and-position",
+      "lessonId": "lesson-positions",
+      "character": "上",
+      "meanings": [
+        "up; above"
+      ],
+      "onyomi": [
+        "ジョウ"
+      ],
+      "kunyomi": [
+        "うえ"
+      ],
+      "vocabularyRefs": [
+        "vocab-ue"
+      ]
+    },
+    {
+      "id": "kanji-shita",
+      "type": "kanji",
+      "title": "下 · down; below",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "existence-and-position"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-existence-and-position",
+      "lessonId": "lesson-positions",
+      "character": "下",
+      "meanings": [
+        "down; below"
+      ],
+      "onyomi": [
+        "カ",
+        "ゲ"
+      ],
+      "kunyomi": [
+        "した"
+      ],
+      "vocabularyRefs": [
+        "vocab-shita"
+      ]
+    },
+    {
+      "id": "kanji-naka",
+      "type": "kanji",
+      "title": "中 · inside; middle",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "existence-and-position"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-existence-and-position",
+      "lessonId": "lesson-positions",
+      "character": "中",
+      "meanings": [
+        "inside; middle"
+      ],
+      "onyomi": [
+        "チュウ"
+      ],
+      "kunyomi": [
+        "なか"
+      ],
+      "vocabularyRefs": [
+        "vocab-naka"
+      ]
+    },
+    {
+      "id": "kanji-ookii",
+      "type": "kanji",
+      "title": "大 · big",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "descriptions-and-routines"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-descriptions-and-routines",
+      "lessonId": "lesson-describing-things",
+      "character": "大",
+      "meanings": [
+        "big"
+      ],
+      "onyomi": [
+        "ダイ",
+        "タイ"
+      ],
+      "kunyomi": [
+        "おお.きい"
+      ],
+      "vocabularyRefs": [
+        "vocab-ookii"
+      ]
+    },
+    {
+      "id": "kanji-chiisai",
+      "type": "kanji",
+      "title": "小 · small",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "descriptions-and-routines"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-descriptions-and-routines",
+      "lessonId": "lesson-describing-things",
+      "character": "小",
+      "meanings": [
+        "small"
+      ],
+      "onyomi": [
+        "ショウ"
+      ],
+      "kunyomi": [
+        "ちい.さい"
+      ],
+      "vocabularyRefs": [
+        "vocab-chiisai"
+      ]
+    },
+    {
+      "id": "kanji-atarashii",
+      "type": "kanji",
+      "title": "新 · new",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "descriptions-and-routines"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-descriptions-and-routines",
+      "lessonId": "lesson-describing-things",
+      "character": "新",
+      "meanings": [
+        "new"
+      ],
+      "onyomi": [
+        "シン"
+      ],
+      "kunyomi": [
+        "あたら.しい"
+      ],
+      "vocabularyRefs": [
+        "vocab-atarashii"
+      ]
+    },
+    {
+      "id": "kanji-furui",
+      "type": "kanji",
+      "title": "古 · old",
+      "level": "N5",
+      "difficulty": 3,
+      "tags": [
+        "descriptions-and-routines"
+      ],
+      "prerequisites": [],
+      "revision": 1,
+      "unitId": "unit-descriptions-and-routines",
+      "lessonId": "lesson-describing-things",
+      "character": "古",
+      "meanings": [
+        "old"
+      ],
+      "onyomi": [
+        "コ"
+      ],
+      "kunyomi": [
+        "ふる.い"
+      ],
+      "vocabularyRefs": [
+        "vocab-furui"
+      ]
+    }
+  ]
+}

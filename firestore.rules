@@ -1,0 +1,15 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // All private data is owned by the authenticated UID at users/{uid}/**.
+    match /users/{uid}/{document=**} {
+      allow read, write: if request.auth != null && request.auth.uid == uid;
+    }
+
+    // No other data is public or mutable from this client. Curriculum/admin
+    // content requires a trusted deployment path or server-side Admin SDK.
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}
